@@ -1,0 +1,1296 @@
+series,episode,baker,result,signature_handshake,technical,showstopper_handshake,signature,signature_ingredients,showstopper,showstopper_ingredients
+3,1,Brendan,IN,No,10,No,,,,
+3,1,Cathryn,IN,No,5,No,,,,
+3,1,Danny,IN,No,7,No,,,,
+3,1,James,IN,No,2,No,,,,
+3,1,John,IN,No,11,No,,,,
+3,1,Manisha,IN,No,6,No,,,,
+3,1,Natasha,OUT,No,12,No,,,,
+3,1,Peter,IN,No,3,No,,,,
+3,1,Ryan,IN,No,8,No,,,,
+3,1,Sarah-Jane,IN,No,1,No,,,,
+3,1,Stuart,IN,No,9,No,,,,
+3,1,Victoria,STAR BAKER,No,4,No,,,,
+3,2,Brendan,IN,No,4,No,,,,
+3,2,Cathryn,IN,No,8,No,,,,
+3,2,Danny,IN,No,3,No,,,,
+3,2,James,IN,No,2,No,,,,
+3,2,John,STAR BAKER,No,1,No,,,,
+3,2,Manisha,IN,No,6,No,,,,
+3,2,Natasha,NA,NA,NA,NA,,,,
+3,2,Peter,OUT,No,11,No,,,,
+3,2,Ryan,IN,No,5,No,,,,
+3,2,Sarah-Jane,IN,No,10,No,,,,
+3,2,Stuart,IN,No,9,No,,,,
+3,2,Victoria,IN,No,7,No,,,,
+3,3,Brendan,IN,No,9,No,,,,
+3,3,Cathryn,IN,No,3,No,,,,
+3,3,Danny,IN,No,2,No,,,,
+3,3,James,STAR BAKER,No,1,No,,,,
+3,3,John,IN,No,6,No,,,,
+3,3,Manisha,IN,No,10,No,,,,
+3,3,Natasha,NA,NA,NA,NA,,,,
+3,3,Peter,NA,NA,NA,NA,,,,
+3,3,Ryan,IN,No,5,No,,,,
+3,3,Sarah-Jane,IN,No,8,No,,,,
+3,3,Stuart,IN,No,7,No,,,,
+3,3,Victoria,OUT,No,4,No,,,,
+3,4,Brendan,STAR BAKER,No,1,No,,,,
+3,4,Cathryn,IN,No,3,No,,,,
+3,4,Danny,IN,No,2,No,,,,
+3,4,James,IN,No,5,No,,,,
+3,4,John,IN,No,6,No,,,,
+3,4,Manisha,IN,No,9,No,,,,
+3,4,Natasha,NA,NA,NA,NA,,,,
+3,4,Peter,NA,NA,NA,NA,,,,
+3,4,Ryan,IN,No,7,No,,,,
+3,4,Sarah-Jane,IN,No,4,No,,,,
+3,4,Stuart,OUT,No,8,No,,,,
+3,4,Victoria,NA,NA,NA,NA,,,,
+3,5,Brendan,IN,No,3,No,,,,
+3,5,Cathryn,IN,No,1,No,,,,
+3,5,Danny,IN,No,7,No,,,,
+3,5,James,IN,No,6,No,,,,
+3,5,John,IN,No,2,No,,,,
+3,5,Manisha,OUT,No,5,No,,,,
+3,5,Natasha,NA,NA,NA,NA,,,,
+3,5,Peter,NA,NA,NA,NA,,,,
+3,5,Ryan,STAR BAKER,No,8,No,,,,
+3,5,Sarah-Jane,IN,No,4,No,,,,
+3,5,Stuart,NA,NA,NA,NA,,,,
+3,5,Victoria,NA,NA,NA,NA,,,,
+3,6,Brendan,STAR BAKER,No,1,No,,,,
+3,6,Cathryn,IN,No,3,No,,,,
+3,6,Danny,IN,No,2,No,,,,
+3,6,James,IN,No,7,No,,,,
+3,6,John,IN,No,5,No,,,,
+3,6,Manisha,NA,NA,NA,NA,,,,
+3,6,Natasha,NA,NA,NA,NA,,,,
+3,6,Peter,NA,NA,NA,NA,,,,
+3,6,Ryan,IN,No,6,No,,,,
+3,6,Sarah-Jane,IN,No,4,No,,,,
+3,6,Stuart,NA,NA,NA,NA,,,,
+3,6,Victoria,NA,NA,NA,NA,,,,
+3,7,Brendan,IN,No,4,No,,,,
+3,7,Cathryn,IN,No,5,No,,,,
+3,7,Danny,STAR BAKER,No,2,No,,,,
+3,7,James,IN,No,1,No,,,,
+3,7,John,IN,No,3,No,,,,
+3,7,Manisha,NA,NA,NA,NA,,,,
+3,7,Natasha,NA,NA,NA,NA,,,,
+3,7,Peter,NA,NA,NA,NA,,,,
+3,7,Ryan,OUT,Yes,6,No,,,,
+3,7,Sarah-Jane,OUT,No,7,No,,,,
+3,7,Stuart,NA,NA,NA,NA,,,,
+3,7,Victoria,NA,NA,NA,NA,,,,
+3,8,Brendan,IN,No,2,No,,,,
+3,8,Cathryn,OUT,No,5,No,,,,
+3,8,Danny,IN,No,4,No,,,,
+3,8,James,STAR BAKER,No,1,No,,,,
+3,8,John,IN,No,3,No,,,,
+3,8,Manisha,NA,NA,NA,NA,,,,
+3,8,Natasha,NA,NA,NA,NA,,,,
+3,8,Peter,NA,NA,NA,NA,,,,
+3,8,Ryan,NA,NA,NA,NA,,,,
+3,8,Sarah-Jane,NA,NA,NA,NA,,,,
+3,8,Stuart,NA,NA,NA,NA,,,,
+3,8,Victoria,NA,NA,NA,NA,,,,
+3,9,Brendan,IN,No,3,No,,,,
+3,9,Cathryn,NA,NA,NA,NA,,,,
+3,9,Danny,OUT,No,4,No,,,,
+3,9,James,STAR BAKER,No,1,No,,,,
+3,9,John,IN,No,2,No,,,,
+3,9,Manisha,NA,NA,NA,NA,,,,
+3,9,Natasha,NA,NA,NA,NA,,,,
+3,9,Peter,NA,NA,NA,NA,,,,
+3,9,Ryan,NA,NA,NA,NA,,,,
+3,9,Sarah-Jane,NA,NA,NA,NA,,,,
+3,9,Stuart,NA,NA,NA,NA,,,,
+3,9,Victoria,NA,NA,NA,NA,,,,
+3,10,Brendan,Runner-up,No,2,No,,,,
+3,10,Cathryn,NA,NA,NA,NA,,,,
+3,10,Danny,NA,NA,NA,NA,,,,
+3,10,James,Runner-up,No,1,No,,,,
+3,10,John,WINNER,No,2,No,,,,
+3,10,Manisha,NA,NA,NA,NA,,,,
+3,10,Natasha,NA,NA,NA,NA,,,,
+3,10,Peter,NA,NA,NA,NA,,,,
+3,10,Ryan,NA,NA,NA,NA,,,,
+3,10,Sarah-Jane,NA,NA,NA,NA,,,,
+3,10,Stuart,NA,NA,NA,NA,,,,
+3,10,Victoria,NA,NA,NA,NA,,,,
+4,1,Ali,IN,No,11,No,,,,
+4,1,Beca,IN,No,8,No,,,,
+4,1,Christine,IN,No,3,No,,,,
+4,1,Deborah,IN,No,9,No,,,,
+4,1,Frances,IN,No,7,No,,,,
+4,1,Glenn,IN,No,4,No,,,,
+4,1,Howard,IN,No,6,No,,,,
+4,1,Kimberley,IN,No,10,No,,,,
+4,1,Lucy,IN,No,2,No,,,,
+4,1,Mark,IN,No,5,No,,,,
+4,1,Robert,STAR BAKER,No,1,No,,,,
+4,1,Ruby,IN,No,12,No,,,,
+4,1,Toby,OUT,No,13,No,,,,
+4,2,Ali,IN,No,9,No,,,,
+4,2,Beca,IN,No,11,No,,,,
+4,2,Christine,IN,No,4,No,,,,
+4,2,Deborah,IN,No,8,No,,,,
+4,2,Frances,IN,No,2,No,,,,
+4,2,Glenn,IN,No,7,No,,,,
+4,2,Howard,IN,No,10,No,,,,
+4,2,Kimberley,IN,No,1,No,,,,
+4,2,Lucy,OUT,No,12,No,,,,
+4,2,Mark,IN,No,6,No,,,,
+4,2,Robert,IN,No,5,No,,,,
+4,2,Ruby,STAR BAKER,No,3,No,,,,
+4,2,Toby,NA,NA,NA,NA,,,,
+4,3,Ali,IN,No,5,No,,,,
+4,3,Beca,IN,No,10,No,,,,
+4,3,Christine,STAR BAKER,No,4,No,,,,
+4,3,Deborah,OUT,No,9,No,,,,
+4,3,Frances,IN,No,8,No,,,,
+4,3,Glenn,IN,No,1,No,,,,
+4,3,Howard,IN,No,7,No,,,,
+4,3,Kimberley,IN,No,6,No,,,,
+4,3,Lucy,NA,NA,NA,NA,,,,
+4,3,Mark,OUT,No,11,No,,,,
+4,3,Robert,IN,No,2,No,,,,
+4,3,Ruby,IN,No,3,No,,,,
+4,3,Toby,NA,NA,NA,NA,,,,
+4,4,Ali,OUT,No,8,No,,,,
+4,4,Beca,IN,No,2,No,,,,
+4,4,Christine,IN,No,7,No,,,,
+4,4,Deborah,NA,NA,NA,NA,,,,
+4,4,Frances,IN,No,1,No,,,,
+4,4,Glenn,IN,No,9,No,,,,
+4,4,Howard,IN,No,5,No,,,,
+4,4,Kimberley,STAR BAKER,No,4,No,,,,
+4,4,Lucy,NA,NA,NA,NA,,,,
+4,4,Mark,NA,NA,NA,NA,,,,
+4,4,Robert,IN,No,3,No,,,,
+4,4,Ruby,IN,No,6,No,,,,
+4,4,Toby,NA,NA,NA,NA,,,,
+4,5,Ali,NA,NA,NA,NA,,,,
+4,5,Beca,IN,No,5,No,,,,
+4,5,Christine,STAR BAKER,No,1,No,,,,
+4,5,Deborah,NA,NA,NA,NA,,,,
+4,5,Frances,IN,No,3,No,,,,
+4,5,Glenn,IN,No,2,No,,,,
+4,5,Howard,IN,No,8,No,,,,
+4,5,Kimberley,IN,No,7,No,,,,
+4,5,Lucy,NA,NA,NA,NA,,,,
+4,5,Mark,NA,NA,NA,NA,,,,
+4,5,Robert,OUT,No,4,No,,,,
+4,5,Ruby,IN,No,6,No,,,,
+4,5,Toby,NA,NA,NA,NA,,,,
+4,6,Ali,NA,NA,NA,NA,,,,
+4,6,Beca,IN,No,6,No,,,,
+4,6,Christine,IN,No,4,No,,,,
+4,6,Deborah,NA,NA,NA,NA,,,,
+4,6,Frances,IN,No,2,No,,,,
+4,6,Glenn,IN,No,5,No,,,,
+4,6,Howard,OUT,No,7,No,,,,
+4,6,Kimberley,IN,No,3,No,,,,
+4,6,Lucy,NA,NA,NA,NA,,,,
+4,6,Mark,NA,NA,NA,NA,,,,
+4,6,Robert,NA,NA,NA,NA,,,,
+4,6,Ruby,STAR BAKER,No,1,No,,,,
+4,6,Toby,NA,NA,NA,NA,,,,
+4,7,Ali,NA,NA,NA,NA,,,,
+4,7,Beca,IN,No,1,No,,,,
+4,7,Christine,IN,No,6,No,,,,
+4,7,Deborah,NA,NA,NA,NA,,,,
+4,7,Frances,STAR BAKER,No,5,No,,,,
+4,7,Glenn,OUT,No,3,No,,,,
+4,7,Howard,NA,NA,NA,NA,,,,
+4,7,Kimberley,IN,No,4,No,,,,
+4,7,Lucy,NA,NA,NA,NA,,,,
+4,7,Mark,NA,NA,NA,NA,,,,
+4,7,Robert,NA,NA,NA,NA,,,,
+4,7,Ruby,IN,No,2,No,,,,
+4,7,Toby,NA,NA,NA,NA,,,,
+4,8,Ali,NA,NA,NA,NA,,,,
+4,8,Beca,IN,No,4,No,,,,
+4,8,Christine,OUT,No,5,No,,,,
+4,8,Deborah,NA,NA,NA,NA,,,,
+4,8,Frances,IN,No,3,No,,,,
+4,8,Glenn,NA,NA,NA,NA,,,,
+4,8,Howard,NA,NA,NA,NA,,,,
+4,8,Kimberley,IN,No,2,No,,,,
+4,8,Lucy,NA,NA,NA,NA,,,,
+4,8,Mark,NA,NA,NA,NA,,,,
+4,8,Robert,NA,NA,NA,NA,,,,
+4,8,Ruby,STAR BAKER,No,1,No,,,,
+4,8,Toby,NA,NA,NA,NA,,,,
+4,9,Ali,NA,NA,NA,NA,,,,
+4,9,Beca,OUT,No,3,No,,,,
+4,9,Christine,NA,NA,NA,NA,,,,
+4,9,Deborah,NA,NA,NA,NA,,,,
+4,9,Frances,IN,Yes,2,No,,,,
+4,9,Glenn,NA,NA,NA,NA,,,,
+4,9,Howard,NA,NA,NA,NA,,,,
+4,9,Kimberley,STAR BAKER,No,1,No,,,,
+4,9,Lucy,NA,NA,NA,NA,,,,
+4,9,Mark,NA,NA,NA,NA,,,,
+4,9,Robert,NA,NA,NA,NA,,,,
+4,9,Ruby,IN,No,4,No,,,,
+4,9,Toby,NA,NA,NA,NA,,,,
+4,10,Ali,NA,NA,NA,NA,,,,
+4,10,Beca,NA,NA,NA,NA,,,,
+4,10,Christine,NA,NA,NA,NA,,,,
+4,10,Deborah,NA,NA,NA,NA,,,,
+4,10,Frances,WINNER,No,3,No,,,,
+4,10,Glenn,NA,NA,NA,NA,,,,
+4,10,Howard,NA,NA,NA,NA,,,,
+4,10,Kimberley,Runner-up,No,1,No,,,,
+4,10,Lucy,NA,NA,NA,NA,,,,
+4,10,Mark,NA,NA,NA,NA,,,,
+4,10,Robert,NA,NA,NA,NA,,,,
+4,10,Ruby,Runner-up,No,2,No,,,,
+4,10,Toby,NA,NA,NA,NA,,,,
+5,1,Chetna,IN,No,3,No,,,,
+5,1,Claire,OUT,No,8,No,,,,
+5,1,Diana,IN,No,5,No,,,,
+5,1,Enwezor,IN,No,9,No,,,,
+5,1,Iain,IN,No,4,No,,,,
+5,1,Jordan,IN,No,12,No,,,,
+5,1,Kate,IN,No,6,No,,,,
+5,1,Luis,IN,No,7,No,,,,
+5,1,Martha,IN,No,2,No,,,,
+5,1,Nancy,STAR BAKER,No,1,No,,,,
+5,1,Norman,IN,No,11,No,,,,
+5,1,Richard,IN,No,10,No,,,,
+5,2,Chetna,IN,No,8,No,,,,
+5,2,Claire,NA,NA,NA,NA,,,,
+5,2,Diana,IN,No,7,No,,,,
+5,2,Enwezor,OUT,No,9,No,,,,
+5,2,Iain,IN,No,11,No,,,,
+5,2,Jordan,IN,No,6,No,,,,
+5,2,Kate,IN,No,4,No,,,,
+5,2,Luis,IN,No,3,No,,,,
+5,2,Martha,IN,No,5,No,,,,
+5,2,Nancy,IN,No,2,No,,,,
+5,2,Norman,IN,Yes,10,No,,,,
+5,2,Richard,STAR BAKER,No,1,No,,,,
+5,3,Chetna,IN,No,8,No,,,,
+5,3,Claire,NA,NA,NA,NA,,,,
+5,3,Diana,IN,No,7,No,,,,
+5,3,Enwezor,NA,NA,NA,NA,,,,
+5,3,Iain,IN,No,9,No,,,,
+5,3,Jordan,OUT,No,10,No,,,,
+5,3,Kate,IN,No,1,No,,,,
+5,3,Luis,STAR BAKER,Yes,2,No,,,,
+5,3,Martha,IN,No,3,No,,,,
+5,3,Nancy,IN,No,5,No,,,,
+5,3,Norman,IN,No,4,No,,,,
+5,3,Richard,IN,No,6,No,,,,
+5,4,Chetna,IN,No,3,No,,,,
+5,4,Claire,NA,NA,NA,NA,,,,
+5,4,Diana,IN,No,9,No,,,,
+5,4,Enwezor,NA,NA,NA,NA,,,,
+5,4,Iain,OUT,No,6,No,,,,
+5,4,Jordan,NA,NA,NA,NA,,,,
+5,4,Kate,IN,No,7,No,,,,
+5,4,Luis,IN,No,2,No,,,,
+5,4,Martha,IN,No,1,No,,,,
+5,4,Nancy,IN,No,4,No,,,,
+5,4,Norman,IN,No,8,No,,,,
+5,4,Richard,STAR BAKER,No,5,No,,,,
+5,5,Chetna,IN,No,2,No,,,,
+5,5,Claire,NA,NA,NA,NA,,,,
+5,5,Diana,WITHDRAWN,NA,NA,NA,,,,
+5,5,Enwezor,NA,NA,NA,NA,,,,
+5,5,Iain,NA,NA,NA,NA,,,,
+5,5,Jordan,NA,NA,NA,NA,,,,
+5,5,Kate,STAR BAKER,No,3,No,,,,
+5,5,Luis,IN,No,6,No,,,,
+5,5,Martha,IN,No,1,No,,,,
+5,5,Nancy,IN,No,4,No,,,,
+5,5,Norman,OUT,No,5,No,,,,
+5,5,Richard,IN,No,7,No,,,,
+5,6,Chetna,STAR BAKER,No,2,No,,,,
+5,6,Claire,NA,NA,NA,NA,,,,
+5,6,Diana,WITHDRAWN,NA,NA,NA,,,,
+5,6,Enwezor,NA,NA,NA,NA,,,,
+5,6,Iain,NA,NA,NA,NA,,,,
+5,6,Jordan,NA,NA,NA,NA,,,,
+5,6,Kate,IN,No,6,No,,,,
+5,6,Luis,IN,No,3,No,,,,
+5,6,Martha,IN,No,4,No,,,,
+5,6,Nancy,IN,No,1,No,,,,
+5,6,Norman,NA,NA,NA,NA,,,,
+5,6,Richard,IN,No,5,No,,,,
+5,7,Chetna,IN,No,6,No,,,,
+5,7,Claire,NA,NA,NA,NA,,,,
+5,7,Diana,WITHDRAWN,NA,NA,NA,,,,
+5,7,Enwezor,NA,NA,NA,NA,,,,
+5,7,Iain,NA,NA,NA,NA,,,,
+5,7,Jordan,NA,NA,NA,NA,,,,
+5,7,Kate,OUT,No,4,No,,,,
+5,7,Luis,IN,No,5,No,,,,
+5,7,Martha,IN,No,3,No,,,,
+5,7,Nancy,IN,No,2,No,,,,
+5,7,Norman,NA,NA,NA,NA,,,,
+5,7,Richard,STAR BAKER,No,1,No,,,,
+5,8,Chetna,IN,No,1,No,,,,
+5,8,Claire,NA,NA,NA,NA,,,,
+5,8,Diana,WITHDRAWN,NA,NA,NA,,,,
+5,8,Enwezor,NA,NA,NA,NA,,,,
+5,8,Iain,NA,NA,NA,NA,,,,
+5,8,Jordan,NA,NA,NA,NA,,,,
+5,8,Kate,NA,NA,NA,NA,,,,
+5,8,Luis,IN,No,2,No,,,,
+5,8,Martha,OUT,No,5,No,,,,
+5,8,Nancy,IN,No,3,No,,,,
+5,8,Norman,NA,NA,NA,NA,,,,
+5,8,Richard,STAR BAKER,No,4,No,,,,
+5,9,Chetna,OUT,No,4,No,,,,
+5,9,Claire,NA,NA,NA,NA,,,,
+5,9,Diana,WITHDRAWN,NA,NA,NA,,,,
+5,9,Enwezor,NA,NA,NA,NA,,,,
+5,9,Iain,NA,NA,NA,NA,,,,
+5,9,Jordan,NA,NA,NA,NA,,,,
+5,9,Kate,NA,NA,NA,NA,,,,
+5,9,Luis,IN,No,1,No,,,,
+5,9,Martha,NA,NA,NA,NA,,,,
+5,9,Nancy,IN,No,3,No,,,,
+5,9,Norman,NA,NA,NA,NA,,,,
+5,9,Richard,STAR BAKER,No,2,No,,,,
+5,10,Chetna,NA,NA,NA,NA,,,,
+5,10,Claire,NA,NA,NA,NA,,,,
+5,10,Diana,WITHDRAWN,NA,NA,NA,,,,
+5,10,Enwezor,NA,NA,NA,NA,,,,
+5,10,Iain,NA,NA,NA,NA,,,,
+5,10,Jordan,NA,NA,NA,NA,,,,
+5,10,Kate,NA,NA,NA,NA,,,,
+5,10,Luis,Runner-up,No,2,No,,,,
+5,10,Martha,NA,NA,NA,NA,,,,
+5,10,Nancy,WINNER,No,1,No,,,,
+5,10,Norman,NA,NA,NA,NA,,,,
+5,10,Richard,Runner-up,No,3,No,,,,
+6,1,Alvin,IN,No,2,No,,,,
+6,1,Dorret,IN,No,5,No,,,,
+6,1,Flora,IN,No,6,No,,,,
+6,1,Ian,IN,No,8,No,,,,
+6,1,Marie,STAR BAKER,No,3,No,,,,
+6,1,Mat,IN,No,7,No,,,,
+6,1,Nadiya,IN,No,12,No,,,,
+6,1,Paul,IN,No,10,No,,,,
+6,1,Sandy,IN,No,9,No,,,,
+6,1,Stu,OUT,No,11,No,,,,
+6,1,Tamal,IN,No,4,No,,,,
+6,1,Ugne,IN,No,1,No,,,,
+6,2,Alvin,IN,No,6,No,,,,
+6,2,Dorret,IN,No,1,No,,,,
+6,2,Flora,IN,No,2,No,,,,
+6,2,Ian,STAR BAKER,No,3,No,,,,
+6,2,Marie,OUT,No,11,No,,,,
+6,2,Mat,IN,No,5,No,,,,
+6,2,Nadiya,IN,No,9,No,,,,
+6,2,Paul,IN,No,10,No,,,,
+6,2,Sandy,IN,No,4,No,,,,
+6,2,Stu,NA,NA,NA,NA,,,,
+6,2,Tamal,IN,No,8,No,,,,
+6,2,Ugne,IN,No,7,No,,,,
+6,3,Alvin,IN,No,4,No,,,,
+6,3,Dorret,OUT,No,6,No,,,,
+6,3,Flora,IN,No,2,No,,,,
+6,3,Ian,STAR BAKER,No,1,No,,,,
+6,3,Marie,NA,NA,NA,NA,,,,
+6,3,Mat,IN,No,8,No,,,,
+6,3,Nadiya,IN,No,9,No,,,,
+6,3,Paul,IN,Yes,10,No,,,,
+6,3,Sandy,IN,No,7,No,,,,
+6,3,Stu,NA,NA,NA,NA,,,,
+6,3,Tamal,IN,No,3,No,,,,
+6,3,Ugne,IN,No,5,No,,,,
+6,4,Alvin,IN,No,9,No,,,,
+6,4,Dorret,NA,NA,NA,NA,,,,
+6,4,Flora,IN,No,3,No,,,,
+6,4,Ian,STAR BAKER,No,4,No,,,,
+6,4,Marie,NA,NA,NA,NA,,,,
+6,4,Mat,IN,No,7,No,,,,
+6,4,Nadiya,IN,No,8,No,,,,
+6,4,Paul,IN,No,1,No,,,,
+6,4,Sandy,OUT,No,6,No,,,,
+6,4,Stu,NA,NA,NA,NA,,,,
+6,4,Tamal,IN,No,5,No,,,,
+6,4,Ugne,IN,No,2,No,,,,
+6,5,Alvin,IN,No,8,No,,,,
+6,5,Dorret,NA,NA,NA,NA,,,,
+6,5,Flora,IN,No,3,No,,,,
+6,5,Ian,IN,No,5,No,,,,
+6,5,Marie,NA,NA,NA,NA,,,,
+6,5,Mat,IN,No,4,No,,,,
+6,5,Nadiya,STAR BAKER,No,1,No,,,,
+6,5,Paul,IN,No,2,No,,,,
+6,5,Sandy,NA,NA,NA,NA,,,,
+6,5,Stu,NA,NA,NA,NA,,,,
+6,5,Tamal,IN,No,7,No,,,,
+6,5,Ugne,OUT,No,6,No,,,,
+6,6,Alvin,OUT,No,6,No,,,,
+6,6,Dorret,NA,NA,NA,NA,,,,
+6,6,Flora,IN,No,2,No,,,,
+6,6,Ian,IN,No,3,No,,,,
+6,6,Marie,NA,NA,NA,NA,,,,
+6,6,Mat,STAR BAKER,No,1,No,,,,
+6,6,Nadiya,IN,No,4,No,,,,
+6,6,Paul,IN,No,5,No,,,,
+6,6,Sandy,NA,NA,NA,NA,,,,
+6,6,Stu,NA,NA,NA,NA,,,,
+6,6,Tamal,IN,No,7,No,,,,
+6,6,Ugne,NA,NA,NA,NA,,,,
+6,7,Alvin,NA,NA,NA,NA,,,,
+6,7,Dorret,NA,NA,NA,NA,,,,
+6,7,Flora,IN,No,4,No,,,,
+6,7,Ian,IN,No,5,No,,,,
+6,7,Marie,NA,NA,NA,NA,,,,
+6,7,Mat,OUT,No,6,No,,,,
+6,7,Nadiya,IN,No,1,No,,,,
+6,7,Paul,IN,No,2,No,,,,
+6,7,Sandy,NA,NA,NA,NA,,,,
+6,7,Stu,NA,NA,NA,NA,,,,
+6,7,Tamal,STAR BAKER,Yes,3,No,,,,
+6,7,Ugne,NA,NA,NA,NA,,,,
+6,8,Alvin,NA,NA,NA,NA,,,,
+6,8,Dorret,NA,NA,NA,NA,,,,
+6,8,Flora,IN,No,3,No,,,,
+6,8,Ian,IN,No,2,No,,,,
+6,8,Marie,NA,NA,NA,NA,,,,
+6,8,Mat,NA,NA,NA,NA,,,,
+6,8,Nadiya,STAR BAKER,No,1,No,,,,
+6,8,Paul,OUT,No,5,No,,,,
+6,8,Sandy,NA,NA,NA,NA,,,,
+6,8,Stu,NA,NA,NA,NA,,,,
+6,8,Tamal,IN,No,4,No,,,,
+6,8,Ugne,NA,NA,NA,NA,,,,
+6,9,Alvin,NA,NA,NA,NA,,,,
+6,9,Dorret,NA,NA,NA,NA,,,,
+6,9,Flora,OUT,No,1,No,,,,
+6,9,Ian,IN,No,3,No,,,,
+6,9,Marie,NA,NA,NA,NA,,,,
+6,9,Mat,NA,NA,NA,NA,,,,
+6,9,Nadiya,STAR BAKER,Yes,4,No,,,,
+6,9,Paul,NA,NA,NA,NA,,,,
+6,9,Sandy,NA,NA,NA,NA,,,,
+6,9,Stu,NA,NA,NA,NA,,,,
+6,9,Tamal,IN,No,2,No,,,,
+6,9,Ugne,NA,NA,NA,NA,,,,
+6,10,Alvin,NA,NA,NA,NA,,,,
+6,10,Dorret,NA,NA,NA,NA,,,,
+6,10,Flora,OUT,No,NA,No,,,,
+6,10,Ian,Runner-up,No,2,No,,,,
+6,10,Marie,NA,NA,NA,NA,,,,
+6,10,Mat,NA,NA,NA,NA,,,,
+6,10,Nadiya,WINNER,Yes,1,No,,,,
+6,10,Paul,NA,NA,NA,NA,,,,
+6,10,Sandy,NA,NA,NA,NA,,,,
+6,10,Stu,NA,NA,NA,NA,,,,
+6,10,Tamal,Runner-up,No,3,No,,,,
+6,10,Ugne,NA,NA,NA,NA,,,,
+7,1,Andrew,IN,No,12,No,,,,
+7,1,Benjamina,IN,No,6,No,,,,
+7,1,Candice,IN,No,5,No,,,,
+7,1,Jane,STAR BAKER,No,7,No,,,,
+7,1,Kate,IN,No,4,No,,,,
+7,1,Lee,OUT,No,11,No,,,,
+7,1,Louise,IN,No,9,No,,,,
+7,1,Michael,IN,No,3,No,,,,
+7,1,Rav,IN,No,8,No,,,,
+7,1,Selasi,IN,No,1,No,,,,
+7,1,Tom,IN,No,2,No,,,,
+7,1,Val,IN,No,10,No,,,,
+7,2,Andrew,IN,No,4,No,,,,
+7,2,Benjamina,IN,No,3,No,,,,
+7,2,Candice,STAR BAKER,No,8,No,,,,
+7,2,Jane,IN,No,2,No,,,,
+7,2,Kate,IN,No,1,No,,,,
+7,2,Lee,NA,NA,NA,NA,,,,
+7,2,Louise,OUT,No,10,No,,,,
+7,2,Michael,IN,No,9,No,,,,
+7,2,Rav,IN,No,6,No,,,,
+7,2,Selasi,IN,No,11,No,,,,
+7,2,Tom,IN,Yes,7,No,,,,
+7,2,Val,IN,No,5,No,,,,
+7,3,Andrew,IN,No,2,No,,,,
+7,3,Benjamina,IN,No,6,No,,,,
+7,3,Candice,IN,No,3,No,,,,
+7,3,Jane,IN,No,9,No,,,,
+7,3,Kate,IN,No,8,No,,,,
+7,3,Lee,NA,NA,NA,NA,,,,
+7,3,Louise,NA,NA,NA,NA,,,,
+7,3,Michael,OUT,No,7,No,,,,
+7,3,Rav,IN,No,10,No,,,,
+7,3,Selasi,IN,No,5,No,,,,
+7,3,Tom,STAR BAKER,No,4,No,,,,
+7,3,Val,IN,No,1,No,,,,
+7,4,Andrew,IN,No,4,No,,,,
+7,4,Benjamina,IN,No,1,No,,,,
+7,4,Candice,STAR BAKER,No,2,No,,,,
+7,4,Jane,IN,No,3,No,,,,
+7,4,Kate,OUT,No,7,No,,,,
+7,4,Lee,NA,NA,NA,NA,,,,
+7,4,Louise,NA,NA,NA,NA,,,,
+7,4,Michael,NA,NA,NA,NA,,,,
+7,4,Rav,IN,No,9,No,,,,
+7,4,Selasi,IN,Yes,8,No,,,,
+7,4,Tom,IN,No,5,No,,,,
+7,4,Val,IN,No,6,No,,,,
+7,5,Andrew,STAR BAKER,No,6,No,,,,
+7,5,Benjamina,IN,No,5,No,,,,
+7,5,Candice,IN,No,2,No,,,,
+7,5,Jane,IN,No,1,No,,,,
+7,5,Kate,NA,NA,NA,NA,,,,
+7,5,Lee,NA,NA,NA,NA,,,,
+7,5,Louise,NA,NA,NA,NA,,,,
+7,5,Michael,NA,NA,NA,NA,,,,
+7,5,Rav,IN,No,8,No,,,,
+7,5,Selasi,IN,No,3,No,,,,
+7,5,Tom,IN,No,4,No,,,,
+7,5,Val,OUT,No,7,No,,,,
+7,6,Andrew,IN,No,6,No,,,,
+7,6,Benjamina,OUT,No,2,No,,,,
+7,6,Candice,IN,No,5,No,,,,
+7,6,Jane,IN,No,4,No,,,,
+7,6,Kate,NA,NA,NA,NA,,,,
+7,6,Lee,NA,NA,NA,NA,,,,
+7,6,Louise,NA,NA,NA,NA,,,,
+7,6,Michael,NA,NA,NA,NA,,,,
+7,6,Rav,OUT,No,3,No,,,,
+7,6,Selasi,IN,No,7,No,,,,
+7,6,Tom,STAR BAKER,No,1,No,,,,
+7,6,Val,NA,NA,NA,NA,,,,
+7,7,Andrew,IN,No,1,No,,,,
+7,7,Benjamina,IN,No,3,No,,,,
+7,7,Candice,STAR BAKER,No,2,No,,,,
+7,7,Jane,IN,No,4,No,,,,
+7,7,Kate,NA,NA,NA,NA,,,,
+7,7,Lee,NA,NA,NA,NA,,,,
+7,7,Louise,NA,NA,NA,NA,,,,
+7,7,Michael,NA,NA,NA,NA,,,,
+7,7,Rav,NA,NA,NA,NA,,,,
+7,7,Selasi,IN,No,6,No,,,,
+7,7,Tom,OUT,No,5,No,,,,
+7,7,Val,NA,NA,NA,NA,,,,
+7,8,Andrew,IN,No,2,No,,,,
+7,8,Benjamina,OUT,No,4,No,,,,
+7,8,Candice,STAR BAKER,No,1,No,,,,
+7,8,Jane,IN,No,5,No,,,,
+7,8,Kate,NA,NA,NA,NA,,,,
+7,8,Lee,NA,NA,NA,NA,,,,
+7,8,Louise,NA,NA,NA,NA,,,,
+7,8,Michael,NA,NA,NA,NA,,,,
+7,8,Rav,NA,NA,NA,NA,,,,
+7,8,Selasi,IN,No,3,No,,,,
+7,8,Tom,NA,NA,NA,NA,,,,
+7,8,Val,NA,NA,NA,NA,,,,
+7,9,Andrew,STAR BAKER,No,2,No,,,,
+7,9,Benjamina,NA,NA,NA,NA,,,,
+7,9,Candice,IN,No,3,No,,,,
+7,9,Jane,IN,No,1,No,,,,
+7,9,Kate,NA,NA,NA,NA,,,,
+7,9,Lee,NA,NA,NA,NA,,,,
+7,9,Louise,NA,NA,NA,NA,,,,
+7,9,Michael,NA,NA,NA,NA,,,,
+7,9,Rav,NA,NA,NA,NA,,,,
+7,9,Selasi,OUT,No,4,No,,,,
+7,9,Tom,NA,NA,NA,NA,,,,
+7,9,Val,NA,NA,NA,NA,,,,
+7,10,Andrew,Runner-up,No,1,No,,,,
+7,10,Benjamina,NA,NA,NA,NA,,,,
+7,10,Candice,WINNER,Yes,2,No,,,,
+7,10,Jane,Runner-up,Yes,3,No,,,,
+7,10,Kate,NA,NA,NA,NA,,,,
+7,10,Lee,NA,NA,NA,NA,,,,
+7,10,Louise,NA,NA,NA,NA,,,,
+7,10,Michael,NA,NA,NA,NA,,,,
+7,10,Rav,NA,NA,NA,NA,,,,
+7,10,Selasi,NA,NA,NA,NA,,,,
+7,10,Tom,NA,NA,NA,NA,,,,
+7,10,Val,NA,NA,NA,NA,,,,
+8,1,Chris,IN,No,12,No,Tropical Fresh Fruit Cake,"mango, pineapple, limoncello liqueur",'Raised Pork Pie and Egg Surprise' Cake,"almond extract, marzipan"
+8,1,Flo,IN,No,9,No,Citrus Layer Cake,"lemon curd, candied oranges, candied lemons, buttercream",'One in a Melon' Cake,"melon syrup, chocolate chips, fondant"
+8,1,James,IN,No,2,No,"Orange, Rhubarb & Ginger Crumble Cake","orange zest, orange juice, ginger, rhubarb,",'Mock-accino and Croissant' Cake,"coffee buttercream, coffee sponge, marshmallow fondant"
+8,1,Julia,IN,No,3,No,Courgette and Lemon Cake,"lemon, zucchini, candied lemon, blueberry",'Russian Doll' Cake,"victoria sponge, raspberry jam, buttercream, fondant"
+8,1,Kate,IN,No,1,No,Moroccan Strawberry and Rose Cake,"strawberry, cream cheese frosting, rose water",'Chocolate Terrarium' Cake,"glacier mints, chocolate and coffee butter cream, star anise, chocolate"
+8,1,Liam,IN,No,8,No,Apple and Almond Crumble Maple Loaf,"bramley apples, granny smith apples, maple syrup glaze, flaked almonds, nutmeg, cinnamon",'Stackin' Sunday' Cake,"banana, blueberry, marshmallow fondant, granola crumble"
+8,1,Peter,OUT,No,10,No,Coconut Cake,"coconut milk, coconut flour, fresh coconut, coconut sugar, buttercream frosting",'Bread on a Breadboard' Cake,"lemon zest, marshmallow fondant "
+8,1,Sophie,IN,Yes,5,No,Pineapple and Coconut Sandwich Cake,"toasted coconut flakes, pineapple, coconut, coconut italian meringue buttercream",'Champagne Bottle and Bucket' Cake,"chocolate, cherry syrup, chocolate ganache"
+8,1,Stacey,IN,No,11,No,Granny Smith Apple and Walnut Cake,"granny smith apple, walnut streusel, caramel sauce, cinnamon, nutmeg",'Black Evening Clutch Bag' Cake,"red velvet chocolate, chocolate cream cheese frosting"
+8,1,Steven,STAR BAKER,Yes,6,No,Bonfire Night Cake,"mini toffee apples, mascarpone cinnamon cream, candied citrus zest",'A Baker's Lunch' Cake,"hazelnut liqueur, fondant, peanut buttercream, chocolate"
+8,1,Tom,IN,No,7,No,Gilded Pear and Cardamom Cake,"pear, blakc berry compote, blackberry, green cardamom",'Stack of Books' Cake,"lemon zest, poppy seed"
+8,1,Yan,IN,No,4,No,Windfall Apple Crumble Cake,"diced bramley apples, ground cinnamon, caramel",'Banana-ramen' Cake,"banana, marshmallow fondant, mango, rice krispies"
+8,2,Chris,OUT,No,11,No,Chocolate Chia Seed Biscuits with Whisky Caramel Filling,"whiskey, orange, dark chocolate, salted caramel, chia seed",'The Great British Sail Off' Game,"rum, ginger, cardamom, orange zest,"
+8,2,Flo,IN,No,10,No,Gin Jam Butties,"raspberry gin, raspberry, buttercream",'Pick My Bones' Game,"almond, vanilla extract"
+8,2,James,IN,No,3,No,Rhubarb and Custard Whirls,"rhubarb curd, vanilla buttercream, custard powder",'Coppit' Game,"spiced orange, chocolate, ginger, cocoa powder"
+8,2,Julia,IN,No,4,No,Middle Eastern Delight Sandwich Biscuits,"pistachio extract, pistachio, cardamom, vanilla and rose jelly, rose water",'A British Baking' Game,"ginger, cocoa powder, lime juice, chocolate, orange liqueur"
+8,2,Kate,IN,No,8,No,Coconut Seashells for a Titanic Afternoon Tea,"desiccated coconut, coconut rum cream, pineapple, pineapple curd",'Jungle' Game,"grains of paradise, lemon zest, orange zest, cardamom"
+8,2,Liam,IN,No,7,No,Coffee Malted Pecan Shorties,"coffee buttercream, chopped peacan, malt extract",'Classroom Classics' Game,"chocolate, orange, lemon, honey, ginger, cinnamon, cocoa icing"
+8,2,Peter,NA,NA,NA,NA,NA,NA,NA,NA
+8,2,Sophie,IN,No,2,No,Lemon Limoncino Sandwich Biscuits,"limoncino, lemon zest, yuzu juice",'Snakes and Ladders' Game,"dark chocolate, bergamot oil, lemon zest, royal icing"
+8,2,Stacey,IN,No,9,No,Sparkly Chocolate and Marshmallow Fluff Cookies,"marshmallow fluff, chocolate, cocoa powder",'Get to School' Game,"cocoa powder, freeze-dried strawberries, vanilla, chocolate"
+8,2,Steven,STAR BAKER,No,6,No,Amarpressi Biscuits,"amoretti dough, ground almonds, ground coffee, coffee cream",'Check Bake' Game,"espresso powder, ginger, orange zest, mixed spice"
+8,2,Tom,IN,No,5,No,Coffee and Amaretto Kisses,"amaretto liqueur butter cream, espresso powder, chocolate ganache",'Drain Pipes and Ladders' Game,"chocolate, cinnamon buttercream, cocoa powder, peppermint essence, cinnamon, nutmeg"
+8,2,Yan,IN,No,1,No,'Mrs. Marian's PB 'n' B' Biscuits,"peanut butter, vanilla extract, banana butter cream",'Adventures in Bakeland' Game,"lemon zest, matcha powder, orange, cardamom"
+8,3,Chris,NA,NA,NA,NA,NA,NA,NA,NA
+8,3,Flo,OUT,No,7,No,Cinnamon and Orange Teacakes,"orange, whisky, cinnamon, nutmeg, sultanas, candied peel",'Davy Jones' Locker' Bread Sculpture,"smoked paprika, sesame seeds, turmeric, beetroot, squid ink"
+8,3,James,IN,No,9,No,Nordic Teacakes,"cardamom, orange zest, lemon zest, port soaked sultanas, port soaked cranberries",'Owl in the Woods' Bread Sculpture,"raisin, saffron, walnuts, chocolate, sultanas, green tea, lemon zest"
+8,3,Julia,STAR BAKER,No,2,No,Earl Grey Dried Fruit Teacakes,"sultanas, currants, raisins, candied mixed peels, earl grey, cherry, orange marmalade, cinnamon, nutmeg",'The Snail Under a Mushroom' Bread Sculpture,"goats cheese, onion, spinach, parsley, cheddar, bacon, red pepper, paprika, potato, beetroot "
+8,3,Kate,IN,No,10,No,Blueberry Buns,"blueberry compote, cardamom, cinnamon butter",'Kraken' Bread Sculpture,"red dulse seaweed, paprika, basil, algae, smoked garlic"
+8,3,Liam,IN,No,5,No,Jamaican Spiced Teacakes,"cherry, raisins, irish stout, ginger, cinnamon, almond butter",'Kneadapolitan' Bread Sculpture,"dried apricots, beetroot, cocoa powder"
+8,3,Peter,NA,NA,NA,NA,NA,NA,NA,NA
+8,3,Sophie,IN,No,6,No,Tagine Teacakes,"medjool dates, sumac, fig jam, almonds, apricots",'Picnic Basket' Bread Sculpture,"apple compote, pandan powder, cinnamon, walnuts, tortilla, beetroot"
+8,3,Stacey,IN,No,1,No,Cranberry and Cinnamon Teacakes,"cranberry, cinnamon, whipped orange butter, wine jam, dried cranberries",'Ascot Hat' Bread Sculpture,"turmeric, lemon, poppy seeds, sesame seeds, activated charcoal, pesto, tomato sauce"
+8,3,Steven,IN,No,3,No,Madras Cocktail Teacakes,"orange zest, dried cranberries, cardamom, vodka butter",'The Bag I Knead' Bread Sculpture,"chorizo, manchego, onion, garlic, spinach, beetroot, chilli chocolate, quince, sherry, chocolate, peppermint"
+8,3,Tom,IN,No,4,No,Orange and Cranberry Teacakes,"cranberry, orange, mixed spice, white chocolate, apricot jam",'Pink & Yellow Rose Centrepiece' Bread Sculpture,"beetroot, turmeric, cumin, nigella seeds, pesto"
+8,3,Yan,IN,No,8,No,'Mrs P's' Masala Chai Spiced Teacakes,"mango chutney, masala chai milk, crystallised ginger, sultanas, honey",'Basil the Vegetarian Dragon with his Pumpkin Hoard' Bread Sculpture,"white chocolate, raspberry glaze, parmesan cheese, spinach, coriander, basil, turmeric"
+8,4,Chris,NA,NA,NA,NA,NA,NA,NA,NA
+8,4,Flo,NA,NA,NA,NA,NA,NA,NA,NA
+8,4,James,IN,No,2,No,'Windy City' Millionaire Shortbreads,"maple syrup, pecan, chocolate",Nutty Caramel Cake,"muscovado sugar, amaretto liqueur, peanut praline, honey comb, hazelnuts, sesame brittle"
+8,4,Julia,IN,No,9,No,Pecan Salted Caramel Millionaire Shortbreads,"pecan, sea salt, golden syrup",Poppy Seed Caramel Cake,"caramelised walnut, poppy seeds, prunes, shards, caramel buttercream"
+8,4,Kate,STAR BAKER,No,6,No,Salted Bay Caramel Millionaire Shortbreads,"walnut, bay leaves",Sticky Toffee Apple Caramel Cake,"dried apple, toffee buttercream, medjool dates "
+8,4,Liam,IN,Yes,3,No,Salted Peanut Butter Millionaire Shortbreads,"walnut, peanut butter, peanut butter oil, honey, peanut, dark chocolate",White Layered Ginger Caramel Cake,"black treacle, white chocolate buttercream, cinnamon, macadamia praline, ginger syrup, spiced caramel"
+8,4,Peter,NA,NA,NA,NA,NA,NA,NA,NA
+8,4,Sophie,IN,No,4,No,Jaffa Millionaire Shortbreads,"dark chocolate, orange zest, orange juice",Bird's Nest Caramel Cake,"hazelnuts, salted caramel ganache, chocolate, italian meringue butter cream, "
+8,4,Stacey,IN,No,1,No,Rum Salted Caramel Millionaire Shortbreads,"rum, lime zest, chilli flakes, chocolate",Chocolate and Coffee Caramel Cake,"chocolate ganache, coffee essence, caramel buttercream"
+8,4,Steven,IN,No,7,No,Orange Macadamia Nut Millionaire Shortbreads,"orange zest, macadamia nuts, coffee liqueur, chocolate",Caramel Crown Cake,"freeze-dried raspberries, red velvet, cocoa powder, caramel buttercream"
+8,4,Tom,OUT,No,5,No,Stem Ginger Caramel Shortbreads,"chocolate, almond, stem ginger caramel, white chocolate",Hummingbird Cake,"banana, pineapple, lime cream cheese icing, passionfruit cream, pecan praline"
+8,4,Yan,IN,No,8,No,'Lil' Red's Ginger and Nuts' Millionaire Shortbreads,"orange extract, crystalized ginger, hazelnuts, chocolate",Animals of the Rainforest Caramel Cake,"orange curd, cocoa powder, praline, orange zest, orange juice"
+8,5,Chris,NA,NA,NA,NA,NA,NA,NA,NA
+8,5,Flo,NA,NA,NA,NA,NA,NA,NA,NA
+8,5,James,OUT,No,7,No,Orange and Ginger Steamed School Pudding,"orange, stem ginger, spiced chocolate custard",'The Missed Silver Jubilee' Trifle Terrine,"raspberry, blueberry swiss roll, raspberry panna cotta, blueberry, eton mess mousse, prosecco jelly"
+8,5,Julia,IN,No,3,No,Orange & Treacle Steamed School Pudding,"orange caramel sauce, vanilla custard, black treacle, orange",'Opulent Ornament' Trifle Terrine,"vanilla, liquere, prosecco and passion fruit jelly, chocolate mousse, raspberries, strawberries, blueberries"
+8,5,Kate,IN,No,8,No,'Mr Darcy's Steamy Lake Scene' Steamed School Pudding,"lemon zest, bergamot oil, earl grey custard",'My Great Great Nan's' Raspberry Trifle Terrine,"raspberry meringue cream, raspberry jelly, raspberry, powdered custard"
+8,5,Liam,IN,No,2,No,Cherries & Lemons that are 'Baked Well',"glace cherry, dried cherry, lemon zest, ground almonds, vanilla custard, lemon",'Cheers Lads' Trifle Terrine,"chocolate mousse, orange jelly, chai latte panna cotta, brownie"
+8,5,Peter,NA,NA,NA,NA,NA,NA,NA,NA
+8,5,Sophie,STAR BAKER,No,1,No,"Ginger, Fig and Honey Steamed School Pudding","tonka bean marscapone cream, stem ginger, fig, honey","Raspberry, Yuzu & White Chocolate B√ªche Trifle Terrine","raspberry jelly, yuzu custard, white chocolate bavarois, raspberry"
+8,5,Stacey,IN,Yes,4,No,Bakewell Tart Steamed School Pudding,"cherry jam, raspberry, ground almonds, vanilla custard",Tropical Trifle Terrine,"pineapple rum jelly, passion fruit, lime eton mess, mango mousse, chilli, coconut"
+8,5,Steven,IN,Yes,5,No,Lemon & Blackcurrant Drizzle Steamed School Pudding,"lemon zest, blackcurrant, vanilla custard",'From Across the Jelly Pond' Trifle Terrine,"raspberry jelly, coconut sponge, white chocolate and coconut custard"
+8,5,Tom,NA,NA,NA,NA,NA,NA,NA,NA
+8,5,Yan,IN,Yes,6,No,Mango Fruit Hat Steamed School Pudding,"coconut custard, stem ginger, caramalised coconut flakes, mango, alphonso mango",'Heart of a Hero' Trifle Terrine,"strawberry, raspberry, strawberry mousse, white chocolate mousse, elderflower jelly"
+8,6,Chris,NA,NA,NA,NA,NA,NA,NA,NA
+8,6,Flo,NA,NA,NA,NA,NA,NA,NA,NA
+8,6,James,NA,NA,NA,NA,NA,NA,NA,NA
+8,6,Julia,OUT,No,7,No,'Pies from the Tree' Decorative Pies,"sausage meat, sage, onion, apples, smoked paprika",'Special Occasion' Pie,"bluecheese, asparagus and pear salsa, chicken, honey-glazed pears"
+8,6,Kate,IN,No,5,No,'Vegetarian Pie Faces' Decorative Pies,"carrots, leeks, celery, potatoes, onions, butterbeans",Potato Curry Pie with Mango & Chilli Glaze,"turmeric, potato, onion, mango, chilli, asparagus"
+8,6,Liam,STAR BAKER,No,4,No,'Standard FC' Decorative Pies,"sweet potato, feta cheese, chorizo",'Nan's Sunday Dinner' Pie,"turmeric, fried plantain, curried goat, mango and avocado salsa"
+8,6,Peter,NA,NA,NA,NA,NA,NA,NA,NA
+8,6,Sophie,IN,No,2,No,'The Four Seasons' Decorative Pies,"roasted squash, spinach, blue cheese",Game Pie with Glazed Forest Fruits,"pomegranate and port glaze, minced pork belly, venison, mushroom duxelles, rabbit, wild boar, guinea fowl"
+8,6,Stacey,IN,No,6,No,'Love Theme' Decorative Pies,"onion, mince meat, pine nuts, cinnamon, chilli flakes",Indian Hand Raised Pie with Mango,"paneer cheese, lentil curry, eggs, spinach, mango"
+8,6,Steven,IN,No,3,No,'Fleetwood Mac' Decorative Pies,"swedish meatballs, lingonberry jam, mashed potato",Christmas Pie,"cranberry relish, brussel sprouts, chestnuts, turkey, pancetta"
+8,6,Tom,NA,NA,NA,NA,NA,NA,NA,NA
+8,6,Yan,IN,No,1,No,'œÄr2' Decorative Pies,"chicken, curry sauce",Chequerboard Pie,"chorizo, chicken, black pudding, spiced sausage meat, fig"
+8,7,Chris,NA,NA,NA,NA,NA,NA,NA,NA
+8,7,Flo,NA,NA,NA,NA,NA,NA,NA,NA
+8,7,James,NA,NA,NA,NA,NA,NA,NA,NA
+8,7,Julia,NA,NA,NA,NA,NA,NA,NA,NA
+8,7,Kate,IN,No,6,No,'Happy Hour' Cocktail Cannoli,"limoncello, cream, lemon, campari gin, orange, coffee liqueur, chocolate, ricotta",'Flavour Fusion' Sfogliatelle,"dark chocolate, hazelnuts, lemon, tahini"
+8,7,Liam,IN,No,2,No,'Just Doing Me' Cannoli,"lemon, white chocolate, honey, nuts,marshmallow, dark chocolate, ricotta",'Morning Delivery' Sfogliatelle,"maple, pecan, orange, raisins"
+8,7,Peter,NA,NA,NA,NA,NA,NA,NA,NA
+8,7,Sophie,IN,No,3,No,'Classics with a Twist' Cannoli,"amaretto, almonds, ginger, lemon, lime cream, chocolate, hazelnuts, mascarpone cream, gelatine",'Classics' Sfogliatelle,"mango, passion fruit, cherry, almond, chocolate"
+8,7,Stacey,IN,No,4,No,My All Time Favourite Desserts,"custard, raspberry jam, lemon cheesecake, white chocolate, tiramisu, cocoa powder, ricotta",Pastry Surprise,"orange, sultana, chocolate, praline creame patissiere, nuts"
+8,7,Steven,STAR BAKER,No,1,No,Italian Style Cannoli,"coffee , hazelnuts, almond praline, chocolate, lemon curd, ricotta",'Sicilian-style' Sfogliatelle,"sicilian lemon marmalade, chocolate, orange, ginger"
+8,7,Tom,NA,NA,NA,NA,NA,NA,NA,NA
+8,7,Yan,OUT,No,5,No,Cannoli Cocktails,"rose, mint, amaretto, lime, honey, passion fruit, vanilla, cocoa powder, ricotta",Canadian-Style Sfogliatelle,"lemon, blueberry, pecan praline, maple syrup, bacon dust"
+8,8,Chris,NA,NA,NA,NA,NA,NA,NA,NA
+8,8,Flo,NA,NA,NA,NA,NA,NA,NA,NA
+8,8,James,NA,NA,NA,NA,NA,NA,NA,NA
+8,8,Julia,NA,NA,NA,NA,NA,NA,NA,NA
+8,8,Kate,IN,No,2,No,Burrito Bedfordshire Clangers,"brown rice, vegetable filling, spiced rum, flame raisins, banana rice pudding",'Liver Building Turret' Savoy Cake,"toasted pecan, almond extract, chocolate, pondant"
+8,8,Liam,OUT,No,5,No,'Take Out' Bedfordshire Clangers,"sundried tomatoes, pine nuts, bramely apples, granny smith apples, pesto chicken, mozzarella, apple, plum",'Fort Wizardore' Savoy Cake,"lemon zest, bourbon caramel sauce, elderflower, chocolate"
+8,8,Peter,NA,NA,NA,NA,NA,NA,NA,NA
+8,8,Sophie,IN,No,4,No,Char Siu & Banana Praline Bedfordshire Clangers,"char siu pork, pecans, dark chocolate, banana",Citrus with Green Apple Croquembouche Savoy Cake,"yuzu powder, yuzu buttercream, green apple crème diplomat, freeze-dried strawberries, croquembouche"
+8,8,Stacey,STAR BAKER,Yes,3,No,Camembert & Onion and Apple & Blueberry Bedfordshire Clangers,"camembert, pine nuts, caramelised onions, wild rocket, bramley apples, blueberries, cinnamon custard",'Bright' Lemon & Orange Savoy Cake,"orange, lemon, st clements buttercream, macarons, madeleines, jellies, meringues"
+8,8,Steven,IN,No,1,No,'Mediterranean Medley' Bedfordshire Clangers,"sweet potato, feta cheese, medjool dates, figs, onioin, orange blossom",Chestnut Rum Savoy Cake,"chestnut puree, dark rum, orange, cinnamon, apples, candied chestnut, fondant"
+8,8,Tom,NA,NA,NA,NA,NA,NA,NA,NA
+8,8,Yan,NA,NA,NA,NA,NA,NA,NA,NA
+8,9,Chris,NA,NA,NA,NA,NA,NA,NA,NA
+8,9,Flo,NA,NA,NA,NA,NA,NA,NA,NA
+8,9,James,NA,NA,NA,NA,NA,NA,NA,NA
+8,9,Julia,NA,NA,NA,NA,NA,NA,NA,NA
+8,9,Kate,IN,No,4,No,Bellini and Valencian Orange Choux Buns,"orange cream patissiere, prosecco, peach cream",'Rainbow' Meringue Centrepiece,"italian meringue, blueberry jam, mango and passion fruit cream, strawberry, blueberry"
+8,9,Liam,NA,NA,NA,NA,NA,NA,NA,NA
+8,9,Peter,NA,NA,NA,NA,NA,NA,NA,NA
+8,9,Sophie,STAR BAKER,No,1,No,Strawberry & Rhubarb and Chestnut & Vanilla Choux Buns,"strawberry, chestnut puree, rhubarb, vanilla, chocolate, fondant",'Tutu with Opera Filling' Meringue Centrepiece,"buttercream, chocolate ganache, coffee mousse, swiss meringue"
+8,9,Stacey,OUT,No,2,No,'Choux-nicorn and Choux-moji' Choux Buns,"crème patissiere, banana chantilly cream, caramel sauce",'Flamingos in Love' Meringue Centrepiece,"white chocolate, italian meringue, passion fruit, raspberry and lemon mousse, vanilla panna cotta"
+8,9,Steven,IN,No,3,No,Key Lime Cheesecake and Bakewell Tart Choux Buns,"wholemeal coconut, coconut cream cheese, lime curd, frangipane, almond extract, crème patissiere, raspberry jam",'Some Air Over the Rainbow' Meringue Centrepiece,"lemon italian meringue, blackberry curd, balsamic strawberry eton mess, peppermint white chocolate ganache, macarons"
+8,9,Tom,NA,NA,NA,NA,NA,NA,NA,NA
+8,9,Yan,NA,NA,NA,NA,NA,NA,NA,NA
+8,10,Chris,NA,NA,NA,NA,NA,NA,NA,NA
+8,10,Flo,NA,NA,NA,NA,NA,NA,NA,NA
+8,10,James,NA,NA,NA,NA,NA,NA,NA,NA
+8,10,Julia,NA,NA,NA,NA,NA,NA,NA,NA
+8,10,Kate,Runner-up,No,3,No,"Roman Spelt, Coconut Kala Chana and Flower Breads","spelt, honey, kala chana, jaggery goor","White Chocolate, Yuzu and Lychee Entremet","black sesame tuile, yuzu zest, coconut, dragon fruit, chocolate, yuzu and white chocolate bavarois"
+8,10,Liam,NA,NA,NA,NA,NA,NA,NA,NA
+8,10,Peter,NA,NA,NA,NA,NA,NA,NA,NA
+8,10,Sophie,WINNER,No,2,No,"Spelt Boules, Mushroom Ciabatta & Orange Plaited Brioche","dried wild mushrooms, shitake mushrooms, orange zest",'Ode to the Honey Bee' Entremet,"honey custard, blackberry jelly, orange blossom, lemon curd, hazelnut feuilletine, lavender mousse, white chocolate, honeycomb"
+8,10,Stacey,NA,NA,NA,NA,NA,NA,NA,NA
+8,10,Steven,Runner-up,No,1,No,"Spelt & Rye, Toasted Garlic & Fontina and Sweet Chocolate Breads","garlic, rosemary, fontina cheese, spelt, chocolate chips, cinnamon",'Yin Yang' Entremet,"crème brulee, chocolate mousse, hazelnut, banana, chocolate"
+8,10,Tom,NA,NA,NA,NA,NA,NA,NA,NA
+8,10,Yan,NA,NA,NA,NA,NA,NA,NA,NA
+9,1,Antony,IN,No,12,No,Turmeric and Caraway Goosnargh Cakes,"Mango Chilli Jam, Turmeric","""Kilimanjaro Selfie""","Ginger, cinnamon, chocolate, fondant"
+9,1,Briony,IN,No,2,No,Apple Cider Empire Biscuits,"Apple Cider, Caramelised Apple Slice, vanilla shortbread","""Bristol Biscuit Selfie""","Lemon, poppy seed, gin royal icing"
+9,1,Dan,IN,No,4,No,Lemon and Strawberry Shrewsburys,"Lemon zest, Strawberry Jam, ","""New Dad in Palm Springs""","Passion fruit butter cream, mango royal icing, almond sugar cookies"
+9,1,Imelda,OUT,No,11,No,Cherry and White Chocolate Oatmeal Biscuits,"Cherry, White Chocolate, Oatmeal, Wholemeal flour","""Seaside Selfie""","lemon, ginger, ground almond, vanilla buttercream"
+9,1,Jon,IN,No,5,No,Aberffraw 'Creams',"butterscotch swiss meringue buttercream,  shortbread","""A Sailing Selfie by the Sea""","Cinnamon, orange, lemon curd, buttercream, royal icing, white chocolate "
+9,1,Karen,IN,No,6,No,Yorkshire Perkins,"Flower paste, mace, corriander, nutmeg","Rosewater and Cardamom ""Holiday Selfie""","royal icing, flower paste, rosewater, cardamom"
+9,1,Kim-Joy,IN,No,10,No,Orange Blossom York Biscuits,"Orange Blossom water, edible primula","""Me at Miyajima Shrine""","cinnamon, clove, ginger"
+9,1,Luke,IN,No,8,No,Yorkshire Gingernuts,"Lime zest, lime juice, lime buttercream, ginger","""What Happens In Vegas...!""","cinnamon, orange zest, royal icing, cinnamon butter cream"
+9,1,Manon,STAR BAKER,No,3,No,Hazelnut Cornish Shortbread,"Clotted cream, hazelnut, milk chocolate",Matcha and White Chocolate Ganache Japanese Selfie,"Matcha ganache, almond royal icing, white chocolate ganache"
+9,1,Rahul,IN,No,7,No,Fennel and Coconut Pitcaithly Bannock,"Fennel, Coconut, mixed peel, chocolate","""First Spring in the UK""","Dark chocolate, lemon buttercream, boiled sweets"
+9,1,Ruby,IN,No,1,No,Masala Chai Devon Flats,"Cardamom, pistachio, clove, cinnamon, dark chocolate, masala chai","""Gingerbread Marathon Selfie""","Crystallised ginger, gold leaf, marshmallow fondant"
+9,1,Terry,IN,No,9,No,Lake District Ginger Shortbread,"Oatmeal, chocolate wafer, crystallised ginger, shortbread","""Brandy Snap Selfie""","Vanilla buttercream, raspberry jam, crushed meringue, brandy snap"
+9,2,Antony,IN,No,9,No,Cardamom and Coconut Burfi Traybake,"cardamom, coconut, almond frangipane, pineapple jam","Pistachio, Saffron and Rose Cake","pistachio, saffron swiss meringue buttercream, rose water, edible flowers"
+9,2,Briony,IN,No,5,No,Turron and Orange Traybake,"Orange pastry, almond sponge, chocolate ganache, almond turron",Chocolate Fudge and Salted Caramel Creation,"Chocolate fudge, caramel sponge, salted caramel vodka buttercream, dark chocolate, peanut butter"
+9,2,Dan,IN,Yes,3,No,Black Forest Slice,"vanilla cream, cherry, kirsch syrup, chocolate",Dark Chocolate and Raspberry Birthday Cake,"dark chocolate, raspberry, raspberry jam, italian meringue buttercream, white chocolate"
+9,2,Imelda,NA,NA,NA,NA,NA,NA,NA,NA
+9,2,Jon,IN,No,1,No,Lemon Meringue Traybake,"lemon meringue, white chocolate, lemon, rosemary",Hawaiian Shirt Pina Colada Cake,"pineapple sponge, pineapple curd, coconut, chocolate"
+9,2,Karen,IN,No,11,No,Almond and Marzipan Traybake with Rhubarb Jam,"marzipan, almond, rhubarb jam, custard powder, custard royal icing",Strawberry Fayre Chocolate Cake,"dark chocolate, strawberry ganache, strawberry jam, strawberry liqueur "
+9,2,Kim-Joy,IN,No,4,No,Pandan Chiffon Cake with Palm Sugar Cream,"pandan, coconut, palm sugar cream, royal icing, sugar spirals",Yuzu and Raspberry Genoise Cat Cake,"genoise sponge, yuzu curd, raspberry, fondant, italian meringue buttercream"
+9,2,Luke,OUT,No,7,No,Lemon and Poppy Seed Traybake,"lemon, poppy seed, white chocolate, candied lemon, mascarpone cream",Raspberry and White Chocolate Collar Cake,"whipped double cream, white chocolate, raspberry, chocolate"
+9,2,Manon,IN,No,6,No,Rosemary and Honey Traybake,"Pistachio nougatine, honey, rosemary, fig",Almond Princess Cake,"white chocolate, dark chocolate, almond crème diplomate, fondant"
+9,2,Rahul,STAR BAKER,No,2,Yes,Lemon and Cardamom Traybake,"italian meringue buttercream, lemon curd, cardamom, joconde sponge , lemon",Chocolate Orange Layer Cake,"dark chocolate, orange syrup, white chocolate swiss meringue, orange, crème au beurre"
+9,2,Ruby,IN,No,10,Yes,Boozy Black Forest Traybake,"cherry, dark chocolate, white chocolate, kirsch","Chocolate Orange ""Jackson Pollock"" Collar Cake","chocolate mascarpone, hazelnut cream, orange cream, hazelnut brittle, white chocolate, orange liqueur"
+9,2,Terry,IN,No,8,No,Rum and Raisin Traybake,"apple sauce, rum, raisins, dates, dark chocolate ganache, candied walnuts",Champagne and Strawberries Eiffel Tower Collar Cake,"white chocolate, champagne buttercream, strawberry, chocolate"
+9,3,Antony,OUT,No,8,No,Decadent Breakfast Chelsea Buns,"cinnamon, peanut butter, boozy caramel sauce, bacon, pecan, rum soaked raisins",Chocolate and Orange Adventure Korovai,"chocolate, apricot and orange liqueur glaze, orange"
+9,3,Briony,IN,No,9,No,Balsamic Strawberry Chelsea Buns,"balsamic strawberry glaze, mascarpone icing, raisins, pistachios, balsamic strawberry",Happily Ever After Korovai,"lemon zest, lime zest, orange zest, salted caramel vodka, plaited dough"
+9,3,Dan,IN,Yes,6,No,Sticky Spiced Orange Chelsea Buns,"candied orange syrup, brandy soaked sultanas",Wedding Korovai,"orange zest, lemon zest, spiced rum"
+9,3,Imelda,NA,NA,NA,NA,NA,NA,NA,NA
+9,3,Jon,IN,No,2,No,Cardiff City vs Chelsea Buns,"salted caramel, peacan, fondant icing, pecan butter, marshmallow",Korovai Dydd Dewi Sant,"welsh tea, mixed spice, chopped dried fruit, plaited dough"
+9,3,Karen,IN,No,5,No,Peak District Christmas Chelsea Buns,"cranberry, royal icing, glace cherry, flaked almonds, ",French Breakfast Wedding Korovai,"coffee, chocolate chips, matcha "
+9,3,Kim-Joy,IN,No,10,No,Pistachio and Cardamom Tangzhong Chelsea Buns,"tangzhong, pistachio, cardamom, lemon zest, royal icing","Orange, Cinnamon and Cranberry 'Kit-ovai'","cinnamon, cranberry"
+9,3,Luke,NA,NA,NA,NA,NA,NA,NA,NA
+9,3,Manon,IN,No,3,No,"Apricot, Cranberry and Marzipan Chai Chelsea Buns","chai tea, apricot jam glaze, cranberry, marzipan",Faberg√© Inspired Traditional Korovai,"orange blossom, chocolate, lattice"
+9,3,Rahul,STAR BAKER,No,4,No,Mango and Cranberry Chelsea Buns,"dried cranberries, mango, mango icing, bengali five spice",Garden Wedding Korovai,"orange zest, lemon zest"
+9,3,Ruby,IN,No,7,No,"Gujarela Chelsea Buns with Dates, Almonds and Raisins","ghee, gujarela, dark chocolate, dates, almonds, raisins, vanilla, cinnamon",Mama and Papa's Belated Wedding Korovai,"apricot, almond liqueur, cherry, braided spiral dough, apricot jam glaze, flaked almonds"
+9,3,Terry,IN,No,1,No,Tangy Citrus Sticky Chelsea Buns,"apricots, dates, lemon water icing, amalfi lemon, mixed peel",Garden Korovai,"orange, lemon, vanilla, cinnamon butter"
+9,4,Antony,NA,NA,NA,NA,NA,NA,NA,NA
+9,4,Briony,IN,No,5,No,Treacle Tart Roulade,"mascarpone cream, pears, dried pears, pecan, meringue",Blood Orange & Amaretto Sticky Toffee Sphere,"white chocolate, amaretto, blood orange zest, sticky toffee pudding tart"
+9,4,Dan,STAR BAKER,Yes,1,No,Florida Roulade,"coconut cream, flaked coconut, mango, strawberry, lime curd, meringue",Dan and the Giant Peach,"joconde, toasted hazelnut, honey and vanilla poached peaches, hazelnut biscuits, dark chocolate, caramel sauce"
+9,4,Imelda,NA,NA,NA,NA,NA,NA,NA,NA
+9,4,Jon,IN,Yes,3,No,Mango and Passion Fruit Roulade,"meringue, passion fruit and lime curd, white chocolate cream, mango, mango spheres",Lucy and Hannah's Ballet Cake,"white chocolate, dark chocolate, white chocolate ganache, raspberry ganache, kirsch syrup joconde, raspberry and kirsch syrup"
+9,4,Karen,IN,No,7,No,Coffee Cream and Praline Roulade,"meringue, irish coffee cream custard, hazelnut pralines, coffee caramel , dark chocolate, whiskey",Chateau Du Chambord Framboise,"dark chocolate, raspberry syllabub, raspberry liqueur chocolate brownie, raspberry liqueur coulis, white chocolate, mascarpone, royal icing"
+9,4,Kim-Joy,IN,No,6,No,'Sweet Dreams' Roulade,"meringue, whipped cream, passion fruit curd, raspberry, falked almonds",Melting Chocolate Galaxy,"chocolate orange craquelin, orange liqueur cream, blanced almonds, dark chocolate, salted caramel sauce, choux"
+9,4,Luke,NA,NA,NA,NA,NA,NA,NA,NA
+9,4,Manon,IN,No,8,No,Amarene and Kirsch Cherry Roulade,"mascarpone cream, kirsch, dark cherry, amarene cherry, meringue",White Chocolate Renaissance Surprise,"white chocolate, crème anglaise, white chocolate mousse, raspberry curd, dark chocolate, raspberry, praline"
+9,4,Rahul,IN,No,4,No,Rhubarb and Custard Roulade,"rhubarb compote, cream custard, meringue, flaked almonds",Opera Cake with Kalash Inspired Dome,"chocolate joconde, plain joconde, coffee crème anglaise, coffee french buttercream, dark chocolate"
+9,4,Ruby,IN,No,2,No,Pina Colada Roulade,"rosted pineapple, coconut rum cream, meringue, desiccated coconut, meringue",Chocolate Egg,"pistachio, white chocolate coconut ganache, passion fruit curd, mango swiss meringue, milk chocolate"
+9,4,Terry,IN,No,NA,No,NA,NA,NA,NA
+9,5,Antony,NA,NA,NA,NA,NA,NA,NA,NA
+9,5,Briony,IN,No,6,No,Honey and Apricot Ginger Cake,"ginger, dried apricot, dark chocolate ganache, honeycomb, honey buttercream",Turmeric Latte Chandelier,"turmeric, coriander, cloves, lemon juice"
+9,5,Dan,IN,No,2,No,Ginger and Lemon Drip Cake,"white chocolate, ginger, lemon curd, lemon swiss meringue buttercream",Birthday Kaleidoscope for Constance,"cinnamon , apple royal icing"
+9,5,Imelda,NA,NA,NA,NA,NA,NA,NA,NA
+9,5,Jon,IN,No,7,No,Family Christmas Ginger Cake,"stem ginger, gingerbread, lemon glitter balls, italian meringue buttercream",Birthday Chandelier for Emily's 21st,"cinnamon marshmallow, cinnamon, raspberry chilli jam, sugar glass"
+9,5,Karen,OUT,No,9,No,Bonfire Night Ginger Cake,"crystallised ginger, cinder toffee, honeycomb, brandy, cream cheese frosting",Pontefract Girls' School Reunion,"liquorice, cardamom, sugar glass"
+9,5,Kim-Joy,STAR BAKER,Yes,4,No,Stem Ginger Cake with Poached Pears,"crystallised ginger, gingerbread, cream cheese frosting, salted caramel drizzle, poached pears",Christmas Spiced Ice Chandelier,"nutmeg, cinnamon, cardamom, cloves, isomalt glass"
+9,5,Luke,NA,NA,NA,NA,NA,NA,NA,NA
+9,5,Manon,IN,Yes,5,No,Italian Meringue Ginger Cake,"lemon italian meringue, candied lemon, ginger, lemon curd",Art Deco Spiced Biscuit Chandelier,"chocolate, tonka bean, timut pepper, cinnamon ganache"
+9,5,Rahul,IN,Yes,3,No,Bonfire Night Caramel Ginger Cake,"ginger honeycomb, cindar toffee, swiss meringue buttercream, ginger, stem ginger",Durga Puja Cardamom Chandelier,"cardamom, orange, mixed fruit sweets, vanilla"
+9,5,Ruby,IN,No,1,No,Jamaican Me Crazy Ginger Cake,"ginger snaps, toffee drizzle, orange mascarpone cream, ginger, rum",Peacock Chandelier,"pistachio, cardamom, clove, cinnamon, raspberry, white chocolate ganache"
+9,5,Terry,OUT,No,8,No,Caramelised Pear and Stem Ginger Cake,"Caramelised pears, stem ginger, vanilla cream, cream cheese frosting",12 Days of Christmas Chandelier,"pepper, cloves, all spice, vanilla, lemon royal icing"
+9,6,Antony,NA,NA,NA,NA,NA,NA,NA,NA
+9,6,Briony,STAR BAKER,No,1,No,Home Comforts,"beetroot, port soaked cranberries, spinach, mascarpone cheese, peanut butter, golden syrup","""Down the Rabbit Hole"" Banquet Pie","sweet potato, venison, mushroom"
+9,6,Dan,OUT,No,6,No,Festive Samosas,"chopped walnut, pear, stilton, caramelised hazelnut, chopped banana",Salmon Coulibiac,"rice, boiled egg, lightly smoked salmon"
+9,6,Imelda,NA,NA,NA,NA,NA,NA,NA,NA
+9,6,Jon,IN,No,2,No,"A Romantic Dinner For Two, Samosa Style","chicken, pesto, orange zest, vanilla crème patissiere",Welsh Dragon Pie,"spiced minced beef, leeks, carrots"
+9,6,Karen,NA,NA,NA,NA,NA,NA,NA,NA
+9,6,Kim-Joy,IN,No,5,No,Flavours of India,"kashmiri chilli, onion, paneer, crystallised ginger, chai spices, granny smith apples",Silke the Vegetarian Mermaid,"beetroot, butternut squash, feta cheese, caramelised onion"
+9,6,Luke,NA,NA,NA,NA,NA,NA,NA,NA
+9,6,Manon,IN,No,4,No,Samosas for Mum,"confit lemon, chicken, green olives, salted caramel, cox's apples","""What Has Poppy Eaten?""","salmon paste, whiting, scallops "
+9,6,Rahul,IN,Yes,3,No,Paneer Singara and Misti Singara,"ground coriander, potato, paneer, ricotta cheese, desiccated coconut, cashew nuts",Butterfly Pie,"rice, lamb curry"
+9,6,Ruby,IN,Yes,7,No,Traditional Samosas,"onion, peas, spiced potatoes, orange infused date, almond paste, chopped almonds, cumin seeds",Kohinoor Crown,"rice, nigella seeds, chicken curry"
+9,6,Terry,NA,NA,NA,NA,NA,NA,NA,NA
+9,7,Antony,NA,NA,NA,NA,NA,NA,NA,NA
+9,7,Briony,IN,No,5,No,French Onion Tartlets and Celeriac & Apple Tartlets,"onion, ground almonds, vegan goat's cheese, oat cream, apple syrup, celeriac puree,sweet potato, mixed spice, prosecco",Hazelnut Mocha Cake,"dried raspberries, coffee liqueur ganache, roasted hazelnuts, mocha, chocolate"
+9,7,Dan,NA,NA,NA,NA,NA,NA,NA,NA
+9,7,Imelda,NA,NA,NA,NA,NA,NA,NA,NA
+9,7,Jon,OUT,No,4,No,Garlic Mushroom Tartlets and Falafel & Hummus Tartlets,"sauteed mushrooms, baked mushrooms, sweet potato mash, garlic, vegan cream cheese, falafel, hummus",Only Fools Eat Horses Cake,"agar agar fondant, vegan chocolate cake, orange curd icing, meringue, orange zest, buttercream"
+9,7,Karen,NA,NA,NA,NA,NA,NA,NA,NA
+9,7,Kim-Joy,STAR BAKER,Yes,6,No,Broccoli & Tomato Quiches and Mascarpone Squirrel Tartlets,"tofu, indian black salt, nutritional yeast, balsamic beetroot, broccoli, tomato, onion",Lavender & Lemon Fox Cake,"vanilla cookies, aguafaba royal icing, butter cream, dried lavender, lemon curd"
+9,7,Luke,NA,NA,NA,NA,NA,NA,NA,NA
+9,7,Manon,IN,No,2,No,Summer & Winter Tartlets,"eggplant, zucchini, rosemary, chestnut, mushroom, cashew milk bechamel, tomato",Spiced Apple Cake,"matcha, turmeric, beetroot powder, cinnamon apples, vegan chocolate"
+9,7,Rahul,IN,No,1,No,Coriander Posto & Veg Tartlets and Ghugni Chaat Tartlets,"eggplant, zucchini, carrot, vegan yogurt, chickpea curry, cashew nut paste",Chocolate & Coconut Layer Cake with Raspberry Jam,"coconut, chocolate, vegan coconut buttercream, coconut syrup, raspberry jam, sugar shards"
+9,7,Ruby,IN,No,3,No,Sage & Butternut Tartlets and 'Cheesy Greens' Tartlets,"butternut squash, garlic salt, cashew milk and arrowroot cheese, nutritional yeast","Chocolate, Lemon & Coconut Cake","chocolate, lemon, vanilla syrup,raspberries, coconut"
+9,7,Terry,NA,NA,NA,NA,NA,NA,NA,NA
+9,8,Antony,NA,NA,NA,NA,NA,NA,NA,NA
+9,8,Briony,IN,No,1,No,Spanish & West Country Sm√∏rrebr√∏d,"chorizo, iberico ham, flaked mackerel, tomato, asparagus, sweet potato, fig jam, beetroot",Nana Pat Kagekone,"toffee, dried blueberries, marshmallow, ginger crème patissiere"
+9,8,Dan,NA,NA,NA,NA,NA,NA,NA,NA
+9,8,Imelda,NA,NA,NA,NA,NA,NA,NA,NA
+9,8,Jon,NA,NA,NA,NA,NA,NA,NA,NA
+9,8,Karen,NA,NA,NA,NA,NA,NA,NA,NA
+9,8,Kim-Joy,IN,No,2,No,Bumblebee Eggs & Fish Sm√∏rrebr√∏d,"cucumber, radish, smoked slamon, boiled eggs, havarti cheese, tomato",Off to the Opera Kagekone,"royal icing, crème patissiere, white chocolate"
+9,8,Luke,NA,NA,NA,NA,NA,NA,NA,NA
+9,8,Manon,OUT,No,4,No,Cheese and Fruit Sm√∏rrebr√∏d,"mascarpone cream, gorgonzola cheese, strawberry, goats cheese, pear, radish, greens",Birthday Girl Kagekone,"bon bon, caramel, nougatine, marshmallow, pain au chocolat"
+9,8,Rahul,IN,No,5,No,Smoked Salmon & Roasted Vegetable Sm√∏rrebr√∏d,"smoked salmon, carrot, celeriac, shallots, curry powder, lemon, dill, cream cheese, beetroot, asparagus, pickled cucumber, sunflower seeds",Indian King Kagemand,"orange zest, salted caramel, crème patissiere, fruit jelly, chocolate, marzipan, buttercream"
+9,8,Ruby,STAR BAKER,No,3,No,Post-Gym Sm√∏rrebr√∏d,"egg, avocado, asparagus, chorizo, tandoori chicken, cumin seeds",Sister Kagekone,"frangipane, apricot, honeycomb, chocolate truffle, marzipan, crystallised ginger"
+9,8,Terry,NA,NA,NA,NA,NA,NA,NA,NA
+9,9,Antony,NA,NA,NA,NA,NA,NA,NA,NA
+9,9,Briony,OUT,No,3,No,"Mojito Madeleines
+Espresso Martini Madeleines","mint tea, lime zest, spiced rum, white chocolate, dark chocolate, coffee bean, espresso",British Tea to French Patisserie Window,"coffee crème patissiere, walnut, cherry mousse, cherry jelly, blueberries, raspberries, chocolate, lemon"
+9,9,Dan,NA,NA,NA,NA,NA,NA,NA,NA
+9,9,Imelda,NA,NA,NA,NA,NA,NA,NA,NA
+9,9,Jon,NA,NA,NA,NA,NA,NA,NA,NA
+9,9,Karen,NA,NA,NA,NA,NA,NA,NA,NA
+9,9,Kim-Joy,IN,No,2,No,"Ginger and Lemon Madeleines
+Orange Bunny Madeleines","orange, lemon, ginger, chopped pistachios, white chocolate",Flavourite Flavours Window Display,"mango, passion fruit, strawberry, orange crème diplomat, blue berry, french meringue, icing, sugar spirals"
+9,9,Luke,NA,NA,NA,NA,NA,NA,NA,NA
+9,9,Manon,NA,NA,NA,NA,NA,NA,NA,NA
+9,9,Rahul,IN,No,4,No,"Lemon and Raspberry Madeleines
+Orange Curd Madeleines","chopped hazelnuts, white chocolate, dark chocolate, freeze dried raspberries, orange curd, lemon",Classic Tribute to Patisserie Window,"lemon curd, blueberry, caramel glaze, chocolate, strawberry, raspberry, crème diplomat"
+9,9,Ruby,STAR BAKER,No,1,No,Pick Your Own Madeleines,"raspberry, white chocolate, desiccated coconut, orange, stem ginger, dark chocolate",Parisian Un Bouquet de Fleurs Window Display,"strawberry, mint, chocolate, hazelnut, crème chantilly, lemon verbena, swiss meringue, orange shortbread"
+9,9,Terry,NA,NA,NA,NA,NA,NA,NA,NA
+9,10,Antony,NA,NA,NA,NA,NA,NA,NA,NA
+9,10,Briony,NA,NA,NA,NA,NA,NA,NA,NA
+9,10,Dan,NA,NA,NA,NA,NA,NA,NA,NA
+9,10,Imelda,NA,NA,NA,NA,NA,NA,NA,NA
+9,10,Jon,NA,NA,NA,NA,NA,NA,NA,NA
+9,10,Karen,NA,NA,NA,NA,NA,NA,NA,NA
+9,10,Kim-Joy,Runner-up,No,1,No,Amaretto Diplomat Filled Doughnuts & Lemon Ring Doughnuts,"lemon, lemon glaze, amaretto crème diplomat, orange glaze",Lost City of Atlantis Dessert Landscape,"ginger cake, ginger biscuit, orange buttercream, salted caramel, isomalt coral, nutmeg, cloves, crushed praline, fondant, crystallised ginger"
+9,10,Luke,NA,NA,NA,NA,NA,NA,NA,NA
+9,10,Manon,NA,NA,NA,NA,NA,NA,NA,NA
+9,10,Rahul,WINNER,No,2,No,Mango Creme Patisserie Filled Doughnuts & Spiced Orange Ring Doughnuts,"mango crème patissiere, orange, cinnamon, ginger, orange buttercream, royal icing",Edible Rock Garden,"orange buttercream, cardamom crème diplomat, chocolate, orange, lemon joconde, orange curd, ginger biscuit"
+9,10,Ruby,Runner-up,No,3,No,Dulce De Leche Filled Doughnuts & Raspberry and Cardamom Ring Doughnuts,"dulce de leche, cinnamon, cardamom, freeze dried raspberry, white chocolate",Magical Edible Landscape,"passion fruit curd, praline, blueberry compote, salted pistachio brittle, choux, cardamom, lemon crème patissiere"
+9,10,Terry,NA,NA,NA,NA,NA,NA,NA,NA
+10,1,Alice,IN,No,5,No,Gingerbread Fruit Cake Wreath,"gingerbread, fig, blackberry",Like a Child in a Sweetshop Cake,"lemon, raspberries, lemon swiss meringue buttercream"
+10,1,Amelia,IN,No,4,No,Christmas Cake,"mixed fruit, orange brandy, marzipan, glace cherries, royal icing, crystallised ginger",Carousel Birthday Cake,"rice krispies, white chocolate ganache, red velvet, raspberry jam"
+10,1,Dan,OUT,No,9,No,Jamaican Rum Cake,"dried fruit, spiced rum buttercream, coffee and almond brittle",Pirate Island Cake,"lime zest, coconut, passionfruit curd, isomalt "
+10,1,David,IN,No,10,No,Squishy Squashy Fruit Cake,"orange zest, carrot, squash, almond florentines, hazelnut marzipan, marzipan, dried prunes, dried figs",Snakey Birthday Cakey,"rice krispies, chocolate, orange zest, fondant"
+10,1,Helena,IN,No,12,No,Fruit Bat Cake,"spiced pumpkin, maple cream cheese buttercream, dried prunes, toasted pecan",Away with the Fairies Cake,"chocolate, chocolate buttercream, fondant, desiccated coconut, coffee"
+10,1,Henry,IN,No,1,No,Wood Street Cake,"chocolate, royal icing, dried fruit",Secret Woodland Cake,"chocolate, chocolate ganache, woodland berries, blackberry"
+10,1,Jamie,IN,No,13,No,Easter Simnel Cake,"marzipan, strawberry jam",Salted Caramel Schnauzer Birthday Cake,"salted carmael buttercream, vanilla biscuits, salted caramel sauce"
+10,1,Michael,IN,No,11,No,Cup of Chai Cake,"chai, sultanas, apricots",Treasure Chest Cake,"cinder toffee, chocolate, salted caramel buttercream"
+10,1,Michelle,STAR BAKER,No,6,No,Bara Brith Teulu Ni (Our Family's Bara Brith),"tea, pecan, welsh rum icing, mixed fruit",Tylwyth Teg (Fairy House Cake),"carrot, orange, cinnamon, fondant"
+10,1,Phil,IN,No,8,No,Spiced Fruit Cake with Rum Glaze,"marzipan, cinnamon , ginger, nutmeg, allspice, cloves, sugar frosted fruits, run icing",Retro Rocket Cake,"rice krispies, sherbert, raspberry ripple buttercream"
+10,1,Priya,IN,No,7,No,Sunshine Fruit Cake,"dried papaya, dried pineapple, dried mango, marzipan",Once Upon a Time Cake,"chocolate, orange zest, chocolate orange buttercream, meringue"
+10,1,Rosie,IN,No,2,No,Spicy Chai Loaf,"dried apple, dried strawberry, dried mango, strawberry and mango jam, indian chai, french buttercream",Magical Jungle Cake,"chocolate, red velvet, fondant, vanilla italian meringue buttercream"
+10,1,Steph,IN,No,3,No,Great Grandma's Fruit Cake,"orange zest, candied oranges, apricot, marzipan",A Sundae on the Beach Cake,"dark chocolate ganache, vanilla and raspberry buttercream, coconut"
+10,2,Alice,STAR BAKER,No,1,No,Honeycomb Peanut Mallow Bars,"marshmallow, salted peanut caramel, honeycomb",Chocolate and Coconut New Zealand Lamb,"chocolate, coconut, lime, macaron"
+10,2,Amelia,IN,No,9,No,"Pistachio, Almond & Raisin Nougat Biscuit Bars","rosehip syrup, pistachio, almond, raisin",Swimming with Dolphins,"lemon zest, orange extract, viennese whirl, "
+10,2,Dan,NA,NA,NA,NA,NA,NA,NA,NA
+10,2,David,IN,No,2,No,Coco-nutty Chocolate Bars,"dark chocolate, chocolate, nougat, pistachio, coconut",Wedding Spray,"almond tuile, fennel, lime, grapefruit, caraway, cardamom, lemon"
+10,2,Helena,IN,No,12,No,Wicked Witch Fingers,"matcha, almond, salted caramel",Caught in a Spider's Web,"chocolate, orange zest, lemon zest, earl grey, spiced macadamia nuts"
+10,2,Henry,IN,No,6,No,"Coffee, Cardamom & Hazelnut Bars","hazelnut, chocolate and cardamom mousse, dark chocolate",Chapel Organ,"boiled sweets, almond tuile, ginger"
+10,2,Jamie,OUT,No,11,No,Cherry Caramel Shortbread Biscuit Bars,"sour cherry caramel, dark chocolate",Biscuit Guitar,"chocolate, ginger, lemon royal icing, lemon"
+10,2,Michael,IN,No,4,No,Lemon & Rosemary Biscuit Bars,"dark chocolate, lemon curd, lemon marshmallow, rosemary, gin",Hamish the Highland Cow,"ginger, chocolate, orange, tuile, viennese whirl, chilli"
+10,2,Michelle,IN,No,8,No,Bakewell Bars,"raspberry jam, white chocolate, almond marshmallow",Dewi y Ddraig Cymraeg - Dewi the Welsh Dragon,"lemon zest, cardamom, pistachio, brandy snap, macarons"
+10,2,Phil,IN,No,3,No,"Orange, Cranberry & White Chocolate Fudge Bars","orange zest, white chocolate, dried cranberries, milk chocolate",Tina the Tortoise,"cherry, citrus peel, almonds, brandy snap"
+10,2,Priya,IN,No,7,No,Ruby Barfi Biscuit Bars,"cardamom, ruby chocolate, passionfruit jelly, raspberry and coconut barfi",The Beast of Rocky Mountain,"langues de chat, orange, cinnamon, brandy snap"
+10,2,Rosie,IN,No,5,No,Virgin Mojito Biscuit Bars,"lime jelly, mint marshmallow, choocolate",My Favourite Chicken ‚Äì A Celebration of Legs,"Tuile, ginger,lemon zest"
+10,2,Steph,IN,No,10,No,"Chocolate, Caramel Macchiato Biscuit Bars","coffee, coffee beans, caramel, dark chocolate",Ginger the Cat,"cinnamon, nutmeg, clove, brandy snap, ginger"
+10,3,Alice,IN,No,7,No,Baklava Tear & Share,"candied orange, chopped pistachios, dried rose petals, honey, orange blossom, spices",Global Bread,"beetroot, walnut, linseeds, poppy seeds, carrot, coriander, garlic, rosemary, mixed seeds"
+10,3,Amelia,OUT,No,11,No,Chorizo Brunch Tear & Share,"chorizo, peppers, caramlised onions, garlic, harissa",Caterpillar Transformation,"roasted red pepper, matcha powder, beetroot powder, garlic"
+10,3,Dan,NA,NA,NA,NA,NA,NA,NA,NA
+10,3,David,IN,No,2,No,Cinnamon Swirl Tear & Share,"cinnamon,sugar glaze, brandy soaked fruit, vanilla buttercream",Trio of African Masks,"charcoal powder, annatto powder, beetroot powder, blue pea flower powder"
+10,3,Helena,IN,No,8,No,Frosted Cinnamon and Pecan Tear & Share,"toasted pecans, cream cheese",Every Bread is Halloween,"parmesan, sesame seeds, charcoal powder, spirulina"
+10,3,Henry,IN,No,1,No,Chicken and Pesto Tear & Share,"chicken, pesto, poppy seeds, sesame seeds, black olives",Herb Garden,"rosemary, black olive, walnut, parsley, raisin, caraway, thyme, sage, poppy seed flowers"
+10,3,Jamie,NA,NA,NA,NA,NA,NA,NA,NA
+10,3,Michael,STAR BAKER,Yes,6,No,Keralan Star Bread Tear & Share,"coconut chutney, paprika",Mediterranean Camp Fire,"black onion seeds, charcoal powder, smoked garlic, parmesan, red pepper, olive"
+10,3,Michelle,IN,No,5,No,Noson Gaws (Cheese Night) Tear & Share,"pancetta, pear, black garlic, walnut, truffle, fruit compote, angiddy cheese, golden cenarth cheese",Gardd Ni (Our Garden),"raspberry, passionfruit powder, raisins, hazelnut paste"
+10,3,Phil,IN,No,10,No,Pancetta and Cheese Focaccia Tear & Share,"garlic, parsley, rosemary, gruyere cheese, grana padano cheese, smoked pancetta, chives",Winner's Wreath,"spelt, beetroot, parsley, sage, thyme, smoked applewood cheese"
+10,3,Priya,IN,No,4,No,Smokey Jalape√±o Tear & Share,"onion, jalapeno, cheddar, red leicester, smoked paprika, chillies",Bird Boules,"italian seasoning, beetroot powder, blue pea flower powder"
+10,3,Rosie,IN,No,9,No,Chilli and Manchego Tear & Share,"candied chilli, manchego, red onions, garlic, balsamic",Bread Safari,"sun-dried tomato, garlic, turmeric, coriander, beetroot, chilli "
+10,3,Steph,IN,No,3,No,Sun-Dried Tomato and Pesto Star Tear & Share,"parmesan cheese, sun-dried tomatoes, basil sauce, lemon zest",Hand-Tied Bouquet of Flowers,"beetroot, rosemary, turmeric, wholemeal, sesame seeds"
+10,4,Alice,IN,No,8,No,Leafy Yoghurt Cake,"yogurt, cardamom, lemon, pistachio",Afternoon Tea,"carrot, coffee, chocolate cheesecake"
+10,4,Amelia,NA,NA,NA,NA,NA,NA,NA,NA
+10,4,Dan,NA,NA,NA,NA,NA,NA,NA,NA
+10,4,David,IN,No,2,No,A Kick of Limoncello Cake,"lemon, poppy seed, limoncello glaze, yogurt",Flavours of India Mishti,"kewra water, cardamom, mango, carrot, fennel tuile"
+10,4,Helena,IN,No,9,No,Ghost Cake,"buttercream, almond, buttermilk, orange zest",Ye Olde English Sweet Shoppe Mishti,"chocolate, coconut, parma violet, lemon sherbet"
+10,4,Henry,IN,No,3,No,Ode to a German Breakfast Cake,"spiced apple, apple crisps, yogurt, cinnamon, streusel",Seaside Mishti,"pistachio and raspberry icecream, orange, coconut"
+10,4,Jamie,NA,NA,NA,NA,NA,NA,NA,NA
+10,4,Michael,IN,No,7,No,Cheesecake Surprise,"sour cream, raspberry cheesecake swirl, lemon, raspberry",Flag of India Mishti,"pistachio, mango, lemon, rosewater"
+10,4,Michelle,IN,No,5,No,Homely Rhubarb Cake,"rhubarb, pecan, meringue kisses, freeze-dried raspberries, apple crisps, buttermilk, custard buttercream",Home Comforts Mishti,"passion fruit, chocolate, tonka bean rice pudding, raspberry"
+10,4,Phil,OUT,No,6,No,Trucking Lovely Rose Cake,"rosewater syrup, buttercream, yogurt, ",A Corner of My Garden Mishti,"chocolate, elderflower, pistachio, blueberry"
+10,4,Priya,IN,No,10,No,Choc-chip Banana Cake,"banana, chocolate, yogurt, toffee sauce, chocolate chips, dried bananas",Flavours of My Childhood Mishti,"saffron, cardamom, mango, rosewater, lychee"
+10,4,Rosie,IN,No,4,No,A Good Dose of Limoncello Cake,"lemon zest, limoncello, buttermilk, meringue kisses",Cocktails & Canap√©s Mishti,"rose water, sweet milk custard, orange"
+10,4,Steph,STAR BAKER,No,1,No,Answer to Everything Cake,"chocolate, raspberry, buttermilk, raspberry coulis, pistachios",Pink and Pretty Mishti,"pistachio, rosewater, mango, date, walnut"
+10,5,Alice,IN,No,6,No,Chocolate & Orange Custard Pies,"chocolate, orange curd, orange extract",Pina Colada Cake,"caramelised rum pineapple, coconut buttercream"
+10,5,Amelia,NA,NA,NA,NA,NA,NA,NA,NA
+10,5,Dan,NA,NA,NA,NA,NA,NA,NA,NA
+10,5,David,IN,Yes,9,No,Fancy Custards,"vanilla custard, glazed fruit",Amaretto Sour Cake,"amaretto, lemon, aromatic bitters buttercream"
+10,5,Helena,OUT,No,1,No,Lemon and Lavender Pies,"modeling chocolate, lemon zest, lemon custard, lavender, meringue",Vampire's Kiss Raspberry Vodka Cake,"red velvet, cream cheese icing, vanilla buttercream, raspberry vodka, isomalt, white chocolate"
+10,5,Henry,IN,No,3,No,1920s Pies,"raspberry curd, white chocolate mousse, lemon and lime custard, raspberry, candied lemon slices, italian meringue",White Russian Cake,"italian meringue coffee buttercream, coffee liqueur, chocolate, hazelnut praline"
+10,5,Jamie,NA,NA,NA,NA,NA,NA,NA,NA
+10,5,Michael,IN,No,8,No,"Mango, Lime & Ginger Pies","mango and lime custard, mango gelee discs, ginger, meringue kisses, white chocolate, dark chocolate ganache, ginger honeycomb, sugared lime peel",Brambling Cake,"gin and lemon and blackberry syrup, blackberries, crème de mure buttercream"
+10,5,Michelle,OUT,No,7,No,Blueberry & White Chocolate Cr√®me Br√ªl√©e Pies,"blueberry compote, white chocolate custard, fig, strawberry, raspberry, blackberry",My Little Sister the Dancing Queen's Pi√±a Colada Cake,"coconut extract, rum buttercream, toasted coconut flakes, pineapple"
+10,5,Phil,NA,NA,NA,NA,NA,NA,NA,NA
+10,5,Priya,IN,No,2,No,Lemon & Raspberry Ripple Pies,"lemon custard, raspberry custard, lemon, sliced fruit",Meena Colada Cake,"passion fruit syrup, coconut buttercream, pineapple curd, royal icing"
+10,5,Rosie,IN,No,5,No,Little Blackberry Pies,"elderflower jelly, matcha, blackberry, custard",White Russian Cake,"coffee liqueur, vodka swiss meringue buttercream, chocolate caramel, cream, dark chocolate ganache, royal icing"
+10,5,Steph,STAR BAKER,No,4,No,Zesty Citrus Custard Pies,"lemon and lime and orange custard, italian meringue, blueberry",Sour Lime Pi√±a Colada Cake,"white rum swiss meringue buttercream, lime, coconut, candy shards"
+10,6,Alice,IN,No,1,No,Black Forest Meringue,"chocolate, chocolate mousse, cherry compote, cherry buttercream",Tiramisu Bombe,"espresso, espresso chocolate mousse, pistachio parfait, praline, spiced rum mascarpone cream"
+10,6,Amelia,NA,NA,NA,NA,NA,NA,NA,NA
+10,6,Dan,NA,NA,NA,NA,NA,NA,NA,NA
+10,6,David,IN,No,2,No,Spiced Meringue Surprise,"clove, cinnamon, star anise, figs, blackberries, vanilla crème diplomat",Delightful Bombe,"white chocolate and raspberry mousse, lemon and shiso leaf sorbet, raspberry and rose water jelly"
+10,6,Helena,NA,NA,NA,NA,NA,NA,NA,NA
+10,6,Henry,IN,No,4,No,Towering Meringue Cake,"pistachio, chocolate crème patissiere, raspberries, chocolate",Bonfire Bombe,"cinnamon meringue, bramley apple mousse, spiced honey mousse, cinnamon chanilly cream"
+10,6,Jamie,NA,NA,NA,NA,NA,NA,NA,NA
+10,6,Michael,IN,No,6,No,Dark Chocolate Meringue Cake,"chocolate, orange crème au beurre, hazelnut, dark chocolate and orange ganache, orange liqueur",Black Forest Bombe,"cherry jelly, chocolate and almond mousse, chocolate and cherry italian meringue, cherry cheesecake, freeze-dried cherries"
+10,6,Michelle,NA,NA,NA,NA,NA,NA,NA,NA
+10,6,Phil,NA,NA,NA,NA,NA,NA,NA,NA
+10,6,Priya,OUT,No,7,No,Family Favourite,"amaretto crème patissiere, almond, blueberry crème au beurre",Summer Fruit Bombe,"crème de cassis blackcurrant liqueur, dark chocolate mousse, summer fruit bavarois, dark chocolate ganache, raspberry meringue shards"
+10,6,Rosie,IN,No,5,No,Layers of Lime and Raspberry,"salted caramel, raspberry and lime curd, chocolate ganache, raspberry cream",Ruby Bombe,"mango bavarois, honey cake, lemon, hibiscus mousse, caramelised salted white chocolate"
+10,6,Steph,STAR BAKER,No,3,No,Eton Mess,"pistachio, raspberries, white chocolate cream cheese",Mirror Bombe,"coffee bavarois, dark chocolate mousse, amaretto, joconde sponge, chocolate"
+10,7,Alice,IN,No,6,No,"Lemon, Blueberry & Almond Hot Cross Buns","lemon zest, blueberry, almond, freeze-dried blueberries, lemon curd glaze","Chocolate, Orange and Salted Caramel Kaleidoscope Sarawak Style Layered Cake",
+10,7,Amelia,NA,NA,NA,NA,NA,NA,NA,NA
+10,7,Dan,NA,NA,NA,NA,NA,NA,NA,NA
+10,7,David,IN,No,2,No,Kozunak Plaits,"raisins, lemon, almond, malt powder",Sarawak Style Layer Cake Sculpture,"cloves, cinnamon, cardamom, nutmeg"
+10,7,Helena,NA,NA,NA,NA,NA,NA,NA,NA
+10,7,Henry,STAR BAKER,Yes,3,No,Chocolate Kardemummabullar,"chocolate, cardamom glaze, almond and chocolate crème patissiere",Elegant Present Box,"lemon, lime, raspberry and mint jam"
+10,7,Jamie,NA,NA,NA,NA,NA,NA,NA,NA
+10,7,Michael,OUT,No,5,No,Figgy Pudding Hot Cross Buns,"brandy glaze, marzipan, lemon zest, orange zest, fig, sultanas, cranberries, dates, apricots, brandy butter",Jamaican Mule Sarawak Style Layer Cake,"spiced rum and lime marzipan, royal icing, ginger and lime curd"
+10,7,Michelle,NA,NA,NA,NA,NA,NA,NA,NA
+10,7,Phil,NA,NA,NA,NA,NA,NA,NA,NA
+10,7,Priya,NA,NA,NA,NA,NA,NA,NA,NA
+10,7,Rosie,IN,No,1,No,Mardi Gras Finnish Semlor Peacock Festival Buns,"lemon and white chocolate namelaka, raspberry jam, candy",Rainbow Sarawak Style Layer Cake,"lemon, mixed spice, nectarine jam, royal icing"
+10,7,Steph,IN,Yes,4,No,Zest and Spice Hot Cross Buns,"cranberries, sultanas, spiced glaze, orange zest, lemon zest, cinnamon, cloves, star anise",Orange and Chai Spiced Revitalise Cake,"orange liqueur syrup, royal icing, marzipan, orange, chai, spice"
+10,8,Alice,IN,No,3,No,"Leek, Apple & Goat's Cheese Tarte Tatin","leek, goat cheese, honey, thyme, granny smith apple",Apple Tree House Pie,"granny smith apple, blackberry, toasted pecans, caramel"
+10,8,Amelia,NA,NA,NA,NA,NA,NA,NA,NA
+10,8,Dan,NA,NA,NA,NA,NA,NA,NA,NA
+10,8,David,IN,No,1,No,Caramelly Carroty Tarte Tatin,"heritage carrot, walnut, shallots, carrot top pesto, whipped sirene",Whitby Fish Pie,"crab, salmon, root vegetables, whitby, "
+10,8,Helena,NA,NA,NA,NA,NA,NA,NA,NA
+10,8,Henry,OUT,No,5,No,"Crab, Tomato & New Potato Tarte Tatin","crab, new potato, tomato, radish",Chandelier Picnic Pie,"ham, chicken, cranberries, apricot, blackberries, mint leaves, chorizo, cinnamon, chocolate, pecan"
+10,8,Jamie,NA,NA,NA,NA,NA,NA,NA,NA
+10,8,Michael,NA,NA,NA,NA,NA,NA,NA,NA
+10,8,Michelle,NA,NA,NA,NA,NA,NA,NA,NA
+10,8,Phil,NA,NA,NA,NA,NA,NA,NA,NA
+10,8,Priya,NA,NA,NA,NA,NA,NA,NA,NA
+10,8,Rosie,IN,No,2,No,"Shallot, Aubergine & Goat's Cheese Spiced Tarte Tatin","eggplant, shallot, black garlic, red pepper, goat cheese, spice",Rapunzel's Tower,"chillies, curried vegetables, roasted vegetables, camembert"
+10,8,Steph,STAR BAKER,No,4,No,Caramelised Onion & Goat's Cheese Tarte Tatin,"onion, shallots, goat cheese, balsamic venegar caramel, basil",Curried Chickpea & Potato Carousel,"chillies, chickpea and potato curry"
+10,9,Alice,STAR BAKER,No,4,No,"Mocha, Hazelnut & Orange Domed Tarts","mocha mousse, espresso buttercream, orange curd, hazelnut praline paste, chocolate",Save Our Oceans,"lemon and honey custard, raspberry curd, chocolate, white chocolate bavarois, isomalt"
+10,9,Amelia,NA,NA,NA,NA,NA,NA,NA,NA
+10,9,Dan,NA,NA,NA,NA,NA,NA,NA,NA
+10,9,David,IN,No,2,No,Aperitif Domed Tarts,"liqueur spritz, speritif jelly, leche flan, orange pastry disk, roasted rhubarb, hazelnuts",Greenhouse Growing Moss,"parsnip, beetroot, prunes, apricots, chocolate, almonds, hazelnuts, buttercream"
+10,9,Helena,NA,NA,NA,NA,NA,NA,NA,NA
+10,9,Henry,NA,NA,NA,NA,NA,NA,NA,NA
+10,9,Jamie,NA,NA,NA,NA,NA,NA,NA,NA
+10,9,Michael,NA,NA,NA,NA,NA,NA,NA,NA
+10,9,Michelle,NA,NA,NA,NA,NA,NA,NA,NA
+10,9,Phil,NA,NA,NA,NA,NA,NA,NA,NA
+10,9,Priya,NA,NA,NA,NA,NA,NA,NA,NA
+10,9,Rosie,OUT,No,1,No,"Lemon, Raspberry & Mint Domed Tarts","pate sablee, lemon bavarian cream, raspberry gin, mint crème pat, yuzu jelly, lemon",Time with Family,"choux bun religieuse, mocha crème pat, brioche tarte tropezienne, chocolate tartlet, salted caramel crème, crème patissiere, chocolate ganache, orange sablee"
+10,9,Steph,IN,No,3,No,"Raspberry, Lemon & White Chocolate Domed Tarts","white chocolate, raspberry jelly, lemon mousse, pate sablee, dark chocolate",A Night at the Opera,"chocolate, joconde sponge, chocolate orange macarons, chocolate ganache, orange crème au beurre"
+10,10,Alice,Runner-up,No,2,No,"Chocolate, Pear, Ginger and Maple Cake","pears, chocolate, ginger, dark chocolate ganache, maple cream cheese buttercream, hazelnut brittle, red win,e cinnamon",End of the School Year Celebration Picnic,"raspberry, prosecco, orange, cardamom, carrot, blueberry, lemon curd, lemon cream cheese"
+10,10,Amelia,NA,NA,NA,NA,NA,NA,NA,NA
+10,10,Dan,NA,NA,NA,NA,NA,NA,NA,NA
+10,10,David,WINNER,No,1,No,"Chocolate, Armagnac and Prune Cake","prune, armagnac syrup, armagnac cream, chocolate, dark chocolate, cocoa powder, vanilla syrup",Peachy Pic-Nik,"saffron, orange blossom water, orange, apricot, fig, lemon"
+10,10,Helena,NA,NA,NA,NA,NA,NA,NA,NA
+10,10,Henry,NA,NA,NA,NA,NA,NA,NA,NA
+10,10,Jamie,NA,NA,NA,NA,NA,NA,NA,NA
+10,10,Michael,NA,NA,NA,NA,NA,NA,NA,NA
+10,10,Michelle,NA,NA,NA,NA,NA,NA,NA,NA
+10,10,Phil,NA,NA,NA,NA,NA,NA,NA,NA
+10,10,Priya,NA,NA,NA,NA,NA,NA,NA,NA
+10,10,Rosie,NA,NA,NA,NA,NA,NA,NA,NA
+10,10,Steph,Runner-up,No,3,No,Black Forest Chocolate Cake,"chocolate ganache, kirsch chantilly cream, cherry jam, cherries",Picnic in the Park,"spiced orange, almond, lemon, poppy seed, coconut"
+11,1,Dave,IN,No,9,No,Chocolate Espresso Martini Battenberg Cake,"chocolate and coffee liqueur, vodka and coffee, vodka marzipan",Three Flavours of Tom DeLonge,"dark chocolate buttercream, mint, strawberry"
+11,1,Hermine,IN,No,5,No,Chocolate & Orange Battenberg Cake,"orange liqueur marzipan, dark chocolate, orange",Ode to Lupita,"chocolate, coffee cream cheese icing,"
+11,1,Laura,IN,No,6,No,Celebration of Summer Battenberg Cake,"raspberry ripple, coconut, butter cream",Lemon & Elderflower Freddie,"lemon and elderflower mascarpone cream, lemon, elderflower"
+11,1,Linda,IN,No,12,No,Ambulance Battenberg Cake,raspberry buttercream,Lemon & Orange Bob Marley,"lemon, orange, lemon curd, orange curd, coconut rum mascarpone cream"
+11,1,Loriea,OUT,No,10,No,Hot Summer's Day Treats Battenberg Cake,"bubble gum extract, cream soda syrup, cream soda flavouring, almond marzipan",,"scotch bonnect chilli, chocolate, spiced ginger and mango jam, swiss meringue buttercream"
+11,1,Lottie,IN,No,4,No,Rhubarb and Custard Battenberg Cake,"rhubarb jam, custard",Coconut & Lime Louis Theroux,"coconut, lime, orange and chocolate buttercream"
+11,1,Makbul,IN,No,8,No,East India Battenberg Cake,"pistachio marzipan, spiced stem ginger, orange",Tribute to Bill Bryson,"lemon, redcurrant jam, vanilla buttercream"
+11,1,Marc,IN,No,11,No,Bittersweet Battenberg Cake,"sour cherry, chocolate, walnut, rosewater marzipan",Chocolate & Vanilla Ziggy,"chocolate, vanilla buttercream"
+11,1,Mark,IN,No,7,No,Turkish Bazaar Inspired Battenberg Cake,"pistachio, cardamom, pomegranate, orange, almond and orange marzipan",Origin-ger of the Species' by Charles Darwin,"spiced ginger, coconut buttercream, chocolate and ginger ganache"
+11,1,Peter,STAR BAKER,No,2,No,Gluten-Free Chocolate & Orange Battenberg Cake,"chocolate, pureed orange, chocolate and orange zest marzipan",In honour of Sir Chris,"strawberry jam, whipped double cream"
+11,1,Rowan,IN,No,3,No,The Magic Flute' Battenberg Cake,"rose, vanilla, lemon",Let Them Eat Cake' – A Tribute To Marie Antoinette,"chocolate, kirsch-soaked cherries, white chocolate"
+11,1,Sura,IN,No,1,No,Lemon & Orange Battenberg Cake,"lemon, orange",Ode to Attenborough,"coconut, raspberry italian meringue buttercream"
+11,2,Dave,STAR BAKER,No,1,No,Feathered Chocolate Mango Florentines,"dried mango, white chocolate, milk chocolate, dark chocolate, candied peel",Waiting for Tacos',"cocoa powder, coffee, chocolate, brandy snap, amoretti"
+11,2,Hermine,IN,No,5,No,Mango and Coconut Florentines,"dried mango, coconut, almond, ruby chocolate",Sakura Tea Set,"spiced ginger, royal icing"
+11,2,Laura,IN,No,7,No,Salted Caramel Florentines,"almond, pecan, jumbo raisins, candied peel, milk chocolate, salted caramel",Celebration Afternoon Tea,"ginger, brandy snap"
+11,2,Linda,IN,No,4,No,Flower Topped Florentines,"dark chocolate, crystallised ginger, brazil nuts, hazelnuts, pecans",High Tea in Amsterdam,"royal icing, rose water"
+11,2,Loriea,NA,NA,NA,NA,NA,NA,NA,NA
+11,2,Lottie,IN,Yes,8,No,Quarantine Florentines,"pistachio, almond, coconut, ginger, cour cherry, dark chocolate, white chocolate",Viking Victuals,"ginger, charcoal powder, brandy snap"
+11,2,Makbul,OUT,No,3,No,Mango and Cumin Florentines,"dried mango, cumin seeds, cashew",Indian Chai Service,"ginger, naan khatai"
+11,2,Marc,IN,No,9,No,"Ginger, Cherry and Pistachio Florentines","ruby chocolate, ginger, dried cherry",Morning Coffee 'n' Toast,"spiced ginger, fondant, buttercream"
+11,2,Mark,IN,No,2,No,Mango Lassi Florentines,"cardamom, white chocolate, macademia nuts, dried mango",	Ethiopian Coffee Ceremony,"coffee, cinnamon, charcoal powder"
+11,2,Peter,IN,No,10,No,Sticky Toffee Florentines,"dark muscovado sugar, dates, almonds, pecans, sultanas, walnuts, caramalised white chocolate",Biscuit Burns Supper,"ginger, isomalt, brandy snap, scottish raspberry and oat cranachan cream"
+11,2,Rowan,IN,No,11,No,Waistcoat Florentines,"almonds, orange, cherry, dried raspberry, caraway seeds, modeling chocolate",Worse Things Happen At Sea,"lemon, brandy snap, viennese biscuit"
+11,2,Sura,IN,No,6,No,Sohan Florentines,"cardamom, saffron, rose water, almonds, pistachios",Speculaas Ramadan Tea Time,"cinnamon, nutmeg, ginger, black pepper, chocolate truffle, vanilla"
+11,3,Dave,IN,No,9,No,Chilli Chocolate & Cheesy Bacon Soda Bread,"bacon, dried dill, dried chives, gruyere cheese, dark chocolates, dates, chilli, hazelnut",Grateful For My Home and Little Family',"mango, lime, chilli, hisbiscus, guava"
+11,3,Hermine,IN,Yes,7,No,My Favourite Flavours Soda Bread,"salmon, gruyere cheese, chives, dried fruit, orange liqueur, cinnamon",	A Journey Back to France,"mixed herb, parmesan"
+11,3,Laura,IN,No,6,No,Nana Peg's Nicely Spiced and Cherrylicious Soda Bread,"chorizo, spring onion, chilli, cheddar, glace cherry, marzipan",Showstopping Musical Theatre Inspired Bread,"pancetta, gruyere cheese, red chilli oil"
+11,3,Linda,IN,No,1,No,Cyflym Bara Soda Bread,"red chilli, green chilli, cheddar cheese, parmesan cheese, coriander, brandy soaked dried fruit",Fruits of our Labour' Black Olive Bread & Tiger Bread,"black olive, glaze"
+11,3,Loriea,NA,NA,NA,NA,NA,NA,NA,NA
+11,3,Lottie,IN,No,5,No,Blueberry Breakfast & Summertime Soda Bread,"blueberry, balsamic red onion, kalamata olives, smoked applewood cheese, maple bacon",My House In Bread,"cheddar, chorizo, sun-dried tomato, pesto"
+11,3,Makbul,NA,NA,NA,NA,NA,NA,NA,NA
+11,3,Marc,STAR BAKER,No,2,No,Cornish Soda Breads,"cornish kern cheese, grated beetroot, milk chocolate, white chocolate, dried cranberries, beetroot, kelp",The Dharma Wheel Bread Sheaf,"fennel seeds, caraway seeds, coriander seeds"
+11,3,Mark,IN,No,3,No,Sausage & Stout Soda Bread,"sobrasada, irish sheep smoked cheese, irish stout, dark chocolate, honey",Orchard County Bread with Sweet Apple and Savoury Wild Garlic,"apple, hazelnut, cinnamon, wild garlic"
+11,3,Peter,IN,No,4,No,Black Pudding & Ginger Beer Soda Bread,"black pudding, ginger beer, green ginger wine, oat, alnut, thyme, crystallised ginger",Edinburgh Cityscape Bread Plaque,"multigrain, poppy seeds"
+11,3,Rowan,OUT,No,10,No,Flavours of Italy	,"italian sausage, fennel seeds, lives, capers, saffrons, lemon, polenta, honey, raisins, olives",Worcestershire Pear Tree,"blue cheese, pear, chestnut, potato, truffle oil"
+11,3,Sura,IN,No,8,No,Middle Eastern Inspired Soda Bread,"za'atar, olives, mixed dried fruits, walnuts",Mama's Tomato Vine Harvest Loaf,"olive, sun-dried tomato, feta cheese"
+11,4,Dave,IN,No,8,No,Honeycomb Explosion Brownies,"honeycomb, popping candy, milk chocolate ganache",Strawberry Splash White Chocolate Fraisier Cake,"strawberry , white chocolate, white chocolate crème mousseline, amaretto, almond liqueur"
+11,4,Hermine,IN,No,5,No,"Raspberry, White Chocolate & Pistachio Brownies","white chocolate, raspberry, pistachio, chocolate, coffee",	Lemon & White Chocolate Cake,"white chocolate, ganache, lemon syrup, lemond curd, itallian meringue buttercream, vanilla extract"
+11,4,Laura,IN,No,2,No,Salted Caramel Brownie S'mores,"chocolate, hazelnut, salted caramel, italian meringue",Chocolate Heaven Cake,"white chocolate, italian meringue buttercream, blackcurrant jam"
+11,4,Linda,IN,No,1,No,Treats of Christmas Past',"white chocolate, chopped mixed nuts, date, pistachio, turkish delights",English Rose Cake,"modeling chocolate, vanilla mascarpone cream, amaretto raspberry jam"
+11,4,Loriea,NA,NA,NA,NA,NA,NA,NA,NA
+11,4,Lottie,IN,No,9,No,Have Your Cake and Eat It' Brownies,"chocolate, pecan, raspberry cheesecake, raspberry",Nana and Papa's Sapphire Anniversary Cake,"white chocolate, passion fruit curd, lime drizzle"
+11,4,Makbul,NA,NA,NA,NA,NA,NA,NA,NA
+11,4,Marc,IN,No,6,No,Praline Brownies,"roasted macadamia nuts, praline buttercream, chocolate",White Chocolate & Raspberry Buttercream Celebration Cake,"white chocolate, raspberry swiss meringue buttercream"
+11,4,Mark,STAR BAKER,No,3,No,	'Gimmie S'mores' Brownies,"chocolate chip cookie, italian meringue, caramelised cranberries",A Bake Off Birthday',"white chocolate, marul fruit liqueur, ground pistachios, lemon"
+11,4,Peter,IN,No,4,No,Upside Down Brownies,"figs, pistachios, cinnamon, chocolate, medjool dates",Graduation Cake,"white chocolate, mango curd, coconut, yoghurt, chantilly whipped cream, chocolate"
+11,4,Rowan,NA,NA,NA,NA,NA,NA,NA,NA
+11,4,Sura,OUT,No,7,No,Double Chocolate Marshmallow Brownies,"dark chocolate, ruby chocolate, italian meringue",Strawberry & White Chocolate Celebration Cake,"chocolate, white chocolate, buttercream, strawberry and lemon jam"
+11,5,Dave,IN,No,5,No,Thai Basil Chicken Pasties,"thai basil, chilli, chicken, jasmine rice","Chocolate, Mango and Lime Tart","chocolate, mango, lime, tequila"
+11,5,Hermine,IN,No,2,No,Moroccan Tagine Pasties,"raisins, lemon, lamb tagine, chickpea",Lime Confit and Lemon Meringue Tart,"lemon curd, lime jelly, italian meringue"
+11,5,Laura,STAR BAKER,No,6,No,Proper Tasty Pasties,"onion, cheddar, leeks, cream, dijon mustard, thyme",Kent Garden Tart,"italian meringue, key lime filling, ginger"
+11,5,Linda,OUT,No,8,No,Spicy Indian Pasties,"spiced chicken, potato, coriander",Gypsy Tart,"chocolate, coffee, brandy, rosewater, vanilla"
+11,5,Loriea,NA,NA,NA,NA,NA,NA,NA,NA
+11,5,Lottie,IN,No,4,No,Toad-In-The-Hole-Less Pasties,"mashed potato, sausage, onion, sage, fennel gravy",Apple Tree Tart,"apple puree, caramelised apple, boozy apple slices, toffee popcorn crème diplomat"
+11,5,Makbul,NA,NA,NA,NA,NA,NA,NA,NA
+11,5,Marc,IN,No,7,No,Cornish Fish Pasties,"asparagus, monkfish, samphire",Posh Apple & Blackberry Pie,"blackberry jam, caramelised apple, chocolate cremeux, chocolate, sesame, glazed blackberries"
+11,5,Mark,IN,No,3,No,Aloo Gobi Pasties,"aloo gobi, paneer cheese, tumeric, cumin, coriander, ginger, garlic, cauliflower",Mes-SAGE in a Bottle,"pear, sage, ginger, pear jam, ginger crème patissiere"
+11,5,Peter,IN,No,1,No,Kedgeree Pasties,"haddock, white basmati rice, petit pois, boiled egg",Blackberry & Lemon Tart,"hazelnut, blackberry curd, caramelised nuts, lemon"
+11,5,Rowan,NA,NA,NA,NA,NA,NA,NA,NA
+11,5,Sura,NA,NA,NA,NA,NA,NA,NA,NA
+11,6,Dave,IN,No,3,No,Chicken Shaped Katsu Curry Buns,"tumeric, chicken, katsu curry sauce",Matcha Shiba Inu Cake,"chocolate, match powder, rosewater, apple jam, vanilla buttercream"
+11,6,Hermine,IN,No,4,No,Chicken Nikuman Panda Buns,"oyster sauce, spiced chicken, shitake mushroom, chilli",Strawberry Cherry Blossom Cake,"vanilla, strawberries, marshmallow fondant"
+11,6,Laura,IN,No,7,No,Piggy Pork Belly Buns,"caramelised pork belly, hoisin, oyster sauce, sake, honey",Upside Down Pineapple Cake,"pineapple, coconut swiss meringue buttercream, lime and yuzu curd"
+11,6,Linda,NA,NA,NA,NA,NA,NA,NA,NA
+11,6,Loriea,NA,NA,NA,NA,NA,NA,NA,NA
+11,6,Lottie,IN,No,2,No,Cheeseburger Steamed Buns,"beef, sun-dried tomato, gherkin, bacon, cheese, onion",Into the Japanese Woods,"lime, cherry cream, whisky fudge, black cherries"
+11,6,Makbul,NA,NA,NA,NA,NA,NA,NA,NA
+11,6,Marc,IN,No,6,No,Hmmmm Dhal' Steamed Buns,"mango, onion, smoked paprika, apple, lentil",Hamish the Dog Cake,"lemon swiss meringue buttercream, fondant, honey, tahini, ginger, soy bean powder"
+11,6,Mark,OUT,No,5,No,Burger Buns,"gherkin, beef, onion, cheese, tomato puree",'Avo Baby',"avocado, marshmallow fondant, ruby chocolate, buttercream"
+11,6,Peter,IN,No,1,No,Lamb Steamed Buns,"fish sauce, soy sauce, honey, cumin, lamb, garlic, ginger, chilli, coriander, spring onion, lamb cabbage",Dizzy the Shuttlecock,"asian pears, chestnut cream, white chocolate"
+11,6,Rowan,NA,NA,NA,NA,NA,NA,NA,NA
+11,6,Sura,NA,NA,NA,NA,NA,NA,NA,NA
+11,7,Dave,IN,No,6,No,Novel Quiches,"potato, scrambled egg, sausage, beef, avocado",Tiramisu,"coffee ice cream, chocolate, almond liqueur, coffee ice cream, almond ice cream"
+11,7,Hermine,STAR BAKER,No,1,No,Classic Quiches,"spinach, mushroom, salmon, leek, dijon mustard, gruyere cheese",Holiday Ice Cream Cake,"mango ice cream, coconut ice cream, palet breton, raspberry coulis"
+11,7,Laura,IN,No,4,No,Pea & Pizza Quiches,"calabrian sausage, asparagus, nduja paste, mint, petit pois, goats cheese",Death by Chocolate,"salted caramel praline ice cream, chocolate ganache, brownie ice cream, chocolate, meringue"
+11,7,Linda,NA,NA,NA,NA,NA,NA,NA,NA
+11,7,Loriea,NA,NA,NA,NA,NA,NA,NA,NA
+11,7,Lottie,OUT,No,5,No,English Breakfast & Summer Salad Quiches,"sausage, tomato, black pudding, baked beans, beetroot, walnut, goats cheese",80's Mix Tape',"chocolate ice cream, puffed rice, cherry jelly, blackberry mousse"
+11,7,Makbul,NA,NA,NA,NA,NA,NA,NA,NA
+11,7,Marc,IN,No,3,No,Cornish Quiches,"cod, cornish blue, haddock, davidstow cheddar, spelt, asparagus",Retro Ice Cream Parlour,"honey and hazelnut ice cream, blackberry mousse, butterscotch and pecan ice cream, chocolate joconde"
+11,7,Mark,NA,NA,NA,NA,NA,NA,NA,NA
+11,7,Peter,IN,Yes,2,No,Thai Curry & Salmon Quiches,"salmon, capers, white crab meat, chillies, asparagus, onions, coconut curry",Christmas Cake Surprise',"marzipan, italian meringue, brandy ice cream, christmas cake ice cream, chocolate, brandy snap"
+11,7,Rowan,NA,NA,NA,NA,NA,NA,NA,NA
+11,7,Sura,NA,NA,NA,NA,NA,NA,NA,NA
+11,8,Dave,IN,No,5,No,Celebration of Citrus' Cheesecakes,"lemon, orange and passion fruit jelly, lime meringue, orange zest, orange juice",Newquay Beach Scene,"apple jelly, guava jelly, clotted cream mousse, chocolate fudge, cocoa powder"
+11,8,Hermine,STAR BAKER,No,3,No,Passion Fruit Cheesecakes,"cinnamon, passion fruit jelly, meringue, lime zest",	Chocolate and Raspberry Mousse Jelly Cake,"chocolate, kirsch syrup, chocolate mousse, strawberry mousse, white chocolate ganache"
+11,8,Laura,IN,No,1,No,Passion Fruit Cheesecakes,"honey, oat, vanilla, passion fruit curd, passion fruit extract",Flower Power' Koi Jelly Art Cake,"raspberry mousse, white chocolate bavarois, jelly"
+11,8,Linda,NA,NA,NA,NA,NA,NA,NA,NA
+11,8,Loriea,NA,NA,NA,NA,NA,NA,NA,NA
+11,8,Lottie,NA,NA,NA,NA,NA,NA,NA,NA
+11,8,Makbul,NA,NA,NA,NA,NA,NA,NA,NA
+11,8,Marc,OUT,No,2,No,New York Style Vanilla & Mascarpone Cheesecakes,"pecans, glazed apricots, almond, praline, vanilla mascarpone",Apple Jelly with Chocolate and Strawberry Mousse,"panna cotta, apple jelly, chocolate mousse, strawberry mousse, hazelnut meringue"
+11,8,Mark,NA,NA,NA,NA,NA,NA,NA,NA
+11,8,Peter,IN,No,4,No,Lime & Ginger Cheesecakes,"lime curd, toasted oat, gingernut, crystallised ginger, lime",Snow Globe Jelly Cake,"orange extract, cranberry extract"
+11,8,Rowan,NA,NA,NA,NA,NA,NA,NA,NA
+11,8,Sura,NA,NA,NA,NA,NA,NA,NA,NA
+11,9,Dave,IN,No,3,No,"Honey Tequila, Passion Fruit & Mango Savarins","honey tequilla, mango and passion fruit curd, honey and cocoa chantilly cream, chocolate",Celebration of Chocolate Cube Cake,"chocolate mousse, white chocolate, milk chocolate, dark chocolate, caramel, coffee, hazelnut"
+11,9,Hermine,OUT,No,2,No,Creme ét Abricot Baba au Rhum,"vanilla crème patissiere, apricot glaze, chantilly cream, chocolate",,"freeze-dried raspberries, coffee and praline mousse, joconde sponge, cherry sponge"
+11,9,Laura,IN,No,4,No,"	Poached Pineapple, Kiwi and Passion Fruit Rum Babas","pineapple, kiwi, passion fruit, rum syrup, chantilly cream",Black Forest Cube Cakes,"dark chocolate, dark chocolate mousse, cherry, kirsch, white chocolate bavois"
+11,9,Linda,NA,NA,NA,NA,NA,NA,NA,NA
+11,9,Loriea,NA,NA,NA,NA,NA,NA,NA,NA
+11,9,Lottie,NA,NA,NA,NA,NA,NA,NA,NA
+11,9,Makbul,NA,NA,NA,NA,NA,NA,NA,NA
+11,9,Marc,NA,NA,NA,NA,NA,NA,NA,NA
+11,9,Mark,NA,NA,NA,NA,NA,NA,NA,NA
+11,9,Peter,STAR BAKER,No,1,No,Strawberry & Elderflower Babas,"elderflower syrup, strawberries, strawberry crème diplomat, elderflower and lemon crème diplomat","	Chocolate, Raspberry & Pistachio Cube Cakes","chocolate, freeze-dried raspberry, pistachio praline, chocolate mousse, raspberry mousse, pistachio mousse"
+11,9,Rowan,NA,NA,NA,NA,NA,NA,NA,NA
+11,9,Sura,NA,NA,NA,NA,NA,NA,NA,NA
+11,10,Dave,Runner-up,No,1,No,Caramel Latte' Custard Slice,"coffee custard, caramel, hazelnut",Tower to Redemption,"amaretto syrup, strawberry, crème mousseline, chocolate, raspberry crème patissiere, brownies, macadamia nuts, white chocolate"
+11,10,Hermine,NA,NA,NA,NA,NA,NA,NA,NA
+11,10,Laura,Runner-up,No,3,No,Yuzu Custard Slice,"chantilly cream, yuzu custard, raspberry, lemon and coconut gel, lime juice",Rainbow Dessert Tower,"carrot, walnut, orange and cinnamon cream cheese frosting, chocolate, spices, lemon, lime"
+11,10,Linda,NA,NA,NA,NA,NA,NA,NA,NA
+11,10,Loriea,NA,NA,NA,NA,NA,NA,NA,NA
+11,10,Lottie,NA,NA,NA,NA,NA,NA,NA,NA
+11,10,Makbul,NA,NA,NA,NA,NA,NA,NA,NA
+11,10,Marc,NA,NA,NA,NA,NA,NA,NA,NA
+11,10,Mark,NA,NA,NA,NA,NA,NA,NA,NA
+11,10,Peter,WINNER,No,2,No,Cranachan Custard Slice,"raspberry crème patissiere, whiskey crème patissiere, caramelised oat",Bonkers Bake Off Bubble Cake,"puffed rice, spiced friands, chocolate, orange, strawberry, lemon and blackberry crème diplomat, strawberry cream"
+11,10,Rowan,NA,NA,NA,NA,NA,NA,NA,NA
+11,10,Sura,NA,NA,NA,NA,NA,NA,NA,NA
+12,1,Amanda,IN,No,12,No,,,,
+12,1,Chigs,IN,No,11,No,,,,
+12,1,Crystelle,IN,No,8,No,,,,
+12,1,Freya,IN,No,2,No,,,,
+12,1,George,IN,No,3,No,,,,
+12,1,Giuseppe,IN,No,10,No,,,,
+12,1,Jairzeno,IN,No,9,No,,,,
+12,1,Jurgen,STAR BAKER,No,6,No,,,,
+12,1,Lizzie,IN,No,4,No,,,,
+12,1,Maggie,IN,No,1,No,,,,
+12,1,Rochica,IN,No,7,No,,,,
+12,1,Tom,OUT,No,5,No,,,,
+12,2,Amanda,IN,No,4,No,,,,
+12,2,Chigs,IN,No,7,No,,,,
+12,2,Crystelle,IN,No,10,No,,,,
+12,2,Freya,IN,No,3,No,,,,
+12,2,George,IN,No,8,No,,,,
+12,2,Giuseppe,IN,No,2,No,,,,
+12,2,Jairzeno,OUT,No,9,No,,,,
+12,2,Jurgen,STAR BAKER,No,1,No,,,,
+12,2,Lizzie,IN,No,6,No,,,,
+12,2,Maggie,IN,No,5,No,,,,
+12,2,Rochica,IN,No,11,No,,,,
+12,2,Tom,NA,NA,NA,NA,,,,
+12,3,Amanda,IN,No,3,No,,,,
+12,3,Chigs,IN,No,6,No,,,,
+12,3,Crystelle,IN,No,9,No,,,,
+12,3,Freya,IN,No,4,No,,,,
+12,3,George,IN,No,7,No,,,,
+12,3,Giuseppe,STAR BAKER,Yes,1,No,,,,
+12,3,Jairzeno,NA,NA,NA,NA,,,,
+12,3,Jurgen,IN,No,5,No,,,,
+12,3,Lizzie,IN,No,2,No,,,,
+12,3,Maggie,IN,No,8,No,,,,
+12,3,Rochica,OUT,No,10,No,,,,
+12,3,Tom,NA,NA,NA,NA,,,,
+12,4,Amanda,IN,No,8,No,,,,
+12,4,Chigs,STAR BAKER,Yes,3,No,,,,
+12,4,Crystelle,IN,No,5,No,,,,
+12,4,Freya,IN,No,6,No,,,,
+12,4,George,IN,No,7,No,,,,
+12,4,Giuseppe,IN,No,4,No,,,,
+12,4,Jairzeno,NA,NA,NA,NA,,,,
+12,4,Jurgen,IN,No,1,No,,,,
+12,4,Lizzie,IN,No,2,No,,,,
+12,4,Maggie,OUT,No,9,No,,,,
+12,4,Rochica,NA,NA,NA,NA,,,,
+12,4,Tom,NA,NA,NA,NA,,,,
+12,5,Amanda,IN,No,8,No,,,,
+12,5,Chigs,IN,No,2,No,,,,
+12,5,Crystelle,IN,No,7,No,,,,
+12,5,Freya,OUT,No,5,No,,,,
+12,5,George,IN,No,6,No,,,,
+12,5,Giuseppe,STAR BAKER,No,1,No,,,,
+12,5,Jairzeno,NA,NA,NA,NA,,,,
+12,5,Jurgen,IN,Yes,4,No,,,,
+12,5,Lizzie,IN,No,3,No,,,,
+12,5,Maggie,NA,NA,NA,NA,,,,
+12,5,Rochica,NA,NA,NA,NA,,,,
+12,5,Tom,NA,NA,NA,NA,,,,
+12,6,Amanda,OUT,No,5,No,,,,
+12,6,Chigs,IN,No,3,No,,,,
+12,6,Crystelle,STAR BAKER,No,2,Yes,,,,
+12,6,Freya,NA,NA,NA,NA,,,,
+12,6,George,IN,No,6,No,,,,
+12,6,Giuseppe,IN,No,4,No,,,,
+12,6,Jairzeno,NA,NA,NA,NA,,,,
+12,6,Jurgen,IN,No,1,No,,,,
+12,6,Lizzie,IN,No,7,No,,,,
+12,6,Maggie,NA,NA,NA,NA,,,,
+12,6,Rochica,NA,NA,NA,NA,,,,
+12,6,Tom,NA,NA,NA,NA,,,,
+12,7,Amanda,NA,NA,NA,NA,,,,
+12,7,Chigs,IN,No,3,No,,,,
+12,7,Crystelle,IN,No,4,No,,,,
+12,7,Freya,NA,NA,NA,NA,,,,
+12,7,George,OUT,No,6,No,,,,
+12,7,Giuseppe,IN,No,1,No,,,,
+12,7,Jairzeno,NA,NA,NA,NA,,,,
+12,7,Jurgen,STAR BAKER,No,2,No,,,,
+12,7,Lizzie,IN,No,5,No,,,,
+12,7,Maggie,NA,NA,NA,NA,,,,
+12,7,Rochica,NA,NA,NA,NA,,,,
+12,7,Tom,NA,NA,NA,NA,,,,
+12,8,Amanda,NA,NA,NA,NA,,,,
+12,8,Chigs,STAR BAKER,No,1,No,,,,
+12,8,Crystelle,IN,No,5,No,,,,
+12,8,Freya,NA,NA,NA,NA,,,,
+12,8,George,IN,No,NA,No,,,,
+12,8,Giuseppe,IN,No,2,No,,,,
+12,8,Jairzeno,NA,NA,NA,NA,,,,
+12,8,Jurgen,IN,No,4,No,,,,
+12,8,Lizzie,OUT,No,3,No,,,,
+12,8,Maggie,NA,NA,NA,NA,,,,
+12,8,Rochica,NA,NA,NA,NA,,,,
+12,8,Tom,NA,NA,NA,NA,,,,
+12,9,Amanda,NA,NA,NA,NA,,,,
+12,9,Chigs,IN,Yes,4,No,,,,
+12,9,Crystelle,STAR BAKER,Yes,3,No,,,,
+12,9,Freya,NA,NA,NA,NA,,,,
+12,9,George,IN,No,NA,No,,,,
+12,9,Giuseppe,IN,Yes,2,No,,,,
+12,9,Jairzeno,NA,NA,NA,NA,,,,
+12,9,Jurgen,OUT,No,1,No,,,,
+12,9,Lizzie,NA,NA,NA,NA,,,,
+12,9,Maggie,NA,NA,NA,NA,,,,
+12,9,Rochica,NA,NA,NA,NA,,,,
+12,9,Tom,NA,NA,NA,NA,,,,
+12,10,Amanda,NA,NA,NA,NA,,,,
+12,10,Chigs,Runner-up,No,2,No,,,,
+12,10,Crystelle,Runner-up,No,1,No,,,,
+12,10,Freya,NA,NA,NA,NA,,,,
+12,10,George,NA,NA,NA,NA,,,,
+12,10,Giuseppe,WINNER,No,3,No,,,,
+12,10,Jairzeno,NA,NA,NA,NA,,,,
+12,10,Jurgen,NA,NA,NA,NA,,,,
+12,10,Lizzie,NA,NA,NA,NA,,,,
+12,10,Maggie,NA,NA,NA,NA,,,,
+12,10,Rochica,NA,NA,NA,NA,,,,
+12,10,Tom,NA,NA,NA,NA,,,,
+13,1,Abdul,IN,No,6,No,Cake-y Cacti,"Raspberry jam, mascarpone, chocolate and hazelnut, sponge rosewater buttercream, chili",,
+13,1,Carole,IN,No,8,No,To Bee or not to Bee,"Lemon curd, lemon zest, poppy seeds, lemon buttercream",,
+13,1,Dawn,IN,No,3,No,"Lime, coconut & tamarind spring cakes","tamarind and lime zest jelly, coconut marzipan, coconut milk, desiccated coconut",,
+13,1,James,IN,No,12,No,Sticky toffee apple candles,"Sticky toffee pudding sponge, chopped date, treacle, ginger and apple jam, nutmeg fresh buttercream",,
+13,1,Janusz,STAR BAKER,No,7,No,Pistachio and cherry vodka liqueur wuzetka,"Pistachio cream, cherry, kirsch soaked cherries, cherry liqueur, chocolate ganache",,
+13,1,Kevin,IN,No,4,No,Mini Persian Love Cakes,"Rosewater swiss meringue buttercream, pistachio and almond and cardamom sponge",,
+13,1,Maisam,IN,No,5,No,Pistachio Cakes with Raspberry Buttercream,"Fresh raspberries, raspberry jam, raspberry Swiss meringue buttercream, pistachios sponge",,
+13,1,Maxy,IN,No,10,No,Mango Magic Mess,"Mango and passionfruit coulis, mascarpone, vanilla sponge",,
+13,1,Rebs,IN,No,11,No,Hazelnut mocha latte mini sandwich cakes,"Chopped hazelnuts, chocolate ganache, caramel, coffee sponge",,
+13,1,Sandro,IN,No,2,No,A bitesize of love,"Chocolate and orange sponge, dark chocolate, red wine ganache, sugar roses",,
+13,1,Syabira,IN,No,1,No,"Coconut, pandan, and caramel mousse cake","Pandan, coconut, caramel mousse, coconut milk",,
+13,1,Will,OUT,No,9,No,Ginger and Caramel Squares,"Ginger powder, fresh ginger syrup, salty caramel Italian meringue buttercream",,
+13,2,Abdul,IN,No,11,No,,,,
+13,2,Carole,IN,No,4,No,,,,
+13,2,Dawn,IN,Yes,9,No,,,,
+13,2,James,IN,No,2,No,,,,
+13,2,Janusz,IN,No,6,No,,,,
+13,2,Kevin,IN,No,8,No,,,,
+13,2,Maisam,OUT,No,7,No,,,,
+13,2,Maxy,STAR BAKER,Yes,5,No,,,,
+13,2,Rebs,IN,No,1,No,,,,
+13,2,Sandro,IN,No,3,No,,,,
+13,2,Syabira,IN,No,10,No,,,,
+13,2,Will,NA,NA,NA,NA,,,,
+13,3,Abdul,IN,No,NA,No,,,,
+13,3,Carole,IN,No,8,No,,,,
+13,3,Dawn,IN,No,6,No,,,,
+13,3,James,IN,No,3,No,,,,
+13,3,Janusz,STAR BAKER,No,1,No,,,,
+13,3,Kevin,IN,No,7,No,,,,
+13,3,Maisam,NA,NA,NA,NA,,,,
+13,3,Maxy,IN,No,2,No,,,,
+13,3,Rebs,IN,No,NA,No,,,,
+13,3,Sandro,IN,No,4,No,,,,
+13,3,Syabira,IN,No,5,No,,,,
+13,3,Will,NA,NA,NA,NA,,,,
+13,4,Abdul,IN,No,6,No,,,,
+13,4,Carole,IN,No,10,No,,,,
+13,4,Dawn,IN,No,5,No,,,,
+13,4,James,OUT,No,8,No,,,,
+13,4,Janusz,IN,No,7,No,,,,
+13,4,Kevin,IN,No,4,No,,,,
+13,4,Maisam,NA,NA,NA,NA,,,,
+13,4,Maxy,STAR BAKER,No,1,No,,,,
+13,4,Rebs,OUT,No,9,No,,,,
+13,4,Sandro,IN,No,3,No,,,,
+13,4,Syabira,IN,No,2,No,,,,
+13,4,Will,NA,NA,NA,NA,,,,
+13,5,Abdul,IN,No,2,No,,,,
+13,5,Carole,OUT,No,6,No,,,,
+13,5,Dawn,IN,No,7,No,,,,
+13,5,James,NA,NA,NA,NA,,,,
+13,5,Janusz,IN,No,1,No,,,,
+13,5,Kevin,IN,No,5,No,,,,
+13,5,Maisam,NA,NA,NA,NA,,,,
+13,5,Maxy,IN,No,3,No,,,,
+13,5,Rebs,NA,NA,NA,NA,,,,
+13,5,Sandro,STAR BAKER,No,4,No,,,,
+13,5,Syabira,IN,No,8,No,,,,
+13,5,Will,NA,NA,NA,NA,,,,
+13,6,Abdul,IN,No,7,No,,,,
+13,6,Carole,NA,NA,NA,NA,,,,
+13,6,Dawn,OUT,No,5,No,,,,
+13,6,James,NA,NA,NA,NA,,,,
+13,6,Janusz,IN,No,2,No,,,,
+13,6,Kevin,IN,No,3,No,,,,
+13,6,Maisam,NA,NA,NA,NA,,,,
+13,6,Maxy,IN,No,6,No,,,,
+13,6,Rebs,NA,NA,NA,NA,,,,
+13,6,Sandro,IN,No,4,No,,,,
+13,6,Syabira,STAR BAKER,No,1,No,,,,
+13,6,Will,NA,NA,NA,NA,,,,
