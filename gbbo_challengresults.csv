@@ -1102,195 +1102,219 @@ Orange Curd Madeleines","chopped hazelnuts, white chocolate, dark chocolate, fre
 11,10,Peter,WINNER,No,2,No,Cranachan Custard Slice,"raspberry crème patissiere, whiskey crème patissiere, caramelised oat",Bonkers Bake Off Bubble Cake,"puffed rice, spiced friands, chocolate, orange, strawberry, lemon and blackberry crème diplomat, strawberry cream"
 11,10,Rowan,NA,NA,NA,NA,NA,NA,NA,NA
 11,10,Sura,NA,NA,NA,NA,NA,NA,NA,NA
-12,1,Amanda,IN,No,12,No,,,,
-12,1,Chigs,IN,No,11,No,,,,
-12,1,Crystelle,IN,No,8,No,,,,
-12,1,Freya,IN,No,2,No,,,,
-12,1,George,IN,No,3,No,,,,
-12,1,Giuseppe,IN,No,10,No,,,,
-12,1,Jairzeno,IN,No,9,No,,,,
-12,1,Jurgen,STAR BAKER,No,6,No,,,,
-12,1,Lizzie,IN,No,4,No,,,,
-12,1,Maggie,IN,No,1,No,,,,
-12,1,Rochica,IN,No,7,No,,,,
-12,1,Tom,OUT,No,5,No,,,,
-12,2,Amanda,IN,No,4,No,,,,
-12,2,Chigs,IN,No,7,No,,,,
-12,2,Crystelle,IN,No,10,No,,,,
-12,2,Freya,IN,No,3,No,,,,
-12,2,George,IN,No,8,No,,,,
-12,2,Giuseppe,IN,No,2,No,,,,
-12,2,Jairzeno,OUT,No,9,No,,,,
-12,2,Jurgen,STAR BAKER,No,1,No,,,,
-12,2,Lizzie,IN,No,6,No,,,,
-12,2,Maggie,IN,No,5,No,,,,
-12,2,Rochica,IN,No,11,No,,,,
-12,2,Tom,NA,NA,NA,NA,,,,
-12,3,Amanda,IN,No,3,No,,,,
-12,3,Chigs,IN,No,6,No,,,,
-12,3,Crystelle,IN,No,9,No,,,,
-12,3,Freya,IN,No,4,No,,,,
-12,3,George,IN,No,7,No,,,,
-12,3,Giuseppe,STAR BAKER,Yes,1,No,,,,
-12,3,Jairzeno,NA,NA,NA,NA,,,,
-12,3,Jurgen,IN,No,5,No,,,,
-12,3,Lizzie,IN,No,2,No,,,,
-12,3,Maggie,IN,No,8,No,,,,
-12,3,Rochica,OUT,No,10,No,,,,
-12,3,Tom,NA,NA,NA,NA,,,,
-12,4,Amanda,IN,No,8,No,,,,
-12,4,Chigs,STAR BAKER,Yes,3,No,,,,
-12,4,Crystelle,IN,No,5,No,,,,
-12,4,Freya,IN,No,6,No,,,,
-12,4,George,IN,No,7,No,,,,
-12,4,Giuseppe,IN,No,4,No,,,,
-12,4,Jairzeno,NA,NA,NA,NA,,,,
-12,4,Jurgen,IN,No,1,No,,,,
-12,4,Lizzie,IN,No,2,No,,,,
-12,4,Maggie,OUT,No,9,No,,,,
-12,4,Rochica,NA,NA,NA,NA,,,,
-12,4,Tom,NA,NA,NA,NA,,,,
-12,5,Amanda,IN,No,8,No,,,,
-12,5,Chigs,IN,No,2,No,,,,
-12,5,Crystelle,IN,No,7,No,,,,
-12,5,Freya,OUT,No,5,No,,,,
-12,5,George,IN,No,6,No,,,,
-12,5,Giuseppe,STAR BAKER,No,1,No,,,,
-12,5,Jairzeno,NA,NA,NA,NA,,,,
-12,5,Jurgen,IN,Yes,4,No,,,,
-12,5,Lizzie,IN,No,3,No,,,,
-12,5,Maggie,NA,NA,NA,NA,,,,
-12,5,Rochica,NA,NA,NA,NA,,,,
-12,5,Tom,NA,NA,NA,NA,,,,
-12,6,Amanda,OUT,No,5,No,,,,
-12,6,Chigs,IN,No,3,No,,,,
-12,6,Crystelle,STAR BAKER,No,2,Yes,,,,
-12,6,Freya,NA,NA,NA,NA,,,,
-12,6,George,IN,No,6,No,,,,
-12,6,Giuseppe,IN,No,4,No,,,,
-12,6,Jairzeno,NA,NA,NA,NA,,,,
-12,6,Jurgen,IN,No,1,No,,,,
-12,6,Lizzie,IN,No,7,No,,,,
-12,6,Maggie,NA,NA,NA,NA,,,,
-12,6,Rochica,NA,NA,NA,NA,,,,
-12,6,Tom,NA,NA,NA,NA,,,,
-12,7,Amanda,NA,NA,NA,NA,,,,
-12,7,Chigs,IN,No,3,No,,,,
-12,7,Crystelle,IN,No,4,No,,,,
-12,7,Freya,NA,NA,NA,NA,,,,
-12,7,George,OUT,No,6,No,,,,
-12,7,Giuseppe,IN,No,1,No,,,,
-12,7,Jairzeno,NA,NA,NA,NA,,,,
-12,7,Jurgen,STAR BAKER,No,2,No,,,,
-12,7,Lizzie,IN,No,5,No,,,,
-12,7,Maggie,NA,NA,NA,NA,,,,
-12,7,Rochica,NA,NA,NA,NA,,,,
-12,7,Tom,NA,NA,NA,NA,,,,
-12,8,Amanda,NA,NA,NA,NA,,,,
-12,8,Chigs,STAR BAKER,No,1,No,,,,
-12,8,Crystelle,IN,No,5,No,,,,
-12,8,Freya,NA,NA,NA,NA,,,,
-12,8,George,IN,No,NA,No,,,,
-12,8,Giuseppe,IN,No,2,No,,,,
-12,8,Jairzeno,NA,NA,NA,NA,,,,
-12,8,Jurgen,IN,No,4,No,,,,
-12,8,Lizzie,OUT,No,3,No,,,,
-12,8,Maggie,NA,NA,NA,NA,,,,
-12,8,Rochica,NA,NA,NA,NA,,,,
-12,8,Tom,NA,NA,NA,NA,,,,
-12,9,Amanda,NA,NA,NA,NA,,,,
-12,9,Chigs,IN,Yes,4,No,,,,
-12,9,Crystelle,STAR BAKER,Yes,3,No,,,,
-12,9,Freya,NA,NA,NA,NA,,,,
-12,9,George,IN,No,NA,No,,,,
-12,9,Giuseppe,IN,Yes,2,No,,,,
-12,9,Jairzeno,NA,NA,NA,NA,,,,
-12,9,Jurgen,OUT,No,1,No,,,,
-12,9,Lizzie,NA,NA,NA,NA,,,,
-12,9,Maggie,NA,NA,NA,NA,,,,
-12,9,Rochica,NA,NA,NA,NA,,,,
-12,9,Tom,NA,NA,NA,NA,,,,
-12,10,Amanda,NA,NA,NA,NA,,,,
-12,10,Chigs,Runner-up,No,2,No,,,,
-12,10,Crystelle,Runner-up,No,1,No,,,,
-12,10,Freya,NA,NA,NA,NA,,,,
-12,10,George,NA,NA,NA,NA,,,,
-12,10,Giuseppe,WINNER,No,3,No,,,,
-12,10,Jairzeno,NA,NA,NA,NA,,,,
-12,10,Jurgen,NA,NA,NA,NA,,,,
-12,10,Lizzie,NA,NA,NA,NA,,,,
-12,10,Maggie,NA,NA,NA,NA,,,,
-12,10,Rochica,NA,NA,NA,NA,,,,
-12,10,Tom,NA,NA,NA,NA,,,,
-13,1,Abdul,IN,No,6,No,Cake-y Cacti,"Raspberry jam, mascarpone, chocolate and hazelnut, sponge rosewater buttercream, chili",,
-13,1,Carole,IN,No,8,No,To Bee or not to Bee,"Lemon curd, lemon zest, poppy seeds, lemon buttercream",,
-13,1,Dawn,IN,No,3,No,"Lime, coconut & tamarind spring cakes","tamarind and lime zest jelly, coconut marzipan, coconut milk, desiccated coconut",,
-13,1,James,IN,No,12,No,Sticky toffee apple candles,"Sticky toffee pudding sponge, chopped date, treacle, ginger and apple jam, nutmeg fresh buttercream",,
-13,1,Janusz,STAR BAKER,No,7,No,Pistachio and cherry vodka liqueur wuzetka,"Pistachio cream, cherry, kirsch soaked cherries, cherry liqueur, chocolate ganache",,
-13,1,Kevin,IN,No,4,No,Mini Persian Love Cakes,"Rosewater swiss meringue buttercream, pistachio and almond and cardamom sponge",,
-13,1,Maisam,IN,No,5,No,Pistachio Cakes with Raspberry Buttercream,"Fresh raspberries, raspberry jam, raspberry Swiss meringue buttercream, pistachios sponge",,
-13,1,Maxy,IN,No,10,No,Mango Magic Mess,"Mango and passionfruit coulis, mascarpone, vanilla sponge",,
-13,1,Rebs,IN,No,11,No,Hazelnut mocha latte mini sandwich cakes,"Chopped hazelnuts, chocolate ganache, caramel, coffee sponge",,
-13,1,Sandro,IN,No,2,No,A bitesize of love,"Chocolate and orange sponge, dark chocolate, red wine ganache, sugar roses",,
-13,1,Syabira,IN,No,1,No,"Coconut, pandan, and caramel mousse cake","Pandan, coconut, caramel mousse, coconut milk",,
-13,1,Will,OUT,No,9,No,Ginger and Caramel Squares,"Ginger powder, fresh ginger syrup, salty caramel Italian meringue buttercream",,
-13,2,Abdul,IN,No,11,No,,,,
-13,2,Carole,IN,No,4,No,,,,
-13,2,Dawn,IN,Yes,9,No,,,,
-13,2,James,IN,No,2,No,,,,
-13,2,Janusz,IN,No,6,No,,,,
-13,2,Kevin,IN,No,8,No,,,,
-13,2,Maisam,OUT,No,7,No,,,,
-13,2,Maxy,STAR BAKER,Yes,5,No,,,,
-13,2,Rebs,IN,No,1,No,,,,
-13,2,Sandro,IN,No,3,No,,,,
-13,2,Syabira,IN,No,10,No,,,,
-13,2,Will,NA,NA,NA,NA,,,,
-13,3,Abdul,IN,No,NA,No,,,,
-13,3,Carole,IN,No,8,No,,,,
-13,3,Dawn,IN,No,6,No,,,,
-13,3,James,IN,No,3,No,,,,
-13,3,Janusz,STAR BAKER,No,1,No,,,,
-13,3,Kevin,IN,No,7,No,,,,
-13,3,Maisam,NA,NA,NA,NA,,,,
-13,3,Maxy,IN,No,2,No,,,,
-13,3,Rebs,IN,No,NA,No,,,,
-13,3,Sandro,IN,No,4,No,,,,
-13,3,Syabira,IN,No,5,No,,,,
-13,3,Will,NA,NA,NA,NA,,,,
-13,4,Abdul,IN,No,6,No,,,,
-13,4,Carole,IN,No,10,No,,,,
-13,4,Dawn,IN,No,5,No,,,,
-13,4,James,OUT,No,8,No,,,,
-13,4,Janusz,IN,No,7,No,,,,
-13,4,Kevin,IN,No,4,No,,,,
-13,4,Maisam,NA,NA,NA,NA,,,,
-13,4,Maxy,STAR BAKER,No,1,No,,,,
-13,4,Rebs,OUT,No,9,No,,,,
-13,4,Sandro,IN,No,3,No,,,,
-13,4,Syabira,IN,No,2,No,,,,
-13,4,Will,NA,NA,NA,NA,,,,
-13,5,Abdul,IN,No,2,No,,,,
-13,5,Carole,OUT,No,6,No,,,,
-13,5,Dawn,IN,No,7,No,,,,
-13,5,James,NA,NA,NA,NA,,,,
-13,5,Janusz,IN,No,1,No,,,,
-13,5,Kevin,IN,No,5,No,,,,
-13,5,Maisam,NA,NA,NA,NA,,,,
-13,5,Maxy,IN,No,3,No,,,,
-13,5,Rebs,NA,NA,NA,NA,,,,
-13,5,Sandro,STAR BAKER,No,4,No,,,,
-13,5,Syabira,IN,No,8,No,,,,
-13,5,Will,NA,NA,NA,NA,,,,
-13,6,Abdul,IN,No,7,No,,,,
-13,6,Carole,NA,NA,NA,NA,,,,
-13,6,Dawn,OUT,No,5,No,,,,
-13,6,James,NA,NA,NA,NA,,,,
-13,6,Janusz,IN,No,2,No,,,,
-13,6,Kevin,IN,No,3,No,,,,
-13,6,Maisam,NA,NA,NA,NA,,,,
-13,6,Maxy,IN,No,6,No,,,,
-13,6,Rebs,NA,NA,NA,NA,,,,
-13,6,Sandro,IN,No,4,No,,,,
-13,6,Syabira,STAR BAKER,No,1,No,,,,
-13,6,Will,NA,NA,NA,NA,,,,
+12,1,Amanda,IN,No,12,No,Cherry Soldier Mini Rolls,"Coffee, cherry, dark chocolate",Elderflower and lemon surf explosion,"lemon and elderflower sponge, elderflower liqueur buttercream, lemon curd"
+12,1,Chigs,IN,No,11,No,Strawberries and cream mini rolls,"Chocolate and vanilla sponge, strawberry, strawberry Chantilly cream, pistachio",Where it all began,"Peanut butter and chocolate butter cream, chocolate sponge, "
+12,1,Crystelle,IN,No,8,No,Chai and Chai Again Mini Rolls,"Jaggery(Unrefined sugar), Chai, Coconut, cinnamon, clove, cardamom, ginger",Boug-cake of flowers,"Cinnamon sponge, Italian meringue buttercream, roasted pecan, puffed rice marshmallow"
+12,1,Freya,IN,No,2,No,Vegan Lemon & Raspberry Mini Rolls,"Aquafaba, lemon, raspberry, almond praline, vegan buttercream",Flower Potty,"Vegan Chocolate sponge, kirsch cream, cherry jam, vegan buttercream"
+12,1,George,IN,No,3,No,Chocolate and hazelnut mini rolls,"Milk chocolate mini rolls, hazelnut bavarois, hazelnut",Greek table,"Lemon sponge, Italian meringue buttercream, fig jam"
+12,1,Giuseppe,IN,No,10,No,Easter mini rolls,"Almond and orange sponge, ricotta cheese, orange blossom water, white chocolate",Jack and the beanstalk,"Chocolate sponge, cream cheese buttercream, raspberry coulis"
+12,1,Jairzeno,IN,No,9,No,Lime and Passion fruit mini rolls,"Passionfruit caramel buttercream, lime and chili sponge, caramel",Kick the can cake,"Chili and Lime sponge, Guava buttercream"
+12,1,Jurgen,STAR BAKER,No,6,No,Schwarzwald Mini Rolls,"chocolate genoise sponge, kirsch cream, sour cherry",Night time reading,"Orange and cardamom chiffon sponge, honey and rose butter cream, pistachio praline"
+12,1,Lizzie,IN,No,4,No,Zoo mini rolls,"White chocolate, coffee sponge, tahini caramel",Nana’s peaches and cream,"Yuzu sponge, peach jam, vanilla mascarpone cream"
+12,1,Maggie,IN,No,1,No,Knit and Natter Mini Rolls,"Meringue, dark chocolate, orange, milk chocolate",Ice-cream cornet,"Vanilla sponge, raspberry buttercream,"
+12,1,Rochica,IN,No,7,No,Colin rolls,"Carrot, spelt flour, pecan brittle, cinnamon and vanilla cream",Apple cake,"Caramel and spiced apple sponge, spiced apple filling, browned buttercream"
+12,1,Tom,OUT,No,5,No,Black Forest Mini Rolls,"Chocolate genoise sponge, cherry jam, dark chocolate, white cocolate",Classically spectacular showstopper,"Almond and lemon sponge, almond buttercream"
+12,2,Amanda,IN,No,4,No,Open sesame brandy snaps,"Sesame, orange curd, stem ginger cream, ",Carousel rocking horse,lemon and cardamom sugar biscuit
+12,2,Chigs,IN,No,7,No,Espresso martini brandy snaps,"Coffee liqueur, espresso, ginger, cinnamon, dark chocolate",Snooker table,"Spiced gingerbread, icing, marshmallow fondant"
+12,2,Crystelle,IN,No,10,No,Apple of my p-eye brandy snaps,"Apple cider vinegar, crumble topping, apple filling, vanilla Chantilly cream",Vanity Playset,"Lemon and poppy seed biscuit, gingerbread, isomalt"
+12,2,Freya,IN,No,3,No,Brandy snapuccinos,"Hazelnut praline, coffee liqueur, coconut-based vegan coffee cream",Winnie,"Brandy snap, crisp gingerbread,"
+12,2,George,IN,No,8,No,Cypriot brandy snaps,"mastic(tree resin) and orange blossom cream, pistachios",Paul and Prue airlines,"Brandy kourabiedes, gingerbread, candy floss"
+12,2,Giuseppe,IN,No,2,No,Gianduja snaps,"Hazelnut butter, chocolate creme pat, hazelnut, ",Reversi Board Game,"Chocolate and orange sable, ganache, gingerbread"
+12,2,Jairzeno,OUT,No,9,No,"Chocolate, passion fruit, and pineapple brandy snaps","Dark chocolate and lime ganache, spiced pineapple, passion fruit curd",Tall ship,Spiced gingerbread
+12,2,Jurgen,STAR BAKER,No,1,No,A cups of chai brandy snaps,"Chai creme pat, cinnamon, cardamom, clove, mango, whipped cream",Grandpa’s windmill,"Spiced scandinavian gingerbread, Tuile"
+12,2,Lizzie,IN,No,6,No,Fast-food apple pie brandy snaps,"Creme diplomat, apple, calvados brandy, ",Paint a Truck,"Chocolate gingerbread, mint sweets, rum royal icing"
+12,2,Maggie,IN,No,5,No,Blackcurrant brandy snaps,"Creme de cassis, blackcurrant, blackcurrant chantilly",Beach playset,"Classic gingerbread, biscuit"
+12,2,Rochica,IN,No,11,No,Coffee Brandy Snaps,"Espresso, irish cream filling, chocolate, roasted hazelnuts",Gingerbread pinball game,"Lemon shortbread, marshmallow and rice cereal, gingerbread"
+12,2,Tom,NA,NA,NA,NA,NA,NA,NA,NA
+12,3,Amanda,IN,No,3,No,,"Olives, red peppers, garlic cream cheese, herbs, feta cheese, garlic",,"Cinnamon, coconut creme pat, mango puree"
+12,3,Chigs,IN,No,6,No,,"Chorizo, manchego cheese, spicy piquant peppers",,"Orange blossom, honey"
+12,3,Crystelle,IN,No,9,No,,"Roasted grape, feta, roasted walnuts, fresh fennel",,"Lemon, maple, chocolate hazelnut, frangipane, salted caramel gravy, lime curd, carrot"
+12,3,Freya,IN,No,4,No,,"Smoked paprika, cayenne pepper, red onion, pepper",,"Soy milk, dry coconut milk powder, hazelnut praline, marzipan, chocolate"
+12,3,George,IN,No,7,No,,"Onion, parsley, olives, halloumi cheese, dried mint, cherry kernel ",,"Cinnamon, chocolate, tahini"
+12,3,Giuseppe,STAR BAKER,Yes,1,No,Breakfast in Gaeta,"Olives, Cherry tomatoes, milk, balsamic vinegar, onions",,"Orange zest, cinnamon, orange extract, orange liqueur, honey "
+12,3,Jairzeno,NA,NA,NA,NA,NA,NA,NA,NA
+12,3,Jurgen,IN,No,5,No,,"Chopped kipper, romano red pepper, tarragon, boiled eggs",,"Double cream, vanilla creme mousse line, chocolate creme mousse line, "
+12,3,Lizzie,IN,No,2,No,,"Truffle oil, black truffle, garlic, rosemary",,"Honey, mango tea, condensed milk"
+12,3,Maggie,IN,No,8,No,,"Olives, cherry tomatoes, sun-dried tomatoes, basil, garlic",,"Dulce Seaweed, royal icing, milk"
+12,3,Rochica,OUT,No,10,No,,"Garlic, pesto, tomatoes, spring onions, all spice, garlic, red onions, basil, feta cheese, honey, black pepper,",,"Whole milk, milk powder, cinnamon, nutmeg, chocolate and hazelnut praline, pineapple curd, "
+12,3,Tom,NA,NA,NA,NA,NA,NA,NA,NA
+12,4,Amanda,IN,No,8,No,,"Chocolate mascarpone cream, raspberry curd, meringue",,"Maple, almond joconde, caramelized apple jelly, calvados bavarois"
+12,4,Chigs,STAR BAKER,Yes,3,No,,"Chantilly cream, chocolate, passion fruit, mango, mango coulis",,"Cherry soaked chocolate joconde, chocolate bavarois, cherry mousse, cherry jelly"
+12,4,Crystelle,IN,No,5,No,,"Lime curd, kiwi, coconut crumble, meringue",,"almond and pineapple joconde, coconut rum compote, pineapple, coconut sable, coconut bavarois, lime jelly"
+12,4,Freya,IN,No,6,No,,"Orange blossom extract, aguafaba meringue, raspberry coulis, caramelized peaches",,"Chocolate and orange mousse, dark chocolate, orange jelly, hazelnut dacquoise, vegan Italian meringue buttercream"
+12,4,George,IN,No,7,No,,"Lemon curd, speculums whipped cream",,"almond joconde, caramel chocolate mousse, candied peanut, peanut butter bavarois"
+12,4,Giuseppe,IN,No,4,No,,"Peach, coconut Chantilly cream, nectarine, passion fruit, peach cremeux and coulis, French meringue",,"Genoise sponge, strawberry, raspberry, pistachio, red fruit bavarois"
+12,4,Jairzeno,NA,NA,NA,NA,NA,NA,NA,NA
+12,4,Jurgen,IN,No,1,No,,"matza(unleavened bread), chocolate, date, orange, cinnamon, cardamom, vanilla cream",,"Almond joconde, English white wine jelly, fresh strawberry, mint, caramelized hazelnut dacquoise, black pepper, white chocolate bavarois"
+12,4,Lizzie,IN,No,2,No,,"Blueberry, rosemary creme diplomat, lemon curd",,"Hazelnut joconde, pecan, caramel, chocolate genoise sponge, dark chocolate, chocolate ganache"
+12,4,Maggie,OUT,No,9,No,,"Meringue, raspberry syrup, passion fruit cream",,"Yoghurt, strawberry, strawberry joconde, strawberry bavarois, strawberry coulis "
+12,4,Rochica,NA,NA,NA,NA,NA,NA,NA,NA
+12,4,Tom,NA,NA,NA,NA,NA,NA,NA,NA
+12,5,Amanda,IN,No,8,No,,"Mulled wine jam, almond vanilla shortbread",,"Rum-soaked raisin, caramelized spiced plums"
+12,5,Chigs,IN,No,2,No,,"Orange zest, chocolate, flaked almonds",,"Honey, almond, pecan, walnut, chocolate, white chocolate honey comb, lemon creme diplomat, candied peel"
+12,5,Crystelle,IN,No,7,No,,"brown butter shortbread, cardamom, pistachio, white chocolate",,"Caramelized apple, vanilla creme diplomat, chocolate orange creme diplomat, marzipan"
+12,5,Freya,OUT,No,5,No,,"Glace cherry, vegan meringue",,"Spiced red wine syrup, wine poached plum"
+12,5,George,IN,No,6,No,,"Aniseed, nutmeg",,"Chocolate, tahini, vanilla icing"
+12,5,Giuseppe,STAR BAKER,No,1,No,,"Pisto spice(cinnamon, aniseed, black pepper, clove), strawberry jam, candied orange peel",,"Amarena-soaked cherry, honey glaze, creme patisserie"
+12,5,Jairzeno,NA,NA,NA,NA,NA,NA,NA,NA
+12,5,Jurgen,IN,Yes,4,No,,"Espresso biscuit, white chocolate, dark chocolate",,"Apricot and poppy seed jam, chocolate raisins, stout flavored dough"
+12,5,Lizzie,IN,No,3,No,,"Apple and cardamom jam, mixed spice",,"Gin-soaked raisins, cinnamon, cream cheese frosting, pineapple flowers, orange blossom"
+12,5,Maggie,NA,NA,NA,NA,NA,NA,NA,NA
+12,5,Rochica,NA,NA,NA,NA,NA,NA,NA,NA
+12,5,Tom,NA,NA,NA,NA,NA,NA,NA,NA
+12,6,Amanda,OUT,No,5,No,,"Bacon, maple syrup, pistachio creme patisserie, rose",,"Bacon, cherry, pistachio, chicken pate, fennel sausage meat"
+12,6,Chigs,IN,No,3,No,,"Cocoa powder, lime glaze, hazelnut praline",,"Pork, apricot, gherkin, chicken"
+12,6,Crystelle,STAR BAKER,No,2,Yes,,"Passionfruit glaze, miso caramel, mango cream",,"Yam, curry, potato, cumin, chicken, pickling spices, Kashmiri, chili powder, peanut"
+12,6,Freya,NA,NA,NA,NA,NA,NA,NA,NA
+12,6,George,IN,No,6,No,,"Sticky toffee glaze, toffee and nut, jam, cream",,"bacon, duck, turkey, carrot"
+12,6,Giuseppe,IN,No,4,No,,"Limoncello liqueur, sesame and almond nougatine, creme patisserie",,"Spinach, cauliflower, dutch cheese, carrot, ham, pecorino cheese, beef, ham, smoked mozzarella"
+12,6,Jairzeno,NA,NA,NA,NA,NA,NA,NA,NA
+12,6,Jurgen,IN,No,1,No,,"Ube extract, yuzu and sake glaze, creme patissiere, orange ganache",,"Beef, horseradish, sauerkraut, beetroot"
+12,6,Lizzie,IN,No,7,No,,"Raspberry liqueur, hibiscus buttercream, caramel glaze",,"Potato, salmon, ricotta, spinach"
+12,6,Maggie,NA,NA,NA,NA,NA,NA,NA,NA
+12,6,Rochica,NA,NA,NA,NA,NA,NA,NA,NA
+12,6,Tom,NA,NA,NA,NA,NA,NA,NA,NA
+12,7,Amanda,NA,NA,NA,NA,NA,NA,NA,NA
+12,7,Chigs,IN,No,3,No,,"Chocolate ganache, crystallized ginger",,"Chocolate, pecan dacquoise, pecan caramel, chocolate pecan ganache, coffee mascarpone mousse, white chocolate caramel glaze"
+12,7,Crystelle,IN,No,4,No,,"Apple, roasted pecan, miso caramel, cinnamon",,"Miso caramel, caramel mousse, caramel sauce, coffee peanut ganache, peanut biscuit, chocolate mirror glaze"
+12,7,Freya,NA,NA,NA,NA,NA,NA,NA,NA
+12,7,George,OUT,No,6,No,,"Chocolate short pastry, salted caramel custard, banana, whipped creme fraiche",,"salted caramel Italian meringue buttercream, hazelnut & almond dacquoise, honeycomb, chocolate ganache"
+12,7,Giuseppe,IN,No,1,No,,"Roasted hazelnut, caramelized hazelnut, apricot cremeux, apricot slices",,"Apricot and caramel glaze, chocolate praline, salted caramel mousse"
+12,7,Jairzeno,NA,NA,NA,NA,NA,NA,NA,NA
+12,7,Jurgen,STAR BAKER,No,2,No,,"Pistachio, pecan, walnut, kumquat creme chiboust",,"Hazelnut praline, caramel bavarois, mango and passionfruit bavarois, passionfruit glaze, chocolate genoise, shortcrust pastry"
+12,7,Lizzie,IN,No,5,No,,"Caramelized pineapple, caramel, Chantilly cream, baked caramel custard",,"Honeycomb, apple cake, sage-flavored caramel, pecan brittle, toffee"
+12,7,Maggie,NA,NA,NA,NA,NA,NA,NA,NA
+12,7,Rochica,NA,NA,NA,NA,NA,NA,NA,NA
+12,7,Tom,NA,NA,NA,NA,NA,NA,NA,NA
+12,8,Amanda,NA,NA,NA,NA,NA,NA,NA,NA
+12,8,Chigs,STAR BAKER,No,1,No,,"Coconut milk, mango, pistachio and cardamom biscuit, vegan white chocolate, lime",,"Apple cider vinegar, strawberry jam, chocolate, vanilla cream cheese, chocolate cream cheese"
+12,8,Crystelle,IN,No,5,No,,"Cashew milk, coffee, tahini, miso",,"Coconut and Jaggery creme pat, coconut, walnut, cardamom, cardamom sponge, rice flour"
+12,8,Freya,NA,NA,NA,NA,NA,NA,NA,NA
+12,8,George,NA,NA,NA,NA,NA,NA,NA,NA
+12,8,Giuseppe,IN,No,2,No,,"Tofu, soy milk, crystallized ginger, maple syrup, candied orange peel, orange juice, orange essence, orange zest",,"Pistachio, puffed rice, chocolate, kirsch cherry jam, Chantilly cream"
+12,8,Jairzeno,NA,NA,NA,NA,NA,NA,NA,NA
+12,8,Jurgen,IN,No,4,No,,"Coconut cream, pistachio and almond macarons, stem ginger, banana",,"Milk chocolate, white chocolate, dark chocolate, apricot jam"
+12,8,Lizzie,OUT,No,3,No,,"Oat milk, vanilla, almond brittle",,"Coconut flour, pineapple jam, lime Italian meringue buttercream"
+12,8,Maggie,NA,NA,NA,NA,NA,NA,NA,NA
+12,8,Rochica,NA,NA,NA,NA,NA,NA,NA,NA
+12,8,Tom,NA,NA,NA,NA,NA,NA,NA,NA
+12,9,Amanda,NA,NA,NA,NA,NA,NA,NA,NA
+12,9,Chigs,IN,Yes,4,No,,"Almond, raspberry mousse, raspberry jelly, chocolate ganache",,"Cinnamon biscuit, caramelized apple, caramel and white chocolate mousse, dark chocolate, hazelnut biscuit"
+12,9,Crystelle,STAR BAKER,Yes,3,No,,"Desiccated coconut, black sesame, yuzu curd, almond, white chocolate and coconut Italian meringue buttercream, Chantilly cream",,"Vanilla and coconut cremeux, mango bavarois, passion fruit jelly, swiss meringue"
+12,9,Freya,NA,NA,NA,NA,NA,NA,NA,NA
+12,9,George,NA,NA,NA,NA,NA,NA,NA,NA
+12,9,Giuseppe,IN,Yes,2,No,,"Coffee, marsala wine, sultana, mascarpone pate a bombe",,"Puffed rice, marshmallow, chocolate custard, cherry, pine nut bavarois"
+12,9,Jairzeno,NA,NA,NA,NA,NA,NA,NA,NA
+12,9,Jurgen,OUT,No,1,No,,"Beetroot buttercream, cassis buttercream, coffee liqueur, tuile, chocolate glaze",,"Raspberry jelly, raspberry bavarian, gingerbread, genoise sponge, matcha bavarian mousse, tuile, white chocolate"
+12,9,Lizzie,NA,NA,NA,NA,NA,NA,NA,NA
+12,9,Maggie,NA,NA,NA,NA,NA,NA,NA,NA
+12,9,Rochica,NA,NA,NA,NA,NA,NA,NA,NA
+12,9,Tom,NA,NA,NA,NA,NA,NA,NA,NA
+12,10,Amanda,NA,NA,NA,NA,NA,NA,NA,NA
+12,10,Chigs,Runner-up,No,2,No,,"Carrot, cream cheese icing, star anise, pineapple jam",,"Orange curd, strawberry, elder berry, black pepper, chicken and mushroom pie, lemon and lime creme patissiere, orange zest, mascarpone"
+12,10,Crystelle,Runner-up,No,1,No,,"Cardamom, pistachio, orange curd, carrot, mascarpone",,"Za’atar, garlic, chickpea curry, cardamom, pistachio, chai cake"
+12,10,Freya,NA,NA,NA,NA,NA,NA,NA,NA
+12,10,George,NA,NA,NA,NA,NA,NA,NA,NA
+12,10,Giuseppe,WINNER,No,3,No,,"Carrot, fig jam, walnut jam, orange zest, orange cream cheese icing, candied walnuts, figs",,"Chocolate, hazelnut, mango and passionfruit panna cottas, orange zest, fig, asparagus, pea"
+12,10,Jairzeno,NA,NA,NA,NA,NA,NA,NA,NA
+12,10,Jurgen,NA,NA,NA,NA,NA,NA,NA,NA
+12,10,Lizzie,NA,NA,NA,NA,NA,NA,NA,NA
+12,10,Maggie,NA,NA,NA,NA,NA,NA,NA,NA
+12,10,Rochica,NA,NA,NA,NA,NA,NA,NA,NA
+12,10,Tom,NA,NA,NA,NA,NA,NA,NA,NA
+13,1,Abdul,IN,No,6,No,Cake-y Cacti,"Raspberry jam, mascarpone, chocolate and hazelnut, sponge rosewater buttercream, chili",,"Mango and saffron jam, masala chai, cashew barfi"
+13,1,Carole,IN,No,8,No,To Bee or not to Bee,"Lemon curd, lemon zest, poppy seeds, lemon buttercream",,"Chicory Coffee, walnut"
+13,1,Dawn,IN,No,3,No,"Lime, coconut & tamarind spring cakes","tamarind and lime zest jelly, coconut marzipan, coconut milk, desiccated coconut",,"Praline, apricot puree, German buttercream, vanilla genoise sponge"
+13,1,James,IN,No,12,No,Sticky toffee apple candles,"Sticky toffee pudding sponge, chopped date, treacle, ginger and apple jam, nutmeg fresh buttercream",,"Orange zest, cardamom, orange curd, orange blossom buttercream"
+13,1,Janusz,STAR BAKER,No,7,No,Pistachio and cherry vodka liqueur wuzetka,"Pistachio cream, cherry, kirsch soaked cherries, cherry liqueur, chocolate ganache",,"Polish ginger, spices, orange, chocolate sponge, soy sauce "
+13,1,Kevin,IN,No,4,No,Mini Persian Love Cakes,"Rosewater swiss meringue buttercream, pistachio and almond and cardamom sponge",,"Banana, maple butter cream, spiced sugar, pecan"
+13,1,Maisam,IN,No,5,No,Pistachio Cakes with Raspberry Buttercream,"Fresh raspberries, raspberry jam, raspberry Swiss meringue buttercream, pistachios sponge",,"Lemon, blueberry jam"
+13,1,Maxy,IN,No,10,No,Mango Magic Mess,"Mango and passionfruit coulis, mascarpone, vanilla sponge",,"Apple and berry compote, cinnamon, crumble"
+13,1,Rebs,IN,No,11,No,Hazelnut mocha latte mini sandwich cakes,"Chopped hazelnuts, chocolate ganache, caramel, coffee sponge",,"Coconut rum, pineapple"
+13,1,Sandro,IN,No,2,No,A bitesize of love,"Chocolate and orange sponge, dark chocolate, red wine ganache, sugar roses",,"Strawberry sponge, chantilly cream, strawberry liqueur"
+13,1,Syabira,IN,No,1,No,"Coconut, pandan, and caramel mousse cake","Pandan, coconut, caramel mousse, coconut milk",,"Milk tea, matcha buttercream, strawberry and cinnamon jam"
+13,1,Will,OUT,No,9,No,Ginger and Caramel Squares,"Ginger powder, fresh ginger syrup, salty caramel Italian meringue buttercream",,"Chocolate, orange, gingerbread"
+13,2,Abdul,IN,No,11,No,,"Chocolate, coffee, caramel",,"Gingerbread, sumac shortbread, tahini and sesame biscuit"
+13,2,Carole,IN,No,4,No,,"Sesame seed, chocolate, orange",,"Orange zest, almond, gingerbread"
+13,2,Dawn,IN,Yes,9,No,,"Mascarpone cream, freeze dried strawberry powder",,"Gingerbread, lemon shortbread, royal icing"
+13,2,James,IN,No,2,No,,"Raspberry whipped cream, mango extract",,"Brandysnap, coffee Italian meringue buttercream, spice, chocolate"
+13,2,Janusz,IN,No,6,No,,"Watermelon essence, lemon curd, spinach powder",,"Spice, matcha, vanilla, strawberry"
+13,2,Kevin,IN,No,8,No,,"Peppermint, dark chocolate",,"Gingerbread, brandysnap"
+13,2,Maisam,OUT,No,7,No,,"Orange blossom, walnut, mascarpone cream",,"Gingerbread, royal icing, coconut, lemon"
+13,2,Maxy,STAR BAKER,Yes,5,No,,"Raspberry mascarpone cream, salted caramel",,"Cardamom, macadamia, lime, coconut"
+13,2,Rebs,IN,No,1,No,,"Chocolate ganache, raspberry coulis",,"Gingerbread, whisky-snap, royal icing"
+13,2,Sandro,IN,No,3,No,,"Chocolate ganache, passion fruit, rum, salted caramel",,"Gingerbread, strawberry, elderflower, white chocolate"
+13,2,Syabira,IN,No,10,No,,"Tofu, satay sauce",,"Lemon, jasmine, gingerbread, chocolate, orange, rose, pistachio"
+13,2,Will,NA,NA,NA,NA,,NA,,NA
+13,3,Abdul,SKIP,NA,NA,NA,,NA,,NA
+13,3,Carole,IN,No,8,No,,"Reblochon cheese, gruyere cheese, pancetta, potato, onion",,"Mackerel, salmon, pumpkin seed, poppy seed, sesame seed, pickled cucumber, pickled egg, beet root"
+13,3,Dawn,IN,No,6,No,,"Stewing steak, onion, fresh chili, mozzarella, sour cream, guacamole",,"Olive, feta cheese, roast chicken thighs, tzatziki"
+13,3,James,IN,No,3,No,,"Pineapple, pancetta, mushroom, spelt flour",,"Squid ink, char sui pork, plum sauce"
+13,3,Janusz,STAR BAKER,No,1,No,,Black pudding,,"Curry powder, fried cod, mayonnaise, potato, mushy pea puree, mayonnaise"
+13,3,Kevin,IN,No,7,No,,"Figs, sweet chili jam, halloumi, balsamic glaze",,"Mayonnaise, cucumber, salmon, haddock fillets, broccolini , asparagus"
+13,3,Maisam,NA,NA,NA,NA,,NA,,NA
+13,3,Maxy,IN,No,2,No,,"Rosemary, minced lamb, mushroom",,"Crayfish, prawn, egg, cress, sunflower seed, pumpkin seed, mayonnaise"
+13,3,Rebs,SKIP,NA,NA,NA,,NA,,NA
+13,3,Sandro,IN,No,4,No,,"Pepper, pineapple, bbq sauce, camembert, honey, spanish chorizo, onion",,"Maple, bacon, cream cheese, pulled beef brisket, bbq sloppy Joe sauce, sirloin steak"
+13,3,Syabira,IN,No,5,No,,"Stinky bean, sambal paste, prawn, anchovies, onions",,"Nasi lemak, ginger, coconut, cucumber, chicken, spicy sambal"
+13,3,Will,NA,NA,NA,NA,,NA,,NA
+13,4,Abdul,IN,No,6,No,,"Coconut, raspberry jam, white chocolate buttercream, apricot",,"Lime zest, white chocolate, passion fruit, coconut, Italian meringue buttercream, lime curd"
+13,4,Carole,IN,No,10,No,,"Aniseed, ground anise, orange",,"Chocolate, coffee liqueur, chili, orange, lime, hazelnut, caramel"
+13,4,Dawn,IN,No,5,No,,"Chopped bird’s eye chilli, chocolate ganache",,"Coffee creme mousseline , dark chocolate, vanilla, Chantilly cream, amaretto creme patisserie"
+13,4,James,OUT,No,8,No,,"Vanilla, cinnamon, coffee, chocolate, caramel",,"Chili, white chocolate, lemon, lime, vanilla, dulce de leche, chocolate, strawberry"
+13,4,Janusz,IN,No,7,No,,"Lime craquelin, coconut milk",,"Dragon fruit, whipping cream, evaporated milk, coconut milk, mango, lemon, passion fruit, guava"
+13,4,Kevin,IN,No,4,No,,"Rum syrup, lemon, star anise, rum butter, coconut",,"Coffee milk, hazelnut praline cream, vanilla, chili chocolate ganache"
+13,4,Maisam,NA,NA,NA,NA,,NA,,NA
+13,4,Maxy,STAR BAKER,No,1,No,,"Orange, cinnamon, cinnamon chantilly cream",,"Chocolate, strawberry, vanilla, Italian meringue buttercream, cinnamon, double cream, evaporated milk, condensed milk"
+13,4,Rebs,OUT,No,9,No,,"Lemon, vanilla, whipped cream, lemon curd",,"Mexican coffee liqueur, tequila, almond, cocoa, mascarpone cream, chili chocolate ganache"
+13,4,Sandro,IN,No,3,No,,"Caramel, hazelnut, coffee, praline custard",,"White chocolate, chocolate ganache, cherry compote, chili chocolate coffee sponge, Irish cream soak, spiced chocolate sponge, coffee and cherry soak"
+13,4,Syabira,IN,No,2,No,,"Boiled egg, corn, cinnamon, coconut",,"Sweetcorn, swiss meringue, cinnamon, cream cheese"
+13,4,Will,NA,NA,NA,NA,,NA,,NA
+13,5,Abdul,IN,No,2,No,,"Fig, white chocolate, rose petal, pistachio, date, saffron, cardamom",,"White chocolate, almond crunch, blackberry mousse, yuzu curd, mirror glaze"
+13,5,Carole,OUT,No,6,No,,"Plum, ginger, chantilly cream",,"Chocolate, strawberry, strawberry mousse"
+13,5,Dawn,IN,No,7,No,,"Caramel, orange, apple, creme anglaise",,"Lemon jelly, hazelnut dacquoise, lime yogurt mousse, raspberry mousse, basil"
+13,5,James,NA,NA,NA,NA,,NA,,NA
+13,5,Janusz,IN,No,1,No,,"Coconut creme anglaise, coconut, caramelized pineapples, coconut rum",,"Chocolate mousse, white chocolate"
+13,5,Kevin,IN,No,5,No,,"Fruit, whiskey, creme anglaise",,"Creme mousseline, banana mousse, chocolate mousse, buttercream"
+13,5,Maisam,NA,NA,NA,NA,,NA,,NA
+13,5,Maxy,IN,No,3,No,,"Candied pecan, date, toffee, caramel, raspberry, whipped cream",,"Lemon curd, swiss roll, vanilla mousse, strawberry mousse"
+13,5,Rebs,NA,NA,NA,NA,,NA,,NA
+13,5,Sandro,STAR BAKER,No,4,No,,"Cherry, apple, crumble, caramel, cherry liqeuer",,"Panna cotta, passion fruit, lemon, white chocolate, prosecco jelly, strawberry, blueberry"
+13,5,Syabira,IN,No,8,No,,"Watermelon essense, caramel, coconut, tapioca, taro, lychee custard",,"Melon mousse, jasmine jelly"
+13,5,Will,NA,NA,NA,NA,,NA,,NA
+13,6,Abdul,IN,No,7,No,,"Caramel, honeycrisp apple, almond, cream cheese, chocolate",,"Cinnamon, allspice, ginger, nutmeg, brandy snaps, white chocolate, matcha, rosewater, almond, cardamom, date"
+13,6,Carole,NA,NA,NA,NA,,NA,,NA
+13,6,Dawn,OUT,No,5,No,,"Sliced green apple, toffee, blood orange juice",,"Carbon black cocoa powder, cardamom, raspberry jelly, brandy ganache, tuile"
+13,6,James,NA,NA,NA,NA,,NA,,NA
+13,6,Janusz,IN,No,2,No,,"Pink apple, caramel, ginger, nutmeg, all spice, chocolate, cinnamon, clove",,"White chocolate, almond, almond flour, almond extract, clove, nutmeg, ginger, cinnamon, pumpkin, pistachio, cricket powder, smoked cricket"
+13,6,Kevin,IN,No,3,No,,"Almond, cream cheese, Braeburn apple, streusel, bourbon, spiced cider, caramel",,"Orange zest, 5 spice, apple puree, creme mousseline, marshmallow, toffee, peanut, chocolate ganache"
+13,6,Maisam,NA,NA,NA,NA,,NA,,NA
+13,6,Maxy,IN,No,6,No,,"Pink apple, green apple, cream cheese, walnut, spice, apple puree, salted caramel",,"Orange zest, pumpkin, chocolate, cinnamon, ginger, clove, nutmeg, hazelnut"
+13,6,Rebs,NA,NA,NA,NA,,NA,,NA
+13,6,Sandro,IN,No,4,No,,"Bramley apples, cinnamon whiskey, caramel, spice, walnut crumble",,"Chocolate, candied orange, hazelnuts, espresso, cayenne pepper"
+13,6,Syabira,STAR BAKER,No,1,No,,"Chili, green apple, pink apple, sour plum, cream cheese",,"Coriander, cinnamon, clove, star anise, peanut, almond, white truffle maple syrup, orange zest"
+13,6,Will,NA,NA,NA,NA,,NA,,NA
+13,7,Abdul,IN,No,4,No,,"Orange zest, vanilla, pistachio praline, caramelized sugar, cherry coulis",,"Chocolate creme patissiere, vanilla creme diplomat, raspberry, lime zest, strawberry, caramelized peach"
+13,7,Carole,NA,NA,NA,NA,,NA,,NA
+13,7,Dawn,NA,NA,NA,NA,,NA,,NA
+13,7,James,NA,NA,NA,NA,,NA,,NA
+13,7,Janusz,IN,No,5,No,,"Coffee, vanilla, orange zest",,"strawberry, dark chocolate, ruby chocolate, white chocolate, vanilla, condensed milk, limoncello"
+13,7,Kevin,OUT,No,3,No,,"lychee, prosecco, raspberry puree, tuile",,"Bay leave, thyme, honey, nectarine, raspberry, Swiss meringue buttercream, prosecco"
+13,7,Maisam,NA,NA,NA,NA,,NA,,NA
+13,7,Maxy,IN,No,2,No,,"Pistachio, blueberry, caramelized sugar",,"Coconut, almond, lime, passion fruit, Italian meringue buttercream, tuile biscuit, mango, pineapple, vanilla"
+13,7,Rebs,NA,NA,NA,NA,,NA,,NA
+13,7,Sandro,IN,No,1,No,,"Cardamom, cherry jelly, caramelized hazelnut & almond, dark chocolate, brandy, prosecco",,"Mango, coconut, vanilla, coffee, rosewater, orange"
+13,7,Syabira,STAR BAKER,No,6,No,,"Crumble, mint, lime zest, rum",,"Pineapple, coconut rum creme legere, pineapple creme patissiere, lime"
+13,7,Will,NA,NA,NA,NA,,NA,,NA
+13,8,Abdul,IN,No,,No,,,,
+13,8,Carole,NA,NA,,NA,,NA,,NA
+13,8,Dawn,NA,NA,,NA,,NA,,NA
+13,8,James,NA,NA,,NA,,NA,,NA
+13,8,Janusz,IN,No,,No,,,,
+13,8,Kevin,NA,NA,,NA,,NA,,NA
+13,8,Maisam,NA,NA,,NA,,NA,,NA
+13,8,Maxy,IN,No,,No,,,,
+13,8,Rebs,NA,NA,,NA,,NA,,NA
+13,8,Sandro,IN,No,,No,,,,
+13,8,Syabira,IN,No,,No,,,,
+13,8,Will,NA,NA,,NA,,NA,,NA
