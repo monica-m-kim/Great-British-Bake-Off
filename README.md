@@ -25,12 +25,13 @@ There are 5 data sets in this repository:
 I have set up a SQL database to explore the data set while practicing mySQL statements. I am also utilizing Python to build models to predict winners and analyze ingredients/flavors to find the flavor combination that can increase the chance of winning.
 
 
-### Ask for the community:
+### Ask for the community
 - Please share questions you would like to know the answer. It is good practice for everyone!
 - Share your version of mySQL statement to answer the questions. I would like to learn different approaches.
+- Share your work with the data set. I would like to learn from you.
 - This is my first time to build a public Github repository. Any suggestions for improvements are welcome!
 
-If you have any questions/feed backs/requests, please reach out ! 
+If you have any questions/feed backs/requests, please reach out.
 Monica Kim (monicakimx@gmail.com)
 
 ———
