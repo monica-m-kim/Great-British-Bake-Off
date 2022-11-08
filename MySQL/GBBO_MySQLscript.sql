@@ -53,12 +53,37 @@ SUM(CASE WHEN outcome = "WINNER" THEN 1 ELSE 0 END) AS seriesresult
 FROM gbbo_challengeresults gc 
 GROUP BY series, baker
 ORDER BY starbaker DESC 
-LIMIT 10
+LIMIT 10;
 
 
 #Average age of contestants all time?
 SELECT ROUND(AVG(age)) AS average_age
 FROM gbbo_bakers;
+
+#Median age of contestants all time?
+SELECT
+CASE WHEN count(*)%2 = 0 THEN count(*)/2 ELSE (count(*)+1)/2 END AS median_1,
+CASE WHEN count(*)%2 = 0 THEN ROUND(count(*)/2 + 1) ELSE "NA" END AS median_2
+FROM gbbo_bakers;
+#median should be average of 73th, 74th
+
+WITH rankings AS (SELECT ROW_NUMBER() OVER(ORDER BY age) AS ageorder, age FROM gbbo_bakers)
+
+SELECT SUM(age)/2 AS median FROM rankings
+WHERE ageorder = 73 OR ageorder = 74;
+
+
+#Mode age of contestants all time?
+SELECT age, count(*) AS bakercount
+FROM gbbo_bakers
+GROUP BY age
+ORDER BY bakercount DESC
+LIMIT 3
+###mode is 31, median is 33, mean is 38. The baker age distribution is right-skewed. 
+
+#Range of the contestants' age
+SELECT MAX(age)- MIN(age) AS agerange FROM gbbo_bakers
+### range is 54
 
 #Average age of contestants of each season?
 SELECT series, ROUND(AVG(age)) AS average_age
