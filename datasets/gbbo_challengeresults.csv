@@ -1315,15 +1315,27 @@ series,episode,baker,outcome,signature_handshake,technical,showstopper_handshake
 13,8,Sandro,IN,No,1,No,Lime cream patissiere; lime jam; ginger biscuit,Watermelon; spicy chorizo; beef; pear; cherry; plum
 13,8,Syabira,STARBAKER,No,4,No,Orange; mandarin; clove; cardamom; cream cheese; orange liqueur; pecan praline; whipping cream,Red onion; Malaysian potato curry; chicken rendang
 13,8,Will,NULL,NULL,NULL,NULL,NULL,NULL
-13,9,Abdul,IN,No,,No,,
+13,9,Abdul,STARBAKER,No,2,No,Raspberry; pistachio; mascarpone cream; coffee creme chiboust,Lemon zest; lemon extract; orange; marzipan; caramel; pistachio;
 13,9,Carole,NULL,NULL,NULL,NULL,NULL,NULL
 13,9,Dawn,NULL,NULL,NULL,NULL,NULL,NULL
 13,9,James,NULL,NULL,NULL,NULL,NULL,NULL
-13,9,Janusz,IN,No,,No,,
+13,9,Janusz,OUT,No,3,No,Plum; dark chocolate; hazelnut custard,Almond; rose; gin
 13,9,Kevin,NULL,NULL,NULL,NULL,NULL,NULL
 13,9,Maisam,NULL,NULL,NULL,NULL,NULL,NULL
 13,9,Maxy,NULL,NULL,NULL,NULL,NULL,NULL
 13,9,Rebs,NULL,NULL,NULL,NULL,NULL,NULL
-13,9,Sandro,IN,No,,No,,
-13,9,Syabira,IN,No,,No,,
+13,9,Sandro,IN,No,4,No,Dried banana; banana; peanut; caramel; praline crumble; chocolate ganache; peanut butter,Raspberry; pistachio; rhubarb; custard; marzipan
+13,9,Syabira,IN,No,1,No,strawberry; peanut butter; blackberry; cream cheese,Pistachio; almond; rose; marzipan
 13,9,Will,NULL,NULL,NULL,NULL,NULL,NULL
+13,10,Abdul,,No,,No,,
+13,10,Carole,NULL,NULL,NULL,NULL,NULL,NULL
+13,10,Dawn,NULL,NULL,NULL,NULL,NULL,NULL
+13,10,James,NULL,NULL,NULL,NULL,NULL,NULL
+13,10,Janusz,NULL,NULL,NULL,NULL,NULL,NULL
+13,10,Kevin,NULL,NULL,NULL,NULL,NULL,NULL
+13,10,Maisam,NULL,NULL,NULL,NULL,NULL,NULL
+13,10,Maxy,NULL,NULL,NULL,NULL,NULL,NULL
+13,10,Rebs,NULL,NULL,NULL,NULL,NULL,NULL
+13,10,Sandro,,No,,No,,
+13,10,Syabira,,No,,No,,
+13,10,Will,NULL,NULL,NULL,NULL,NULL,NULL
