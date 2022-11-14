@@ -274,3 +274,42 @@ LEFT JOIN gbbo_episodes e
 ON (gc.series = e.series AND gc.episode = e.episode)
 WHERE gc.baker = w.baker
 ORDER BY series, episode, e.episode_name
+
+#What weeks were never repeated?
+SELECT episode_name, count(*) AS episodecount 
+FROM gbbo_episodes
+GROUP BY episode_name
+HAVING episodecount = 1
+
+
+
+
+#How many non-repeated weeks were there in each series
+WITH uniqueweek AS (SELECT episode_name, count(*) AS episodecount 
+FROM gbbo_episodes
+GROUP BY episode_name
+HAVING episodecount = 1)
+
+SELECT ge.series, COUNT(*) AS uniqueweekcount
+FROM gbbo_episodes ge
+RIGHT JOIN
+uniqueweek u 
+ON ge.episode_name = u.episode_name
+GROUP BY ge.series
+
+
+#Did Starbakers of the unique weeks won the series?
+WITH
+winners AS (SELECT series, baker FROM gbbo_challengeresults WHERE outcome = "Winner"),
+uniqueweek AS (SELECT series, episode, episode_name, COUNT(*) OVER(PARTITION BY episode_name) epcount FROM gbbo_episodes),
+starbaker AS (SELECT series, episode, baker FROM gbbo_challengeresults WHERE outcome = "STARBAKER") 
+
+SELECT s.series, s.episode, s.baker AS starbaker, w.baker AS winner, u.episode_name,
+CASE WHEN s.baker = w.baker THEN "Starbaker won the series" ELSE "Starbaker did not win the series" END as results
+FROM starbaker s 
+LEFT JOIN (SELECT * FROM uniqueweek WHERE epcount = 1) u
+ON (s.series = u.series AND s.episode = u.episode)
+INNER JOIN winners w
+ON u.series = w.series
+ORDER BY s.series, s.episode
+
