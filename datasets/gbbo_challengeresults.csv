@@ -1327,7 +1327,7 @@ series,episode,baker,outcome,signature_handshake,technical,showstopper_handshake
 13,9,Sandro,IN,No,4,No,Dried banana; banana; peanut; caramel; praline crumble; chocolate ganache; peanut butter,Raspberry; pistachio; rhubarb; custard; marzipan
 13,9,Syabira,IN,No,1,No,strawberry; peanut butter; blackberry; cream cheese,Pistachio; almond; rose; marzipan
 13,9,Will,NULL,NULL,NULL,NULL,NULL,NULL
-13,10,Abdul,,No,,No,,
+13,10,Abdul,RUNNERUP,No,1,No,Feta cheese; leek; onion; rocket; mint; carrot; beetroot; cream cheese; dill; cherry; tarragon; chive,Honey; blackberry; raspberry; elderflower; almond; Italian meringue buttercream; strawberry
 13,10,Carole,NULL,NULL,NULL,NULL,NULL,NULL
 13,10,Dawn,NULL,NULL,NULL,NULL,NULL,NULL
 13,10,James,NULL,NULL,NULL,NULL,NULL,NULL
@@ -1336,6 +1336,6 @@ series,episode,baker,outcome,signature_handshake,technical,showstopper_handshake
 13,10,Maisam,NULL,NULL,NULL,NULL,NULL,NULL
 13,10,Maxy,NULL,NULL,NULL,NULL,NULL,NULL
 13,10,Rebs,NULL,NULL,NULL,NULL,NULL,NULL
-13,10,Sandro,,No,,No,,
-13,10,Syabira,,No,,No,,
+13,10,Sandro,RUNNERUP,No,3,No,Cauliflower; garlic; egg; water cress; lemon; elder flower; blueberry jam; blueberry; raspberry; strawberry; mustard; cream cheese,Lemon; plum compote; honey; white chocolate; raspberry; blueberry; cream
+13,10,Syabira,WINNER,No,2,No,Aubergine; mushroom; quail’s egg; piccalilli; salsa verde; broad bean; strawberry jam; rosemary cream; coriander,Black pepper; blackberry jam; chocolate and hazelnut; Tarragon; strawberry; rhubarb; chocolate; buttercream; gooseberry
 13,10,Will,NULL,NULL,NULL,NULL,NULL,NULL
