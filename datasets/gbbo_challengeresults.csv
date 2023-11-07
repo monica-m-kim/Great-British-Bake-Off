@@ -1339,3 +1339,75 @@ series,episode,baker,outcome,signature_handshake,technical,showstopper_handshake
 13,10,Sandro,RUNNERUP,No,3,No,Cauliflower; garlic; egg; water cress; lemon; elder flower; blueberry jam; blueberry; raspberry; strawberry; mustard; cream cheese,Lemon; plum compote; honey; white chocolate; raspberry; blueberry; cream
 13,10,Syabira,WINNER,No,2,No,Aubergine; mushroom; quail‚Äôs egg; piccalilli; salsa verde; broad bean; strawberry jam; rosemary cream; coriander,Black pepper; blackberry jam; chocolate and hazelnut; Tarragon; strawberry; rhubarb; chocolate; buttercream; gooseberry
 13,10,Will,NULL,NULL,NULL,NULL,NULL,NULL
+14,1,Abbi,IN,No,3,No,wild blackcurrant; wild poppy seeds,ginger; salted caramel; italian meringue buttercream; rhubarb jam; hazelnut praline crunch
+14,1,Amos,OUT,No,2,No,blood orange; dark chocolate,caramel; apple buttercream
+14,1,Cristy,IN,No,6,No,limoncello;lemon juice;lemon zest; meringue,fresh raspberry; frozen raspberry; raspberry and almond liqueur jam; white chocolate
+14,1,Dan,STARBAKER,No,1,No,rhubarb compote; custard powder; cream patissiere; cream cheese buttercream,"chocolate ganache; cmilk hocolate buttercream, dark chocolate buttercream"
+14,1,Dana,IN,No,12,No,salted caramel buttercream; coffee; coffee syrup,banana; peanut butter;cinnamon crumble
+14,1,Josh,IN,No,8,No,passion fruit curd; coconut buttercream; mango,coffee; date; walnut; maple syrup caramel; cream cheese
+14,1,Keith,IN,No,4,No,chocolate orange ganache; orange liqueur,lemon;orange;orange buttercream
+14,1,Matty,IN,No,7,No,espresso; mascarpone cream; vanilla buttercream,lemon curd; fresh raspberry; swiss meringue buttercream
+14,1,Nicky,IN,No,10,No,blood orange; lemon curd; orange and rosemary syrup,chocolate; rum; blackberry jam; vanilla buttercream; crème de cassis
+14,1,Rowan,IN,No,9,No,dark chocolate;raspberry swiss buttercream; milk chocolate,valencian orange; lime curd; cherry coulis
+14,1,Saku,IN,No,5,No,lemon cream cheese; blueberry reduction buttercream,orange; poppy seed; orange buttercream
+14,1,Tasha,IN,No,11,No,black sesame; yuzu and lime curd,dark chocolate; ginger; Italian meringue buttercream; tahini
+14,2,Abbi,IN,No,1,No,orange zest; saffron marshmallow; pistachio; cardamom,marzipan; cherry;lemon;earl grey; brandy snap;apricot;pistachio;thyme
+14,2,Amos,NULL,NULL,NULL,NULL,NULL,NULL
+14,2,Cristy,IN,No,9,No,rosewater marshmallow; mixed berry jam; white chocolate,ginger; marzipan; orange; pistachio; almond; dried cherry
+14,2,Dan,IN,No,2,No,dark chocolate; banana marshmallow; peanut butter ganache,gingerbread;pistachio; vanilla; orange curd
+14,2,Dana,IN,No,7,No,ginger;mixed spice;cinnamon; speculoos; vanilla marshmallow,maple syrup; pecan; date; tuile
+14,2,Josh,IN,No,6,Yes,blackberry; blackcurrant; dried cherry; vanilla marshmallow,gingerbread;florentine;orange;almond;strawberry; walnut; pecan
+14,2,Keith,OUT,No,11,No,fresh raspberries; peanut butter ganache; raspberry jam,raspberry;lemon;almond tuile;gingerbread crust
+14,2,Matty,IN,No,5,No,orange jam; dark chocolate; orange marshmallow,coconut; lime; cranberry; pistachio
+14,2,Nicky,IN,No,4,No,Rhubarb and ginger jam; vanilla marshmallow; pistachio,chocolate ganache;orange; hazelnut;rosehp marzipan; gingerbread
+14,2,Rowan,IN,No,3,No,lemon; rosemary; parma violet marshmallow; raspberry gel,gingerbread
+14,2,Saku,IN,No,10,No,raspberry jam; pistachio; dark chocolate,coconut; cardamom; cheddar; rosemary; black pepper; gingerbread; chocolate; coffee
+14,2,Tasha,STARBAKER,Yes,8,No,caramelised white chocolate ganache; malted chocolate; malted marshmallow,orange; almond;matcha; limoncello; white chocolate
+14,3,Abbi,OUT,No,8,No,rosemary; smoked garlic,walnut;stilton cheese;wild garlic;nettle;dock flour
+14,3,Amos,NULL,NULL,NULL,NULL,NULL,NULL
+14,3,Cristy,IN,No,6,No,dried cranberries; walnut; rosemary,honey; milk chocolate;dark chocolate;almond
+14,3,Dan,IN,No,10,No,wild garlic; rosemary; bacon,mozzarella;fennel sausage; nduja sausage; smoked provolone; truffle salami; truffle cheddar
+14,3,Dana,IN,No,3,No,chipotle; smoked cheddar; bacon; smoked paprika,green chutney; coriander paste;garlic;ginger;sun-dried tomato;parmesan
+14,3,Josh,IN,No,4,No,honey; spicy nduja sausage; black olvies; basil; gruyere,cranberry; orange zest; orange juice; chocolate
+14,3,Keith,NULL,NULL,NULL,NULL,NULL,NULL
+14,3,Matty,IN,No,7,No,black olives; green olives; sundried tomato; parmesan; chili flakes,tumeric;cumin;curry powder;cheddar;jalapeno;sun-dried tomato;basil;onion
+14,3,Nicky,IN,No,5,No,roast garlic; rosemary,comte cheese; lardon; date; pecan
+14,3,Rowan,IN,No,9,No,kalamata olives; sundried tomato,bacon;parmesan;marzipan;garam masala;rowanberries
+14,3,Saku,IN,No,1,No,cinnamon; orange zest,garlic;rosemary;mixed seeds;pumpkin seeds
+14,3,Tasha,STARBAKER,No,2,No,rosemary; garlic; sunflower seed; pumpkin seed; poppy seed,pastrami;cheese;pistachio pesto
+14,4,Abbi,NULL,NULL,NULL,NULL,NULL,NULL
+14,4,Amos,NULL,NULL,NULL,NULL,NULL,NULL
+14,4,Cristy,IN,No,7,No,cherry brandy chantilly cream;white chocolate; ground almond;fresh berries; dark chocolate;fresh cherry,white chocolate;hazelnut;mascarpone;espresso;roasted hazelnut; hazelnut praline;chocolate ganache
+14,4,Dan,IN,No,1,No,ground hazelnuts;guanabana fruit liqueur;dark chocolate; fresh raspberry; white chocolate;chili chocolate truffle,white chocolate mousse; pineapple; mango;passion fruit; coconut dacquoise; white chocolate; rum-soaked raisins; caramel
+14,4,Dana,IN,No,5,No,ground almond;cherry compote;white chocolate mascarpone buttercream;candied almonds,white chocolate; chocolate;salted peanut caramel; peanut butter;cream cheese;popping candy;irish cream liqueur
+14,4,Josh,IN,No,6,No,ground pecans;chocolate cremeux;raspberry chantilly cream;fresh raspberry,caramel buttercream; chocolate; roasted hazelnuts; salted caramel; vanilla; white chocolate truffles
+14,4,Keith,NULL,NULL,NULL,NULL,NULL,NULL
+14,4,Matty,STARBAKER,No,2,No,ground hazelnuts;chocolate cremeux; ground almond;chocolate;praline mousse,raspberry coulis;crème mousseline;chocolate;pistachio paste;espresso powder;fresh raspberry;lemon
+14,4,Nicky,IN,No,4,No,vanilla rum; chocolate mousse;almond nougatine;freeze-dried raspberries;chocolate,salted caramel; chocolate ganache;lemongrass;coconut;chai;orange liqueur;roasted hazelnut
+14,4,Rowan,IN,No,3,No,espresso; cocoa powder;milk chocolate mousse; coffee swiss meringue buttercream;chocolate ganache,dark chocolate;white chocolate;espresso; chocolate orange;swiss meringue buttercream; orange juice; orange curd;orange liqueur; raspberry
+14,4,Saku,IN,No,8,No,raspberry jam;dark chocolate ganache;white chocolate;ground almond;,pistachio;white chocolate;cream cheese;ruby chocolate;raspberry;coffee
+14,4,Tasha,SKIP,NULL,NULL,NULL,ground almonds;stem ginger;ground ginger;amaretto;dark chocolate;caramlised almonds;mascarpone kisses,NULL
+14,5,Abbi,NULL,NULL,NULL,NULL,NULL,NULL
+14,5,Amos,NULL,NULL,NULL,NULL,NULL,NULL
+14,5,Cristy,STARBAKER,Yes,5,No,cream; leek; garlic;mushroom,raspberry jam;spiced apple;blueberry; frangipane;sultana
+14,5,Dan,IN,No,1,No,turmeric; cumin; lamb,chocolate; grape; cherry; tropical fruit
+14,5,Dana,IN,No,2,No,potato dauphinoise; caramlised onion; comte cheese; rosemary,frangipane;mulled wine;apple;baklava filling
+14,5,Josh,IN,No,8,No,sausage; strong cheese;,pineapple;apricot;apple;blackberry;coconut
+14,5,Keith,NULL,NULL,NULL,NULL,NULL,NULL
+14,5,Matty,IN,No,7,No,spinach;ricotta;red pepper;fet;oregano,rhubarb;custard;apple;cinnamon;plum;stem ginger;orange juice
+14,5,Nicky,OUT,No,9,No,ham;sausage;saucisson;cheddar;reblochon cheese,apple;plum;pear;frangipane;rhubarb;ginger;custard
+14,5,Rowan,OUT,No,4,No,streaky bacon; cumberland sausage; sweet potato,lemon;blueberry;frangipane;flaked almonds;chocolate;cherry; vanilla
+14,5,Saku,IN,No,6,No,tuna; spiced potato;quail egg,pineapple;cherry;rum;apple;cream cheese;cinnamon
+14,5,Tasha,IN,No,3,No,sausage; apple; cranberry; sage; nutmeg,apricot;pecan;ricotta;chestnut;blueberry
+14,6,Abbi,NULL,NULL,NULL,NULL,NULL,NULL
+14,6,Amos,NULL,NULL,NULL,NULL,NULL,NULL
+14,6,Cristy,IN,No,1,No,cinnamon; maple; pecan,elderflower;lemon;strawberry;crème diplomat;rhubarb;basil;white chocolate
+14,6,Dan,IN,No,3,No,saffron;lemon;orange;fig;star anise;cinnamon,dandelion syrup;elder flower;choux;meadowsweet buttercream
+14,6,Dana,OUT,No,6,No,cardamom;pistachio;orange;rose petals,rose;raspberry;white chocolate;hibiscus;coconut
+14,6,Josh,STARBAKER,No,2,No,lemon curd;cinnamon;fresh blueberry;dried blueberry,rhubarb;raspberry;hibiscus
+14,6,Keith,NULL,NULL,NULL,NULL,NULL,NULL
+14,6,Matty,IN,No,4,No,dried fruit;cinnamon;nutmet;ginger;rum,elder flower; blackberry;prosecco;lemon cremeux;custard
+14,6,Nicky,NULL,NULL,NULL,NULL,NULL,NULL
+14,6,Rowan,NULL,NULL,NULL,NULL,NULL,NULL
+14,6,Saku,IN,No,5,No,cinnamon; cardamom,hibiscus;earl grey;ginger bread
+14,6,Tasha,IN,No,7,No,mulled wine;cinnamon;nutmet;clove,elderflower;hibiscus;ruby chocolate;raspberry
