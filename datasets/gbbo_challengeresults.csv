@@ -483,7 +483,7 @@ series,episode,baker,outcome,signature_handshake,technical,showstopper_handshake
 6,10,Ian,RUNNERUP,No,2,No,NULL,NULL
 6,10,Marie,NULL,NULL,NULL,NULL,NULL,NULL
 6,10,Mat,NULL,NULL,NULL,NULL,NULL,NULL
-6,10,Nadiya,WINNER,Yes,1,No,NULL,NULL
+6,10,Nadiya,WINNER,No,1,No,NULL,NULL
 6,10,Paul,NULL,NULL,NULL,NULL,NULL,NULL
 6,10,Sandy,NULL,NULL,NULL,NULL,NULL,NULL
 6,10,Stu,NULL,NULL,NULL,NULL,NULL,NULL
@@ -1286,10 +1286,10 @@ series,episode,baker,outcome,signature_handshake,technical,showstopper_handshake
 13,6,Janusz,IN,No,2,No,Pink apple;caramel;ginger;nutmeg;all spice;chocolate;cinnamon;clove,White chocolate;almond;almond flour;almond extract;clove;nutmeg;ginger;cinnamon;pumpkin;pistachio;cricket powder;smoked cricket
 13,6,Kevin,IN,No,3,No,Almond;cream cheese;Braeburn apple;streusel;bourbon;spiced cider;caramel,Orange zest;5 spice;apple puree;creme mousseline;marshmallow;toffee;peanut;chocolate ganache
 13,6,Maisam,NULL,NULL,NULL,NULL,NULL,NULL
-13,6,Maxy,IN,No,6,No,Pink apple;green apple;cream cheese;walnut;spice;apple puree;salted caramel,Orange zest;pumpkin;chocolate;cinnamon;ginger;clove;nutmeg;hazelnut
+13,6,Maxy,IN,Yes,6,No,Pink apple;green apple;cream cheese;walnut;spice;apple puree;salted caramel,Orange zest;pumpkin;chocolate;cinnamon;ginger;clove;nutmeg;hazelnut
 13,6,Rebs,NULL,NULL,NULL,NULL,NULL,NULL
 13,6,Sandro,IN,No,4,No,Bramley apples;cinnamon whiskey;caramel;spice;walnut crumble,Chocolate;candied orange;hazelnuts;espresso;cayenne pepper
-13,6,Syabira,STARBAKER,No,1,No,Chili;green apple;pink apple;sour plum;cream cheese,Coriander;cinnamon;clove;star anise;peanut;almond;white truffle maple syrup;orange zest
+13,6,Syabira,STARBAKER,Yes,1,No,Chili;green apple;pink apple;sour plum;cream cheese,Coriander;cinnamon;clove;star anise;peanut;almond;white truffle maple syrup;orange zest
 13,6,Will,NULL,NULL,NULL,NULL,NULL,NULL
 13,7,Abdul,IN,No,4,No,Orange zest;vanilla;pistachio praline;caramelized sugar;cherry coulis,Chocolate creme patissiere;vanilla creme diplomat;raspberry;lime zest;strawberry;caramelized peach
 13,7,Carole,NULL,NULL,NULL,NULL,NULL,NULL
@@ -1411,3 +1411,15 @@ series,episode,baker,outcome,signature_handshake,technical,showstopper_handshake
 14,6,Rowan,NULL,NULL,NULL,NULL,NULL,NULL
 14,6,Saku,IN,No,5,No,cinnamon; cardamom,hibiscus;earl grey;ginger bread
 14,6,Tasha,IN,No,7,No,mulled wine;cinnamon;nutmet;clove,elderflower;hibiscus;ruby chocolate;raspberry
+14,7,Abbi,NULL,NULL,NULL,NULL,NULL,NULL
+14,7,Amos,NULL,NULL,NULL,NULL,NULL,NULL
+14,7,Cristy,IN,No,4,No,orange;orange liqueur;orange zest;nutmeg,summer berry crème diplomat;raspberry glaze;berry coulis
+14,7,Dan,STARBAKER,No,2,No,galangal;coriander root;lemongrass;lime;sesame seed tuiles,chocolate genoise;orange crème pat;strawberry bavarois; raspberry jelly; raspberry
+14,7,Dana,NULL,NULL,NULL,NULL,NULL,NULL
+14,7,Josh,IN,No,3,No,plum;cinnamon;orange zest;chocolate;orange juice,strawberry mousse; strawberry jam; shortcake;mascarpone whipped cream;strawberry
+14,7,Keith,NULL,NULL,NULL,NULL,NULL,NULL
+14,7,Matty,IN,No,6,No,chai tea;coconut milk; vanilla; coconut shavings,Strawberry;pistachio;basil;buttercream
+14,7,Nicky,NULL,NULL,NULL,NULL,NULL,NULL
+14,7,Rowan,NULL,NULL,NULL,NULL,NULL,NULL
+14,7,Saku,OUT,No,5,No,jaggery;cardamom;nutmeg;coconut;,marzipan;passion fruit;pistachio and irish cream;dark chocolate;white chocolate
+14,7,Tasha,IN,No,1,No,rosemary;honeycomb tuile;honey;fig compote,plum;ginger;marzipan
