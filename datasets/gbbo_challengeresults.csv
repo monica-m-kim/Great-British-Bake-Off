@@ -1423,3 +1423,15 @@ series,episode,baker,outcome,signature_handshake,technical,showstopper_handshake
 14,7,Rowan,NULL,NULL,NULL,NULL,NULL,NULL
 14,7,Saku,OUT,No,5,No,jaggery;cardamom;nutmeg;coconut;,marzipan;passion fruit;pistachio and irish cream;dark chocolate;white chocolate
 14,7,Tasha,IN,No,1,No,rosemary;honeycomb tuile;honey;fig compote,plum;ginger;marzipan
+14,8,Abbi,NULL,NULL,NULL,NULL,NULL,NULL
+14,8,Amos,NULL,NULL,NULL,NULL,NULL,NULL
+14,8,Cristy,OUT,No,2,No,orange;cranberry;red onion;garlic;sage;pork,tomato;curry powder; tumeric;chocolate;lemon meringue;spice; beef; cheese
+14,8,Dan,IN,No,5,No,green onion;soy sauce;pork;prawn;water chestnut;ginger;garlic;five spice,curry powder; coconut milk; chicken;walnut;lemon;tea cakes; white chocolate; dark chocolate; vanilla mousse
+14,8,Dana,NULL,NULL,NULL,NULL,NULL,NULL
+14,8,Josh,IN,No,4,No,brussel sprouts;turkey;pork;chestnut;apricot;cranberry,pureed spinach;pesto;chocolate;coconut;cheese
+14,8,Keith,NULL,NULL,NULL,NULL,NULL,NULL
+14,8,Matty,STARBAKER,Yes,3,No,onion;apple;pork;sage;chilli;poppy seeds,curry powder; fenugreek;crème brulee;chocolate;orange
+14,8,Nicky,NULL,NULL,NULL,NULL,NULL,NULL
+14,8,Rowan,NULL,NULL,NULL,NULL,NULL,NULL
+14,8,Saku,NULL,NULL,NULL,NULL,NULL,NULL
+14,8,Tasha,IN,No,1,No,red onion;green onion;pork;apple;apricot;almonds;cider;pork,beet root;pistachio;raspberry;black beery; crème diplomat;za'atar;sumac;peach
