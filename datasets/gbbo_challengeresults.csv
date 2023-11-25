@@ -1435,3 +1435,15 @@ series,episode,baker,outcome,signature_handshake,technical,showstopper_handshake
 14,8,Rowan,NULL,NULL,NULL,NULL,NULL,NULL
 14,8,Saku,NULL,NULL,NULL,NULL,NULL,NULL
 14,8,Tasha,IN,No,1,No,red onion;green onion;pork;apple;apricot;almonds;cider;pork,beet root;pistachio;raspberry;black beery; crème diplomat;za'atar;sumac;peach
+14,9,Abbi,NULL,NULL,NULL,NULL,NULL,NULL
+14,9,Amos,NULL,NULL,NULL,NULL,NULL,NULL
+14,9,Cristy,NULL,NULL,NULL,NULL,NULL,NULL
+14,9,Dan,IN,Yes,3,No,pistachio;matcha;pink peppercorn;yuzu gel;tonka bean;orange;vanilla;raspberry;blueberry;strawberry;macerated peach,chocolate crème diplomat; coffee; amaretto mousse; raspberry;strawberry;blueberry;tuile
+14,9,Dana,NULL,NULL,NULL,NULL,NULL,NULL
+14,9,Josh,STARBAKER,No,1,No,ground almond;almond extract;chocolate;hazelnut;orange;vanilla;raspberry;flaked almonds,lemon crème diplomat;black berry curd; blackberry jam;raspberry
+14,9,Keith,NULL,NULL,NULL,NULL,NULL,NULL
+14,9,Matty,IN,No,2,No,coffee;mango;lime;coconut;chocolate ganache;vanilla mascarpone cream;white chocolate ganache,plum;marsala;amaretto;limoncello;lemon;peach
+14,9,Nicky,NULL,NULL,NULL,NULL,NULL,NULL
+14,9,Rowan,NULL,NULL,NULL,NULL,NULL,NULL
+14,9,Saku,NULL,NULL,NULL,NULL,NULL,NULL
+14,9,Tasha,OUT,No,4,No,coffee;raspberry;pistachio;hazelnut; chocolate ganache;swiss meringue buttercream,mango;lime;mint;white chocolate;rum
