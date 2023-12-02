@@ -1447,3 +1447,15 @@ series,episode,baker,outcome,signature_handshake,technical,showstopper_handshake
 14,9,Rowan,NULL,NULL,NULL,NULL,NULL,NULL
 14,9,Saku,NULL,NULL,NULL,NULL,NULL,NULL
 14,9,Tasha,OUT,No,4,No,coffee;raspberry;pistachio;hazelnut; chocolate ganache;swiss meringue buttercream,mango;lime;mint;white chocolate;rum
+14,10,Abbi,NULL,NULL,NULL,NULL,NULL,NULL
+14,10,Amos,NULL,NULL,NULL,NULL,NULL,NULL
+14,10,Cristy,NULL,NULL,NULL,NULL,NULL,NULL
+14,10,Dan,RUNNERUP,No,2,No,strawberry; chantilly cream; salted caramel; marcarpone cream; praline; fruit punch jelly; chocolate,lemon curd;raspberry;limoncello;italian meringue;white chocolate
+14,10,Dana,NULL,NULL,NULL,NULL,NULL,NULL
+14,10,Josh,RUNNERUP,No,1,No,mango;coconut;raspberry;coffee;dark chocolate,lemon;apple;rhubarb;strawberry
+14,10,Keith,NULL,NULL,NULL,NULL,NULL,NULL
+14,10,Matty,WINNER,No,3,No,cherry; kirsch chantilly cream;chocolate; banana; toffee; walnut; pecan,chocolate; french buttercream; brownie;lemon;rosemary;summer fruit jam
+14,10,Nicky,NULL,NULL,NULL,NULL,NULL,NULL
+14,10,Rowan,NULL,NULL,NULL,NULL,NULL,NULL
+14,10,Saku,NULL,NULL,NULL,NULL,NULL,NULL
+14,10,Tasha,NULL,NULL,NULL,NULL,NULL,NULL
