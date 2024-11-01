@@ -1519,4 +1519,15 @@ series,episode,baker,outcome,signature_handshake,technical,showstopper_handshake
 15,5,Mike,OUT,NULL,NULL,NULL,NULL,NULL
 15,5,Nelly,IN,No,3,No,blood orange;hazelnut and almond frangipane;italian meringue,pistachio praline cream;raspberry jam;coconut cream
 15,5,Sumayah,IN,No,4,No,coconut frangipane;raspberry gel;meringue,passion fruit mousseline;dark chocolate ganache
-,,,,,,,, 
+15,6,Andy,OUT,NULL,NULL,NULL,NULL,NULL
+15,6,Christiaan,IN,No,6,No,speculaas;poached quince;ginger;lemon;pumpkin;almond paste;cloves,parsnip;apple;celeriac;maple meringue buttercream;ginger;marrow jam
+15,6,Dylan,IN,No,4,No,apple;cider;walnut,cardamom;cream cheese frosting;orange;beetroot;white chocolate
+15,6,Georgie,IN,No,2,No,pumpkin;clove;ginger;cinnamon;nutmeg;pecan praline,pumpkin;carrot;spices;pecan praline
+15,6,Gill,IN,No,7,No,magarine;apple;blackberry;lard,spice;carrot;buttercream;meringue
+15,6,Hazel,OUT,NULL,NULL,NULL,NULL,NULL
+15,6,Illiyin,IN,No,1,No,blueberry;ginger;poached pear,carrot;courgette;orange mascarpone cream;walnut praline buttercream
+15,6,Jeff,OUT,NULL,NULL,NULL,NULL,NULL
+15,6,John,OUT,NULL,NULL,NULL,NULL,NULL
+15,6,Mike,OUT,NULL,NULL,NULL,NULL,NULL
+15,6,Nelly,OUT,No,5,No,poppyseed;apple,spinach;chocolate;avocado;plum jelly
+15,6,Sumayah,STARBAKER,No,3,Yes,butternut squash;pecan;custard;spices,parsnip;beetroot;orange;cumin;fennel;nutmeg;cardamom;ginger;walnut;black currant jam;chocolate
