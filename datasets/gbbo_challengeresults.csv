@@ -1531,3 +1531,15 @@ series,episode,baker,outcome,signature_handshake,technical,showstopper_handshake
 15,6,Mike,OUT,NULL,NULL,NULL,NULL,NULL
 15,6,Nelly,OUT,No,5,No,poppyseed;apple,spinach;chocolate;avocado;plum jelly
 15,6,Sumayah,STARBAKER,No,3,Yes,butternut squash;pecan;custard;spices,parsnip;beetroot;orange;cumin;fennel;nutmeg;cardamom;ginger;walnut;black currant jam;chocolate
+15,6,Andy,OUT,NULL,NULL,NULL,NULL,NULL
+15,6,Christiaan,IN,No,3,No,rose water;walnut praline;sour moretto cherry jam;chantilly cream,coffee;mascarpone;roasted pistachios;masala wine;rose water;strawberry;white chocolate;dark chocolate
+15,6,Dylan,STARBAKER,Yes,1,No,dark chocolate; coconut bavarois; passion fruit; rum,coffee;mascarpone;dark chocolate;cured egg yolks;amaretto
+15,6,Georgie,IN,No,2,No,orange curd;almond extract;plum compote;mascarpone;amaretto cream;candied orange,coffee;mascarpone;hazelnut praline;chocolate
+15,6,Gill,IN,No,4,No,peach;raspberry;raspberry coulis;chantilly cream;peach cremeux; tinned peach,coffee;mascarpone;coconut cream;chocolate
+15,6,Hazel,OUT,NULL,NULL,NULL,NULL,NULL
+15,6,Illiyin,IN,No,5,No,lime jelly; pineapple curd; non-alcoholic rum;desiccated coconut,coffee;mascarpone;chocolate;cherry;almond biscuit;non-alcoholic amaretto
+15,6,Jeff,OUT,NULL,NULL,NULL,NULL,NULL
+15,6,John,OUT,NULL,NULL,NULL,NULL,NULL
+15,6,Mike,OUT,NULL,NULL,NULL,NULL,NULL
+15,6,Nelly,OUT,NULL,NULL,NULL,NULL,NULL
+15,6,Sumayah,OUT,No,6,No,rice powder;cardamom;honey;tarragon;pomegranate;molasses;cloves;apricot;walnut praline,coffee;mascarpone;lemon curd;praline;chocolate cremeux
