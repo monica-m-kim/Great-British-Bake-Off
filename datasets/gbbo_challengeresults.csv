@@ -1543,3 +1543,15 @@ series,episode,baker,outcome,signature_handshake,technical,showstopper_handshake
 15,6,Mike,OUT,NULL,NULL,NULL,NULL,NULL
 15,6,Nelly,OUT,NULL,NULL,NULL,NULL,NULL
 15,6,Sumayah,OUT,No,6,No,rice powder;cardamom;honey;tarragon;pomegranate;molasses;cloves;apricot;walnut praline,coffee;mascarpone;lemon curd;praline;chocolate cremeux
+15,6,Andy,OUT,NULL,NULL,NULL,NULL,NULL
+15,6,Christiaan,IN,No,2,No,chocolate;kirsch;cherry jam;chantilly cream,hazelnut;advocaat curd;buttercream;
+15,6,Dylan,IN,Yes,3,No,nougatine;banana creme patissiere;salted caramel,chocolate;peppermint;buttercream
+15,6,Georgie,STARBAKER,No,1,No,white chocolate;coconut;crème patissiere;dark chocolate;salted caramel,cherry;chocolate;mascarpone cream;buttercream
+15,6,Gill,IN,No,5,No,hazelnut;chocolate;creme patissiere,cherry;black cocoa;mascarpone;buttercream
+15,6,Hazel,OUT,NULL,NULL,NULL,NULL,NULL
+15,6,Illiyin,OUT,No,4,No,white chocolate;raspberry compote;brown butter caramel; hazelnut; amaretto; creme diplomat,canned peach;raspberry;champagne;white chocolate
+15,6,Jeff,OUT,NULL,NULL,NULL,NULL,NULL
+15,6,John,OUT,NULL,NULL,NULL,NULL,NULL
+15,6,Mike,OUT,NULL,NULL,NULL,NULL,NULL
+15,6,Nelly,OUT,NULL,NULL,NULL,NULL,NULL
+15,6,Sumayah,OUT,NULL,NULL,NULL,NULL,NULL
