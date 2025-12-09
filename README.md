@@ -22,7 +22,8 @@ There are 5 data sets in this repository:
 
 
 ### What work I have done
-I have set up a SQL database to explore the data set while practicing mySQL statements. I am also utilizing Python to build models to predict winners and analyze ingredients/flavors to find the flavor combination that can increase the chance of winning.
+I have set up a SQL database to explore the data set while practicing mySQL statements. 
+I utilized Claude and built an artifact that contains prediction of winners, stats, and more. You can check it from here https://claude.ai/public/artifacts/1232dbb7-e630-45ee-b04b-3507e076dc58
 
 
 ### Ask for the community
