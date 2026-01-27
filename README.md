@@ -23,7 +23,7 @@ There are 5 data sets in this repository:
 
 ### What work I have done
 I have set up a SQL database to explore the data set while practicing mySQL statements. 
-I utilized Claude and built an artifact that contains prediction of winners, stats, and more. You can check it from here https://claude.ai/public/artifacts/1232dbb7-e630-45ee-b04b-3507e076dc58
+I utilized Claude and built an artifact that contains prediction of winners, stats, and more. You can check it from here https://claude.ai/public/artifacts/3ed2a677-e874-4ff9-92a8-ec3ab81b1f94
 
 
 ### Ask for the community
